@@ -1,0 +1,1075 @@
+id,date,home_team_score,period,postseason,season,status,time,visitor_team_score,home_team.id,home_team.abbreviation,home_team.city,home_team.conference,home_team.division,home_team.full_name,home_team.name,visitor_team.id,visitor_team.abbreviation,visitor_team.city,visitor_team.conference,visitor_team.division,visitor_team.full_name,visitor_team.name
+24403,2011-12-26T00:00:00.000Z,99,4,False,2011,Final, ,91,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+24404,2011-12-27T00:00:00.000Z,98,4,False,2011,Final, ,95,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+24405,2011-12-28T00:00:00.000Z,95,4,False,2011,Final, ,98,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+24406,2011-12-29T00:00:00.000Z,111,4,False,2011,Final, ,102,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+24407,2011-12-30T00:00:00.000Z,105,4,False,2011,Final, ,98,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+24408,2011-12-31T00:00:00.000Z,96,4,False,2011,Final, ,88,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+24409,2012-01-01T00:00:00.000Z,99,4,False,2011,Final, ,82,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+24410,2012-01-02T00:00:00.000Z,106,4,False,2011,Final, ,96,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+24517,2011-12-27T00:00:00.000Z,70,4,False,2011,Final, ,106,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+24518,2011-12-28T00:00:00.000Z,101,4,False,2011,Final, ,83,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+24519,2011-12-29T00:00:00.000Z,99,4,False,2011,Final, ,82,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+24520,2011-12-30T00:00:00.000Z,98,4,False,2011,Final, ,91,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+24521,2011-12-30T00:00:00.000Z,101,4,False,2011,Final, ,114,13,LAC,LA,West,Pacific,LA Clippers,Clippers,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+24522,2011-12-31T00:00:00.000Z,92,4,False,2011,Final, ,89,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+24523,2012-01-01T00:00:00.000Z,96,4,False,2011,Final, ,80,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+24524,2012-01-02T00:00:00.000Z,94,4,False,2011,Final, ,108,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+24525,2012-01-04T00:00:00.000Z,101,4,False,2011,Final, ,95,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+24526,2012-01-06T00:00:00.000Z,88,4,False,2011,Final, ,96,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+24527,2012-01-07T00:00:00.000Z,95,4,False,2011,Final, ,98,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+24528,2012-01-08T00:00:00.000Z,72,4,False,2011,Final, ,93,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+24529,2012-01-09T00:00:00.000Z,81,4,False,2011,Final, ,94,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+24530,2012-01-10T00:00:00.000Z,86,4,False,2011,Final, ,100,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+24531,2012-01-11T00:00:00.000Z,91,4,False,2011,Final, ,98,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+24532,2012-01-11T00:00:00.000Z,95,4,False,2011,Final, ,89,13,LAC,LA,West,Pacific,LA Clippers,Clippers,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+24533,2012-01-12T00:00:00.000Z,94,4,False,2011,Final, ,83,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+24534,2012-01-13T00:00:00.000Z,80,4,False,2011,Final, ,87,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+24535,2012-01-14T00:00:00.000Z,77,4,False,2011,Final, ,64,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+24536,2012-01-16T00:00:00.000Z,93,4,False,2011,Final, ,84,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+24537,2012-01-17T00:00:00.000Z,95,4,False,2011,Final, ,105,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+24538,2012-01-18T00:00:00.000Z,96,4,False,2011,Final, ,73,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+24539,2012-01-20T00:00:00.000Z,86,4,False,2011,Final, ,88,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+24540,2012-01-21T00:00:00.000Z,128,4,False,2011,Final, ,95,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+24541,2012-01-23T00:00:00.000Z,90,4,False,2011,Final, ,91,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+24542,2012-01-25T00:00:00.000Z,90,4,False,2011,Final, ,105,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+24543,2012-01-27T00:00:00.000Z,107,4,False,2011,Final, ,100,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+24544,2012-01-27T00:00:00.000Z,109,4,False,2011,Final, ,71,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+24545,2012-01-28T00:00:00.000Z,95,4,False,2011,Final, ,74,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+24546,2012-01-29T00:00:00.000Z,87,4,False,2011,Final, ,88,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+24791,2011-12-27T00:00:00.000Z,115,4,False,2011,Final, ,107,16,MIA,Miami,East,Southeast,Miami Heat,Heat,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+24792,2011-12-28T00:00:00.000Z,95,4,False,2011,Final, ,96,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+24793,2011-12-30T00:00:00.000Z,102,4,False,2011,Final, ,81,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+24794,2012-01-01T00:00:00.000Z,93,4,False,2011,Final, ,88,13,LAC,LA,West,Pacific,LA Clippers,Clippers,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+24795,2012-01-02T00:00:00.000Z,100,4,False,2011,Final, ,92,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+24796,2012-01-03T00:00:00.000Z,108,4,False,2011,Final, ,99,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+24797,2012-01-04T00:00:00.000Z,103,4,False,2011,Final, ,85,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+24798,2012-01-06T00:00:00.000Z,83,4,False,2011,Final, ,97,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+24799,2012-01-07T00:00:00.000Z,92,4,False,2011,Final, ,86,13,LAC,LA,West,Pacific,LA Clippers,Clippers,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+24800,2012-01-08T00:00:00.000Z,97,4,False,2011,Final, ,104,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+24801,2012-01-09T00:00:00.000Z,91,4,False,2011,Final, ,87,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+24802,2012-01-10T00:00:00.000Z,70,4,False,2011,Final, ,82,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+24803,2012-01-10T00:00:00.000Z,111,4,False,2011,Final, ,106,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+24804,2012-01-11T00:00:00.000Z,96,4,False,2011,Final, ,84,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+24805,2012-01-12T00:00:00.000Z,111,4,False,2011,Final, ,81,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+24806,2012-01-13T00:00:00.000Z,103,4,False,2011,Final, ,89,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+24807,2012-01-14T00:00:00.000Z,99,4,False,2011,Final, ,60,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+24808,2012-01-15T00:00:00.000Z,102,4,False,2011,Final, ,91,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+24809,2012-01-16T00:00:00.000Z,102,4,False,2011,Final, ,86,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+24810,2012-01-18T00:00:00.000Z,87,4,False,2011,Final, ,93,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+24811,2012-01-20T00:00:00.000Z,75,4,False,2011,Final, ,114,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+24812,2012-01-21T00:00:00.000Z,74,4,False,2011,Final, ,84,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+24813,2012-01-23T00:00:00.000Z,101,4,False,2011,Final, ,89,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+24814,2012-01-25T00:00:00.000Z,90,4,False,2011,Final, ,95,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+24815,2012-01-27T00:00:00.000Z,116,4,False,2011,Final, ,101,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+24816,2012-01-30T00:00:00.000Z,112,4,False,2011,Final, ,100,13,LAC,LA,West,Pacific,LA Clippers,Clippers,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+24817,2012-01-31T00:00:00.000Z,90,4,False,2011,Final, ,93,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+24818,2012-02-01T00:00:00.000Z,100,4,False,2011,Final, ,64,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+24892,2011-12-27T00:00:00.000Z,101,4,False,2011,Final, ,79,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+24893,2011-12-28T00:00:00.000Z,85,4,False,2011,Final, ,90,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+24894,2011-12-30T00:00:00.000Z,102,4,False,2011,Final, ,99,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+24895,2011-12-31T00:00:00.000Z,104,4,False,2011,Final, ,89,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+24896,2012-01-01T00:00:00.000Z,86,4,False,2011,Final, ,94,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+24897,2012-01-02T00:00:00.000Z,85,4,False,2011,Final, ,90,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+24898,2012-01-03T00:00:00.000Z,76,4,False,2011,Final, ,74,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+24899,2012-01-04T00:00:00.000Z,83,4,False,2011,Final, ,99,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+24900,2012-01-05T00:00:00.000Z,107,4,False,2011,Final, ,96,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+24901,2012-01-06T00:00:00.000Z,96,4,False,2011,Final, ,73,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+24902,2012-01-07T00:00:00.000Z,97,4,False,2011,Final, ,62,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+24903,2012-01-08T00:00:00.000Z,109,4,False,2011,Final, ,93,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+24904,2012-01-09T00:00:00.000Z,92,4,False,2011,Final, ,68,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+24905,2012-01-10T00:00:00.000Z,93,4,False,2011,Final, ,78,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+24906,2012-01-11T00:00:00.000Z,87,4,False,2011,Final, ,90,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+24907,2012-01-12T00:00:00.000Z,109,4,False,2011,Final, ,117,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+24908,2012-01-13T00:00:00.000Z,120,4,False,2011,Final, ,89,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+24909,2012-01-14T00:00:00.000Z,97,4,False,2011,Final, ,83,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+24910,2012-01-16T00:00:00.000Z,94,4,False,2011,Final, ,102,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+24911,2012-01-17T00:00:00.000Z,108,4,False,2011,Final, ,79,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+24912,2012-01-18T00:00:00.000Z,104,4,False,2011,Final, ,108,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+24913,2012-01-18T00:00:00.000Z,91,4,False,2011,Final, ,89,13,LAC,LA,West,Pacific,LA Clippers,Clippers,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+24914,2012-01-19T00:00:00.000Z,98,4,False,2011,Final, ,87,16,MIA,Miami,East,Southeast,Miami Heat,Heat,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+24915,2012-01-20T00:00:00.000Z,104,4,False,2011,Final, ,108,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+24916,2012-01-21T00:00:00.000Z,113,4,False,2011,Final, ,92,16,MIA,Miami,East,Southeast,Miami Heat,Heat,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+24917,2012-01-22T00:00:00.000Z,82,4,False,2011,Final, ,91,16,MIA,Miami,East,Southeast,Miami Heat,Heat,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+24918,2012-01-23T00:00:00.000Z,92,4,False,2011,Final, ,97,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+24919,2012-01-24T00:00:00.000Z,83,4,False,2011,Final, ,102,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+24920,2012-01-25T00:00:00.000Z,91,4,False,2011,Final, ,81,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+24921,2012-01-27T00:00:00.000Z,99,4,False,2011,Final, ,89,16,MIA,Miami,East,Southeast,Miami Heat,Heat,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+24922,2012-01-29T00:00:00.000Z,101,4,False,2011,Final, ,106,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+24923,2012-01-30T00:00:00.000Z,88,4,False,2011,Final, ,98,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+24924,2012-01-31T00:00:00.000Z,100,4,False,2011,Final, ,97,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+24925,2012-02-01T00:00:00.000Z,105,4,False,2011,Final, ,97,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+24926,2012-02-02T00:00:00.000Z,119,4,False,2011,Final, ,101,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+24927,2012-02-03T00:00:00.000Z,79,4,False,2011,Final, ,99,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+24928,2012-02-04T00:00:00.000Z,107,4,False,2011,Final, ,96,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+24929,2012-02-06T00:00:00.000Z,90,4,False,2011,Final, ,99,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+24930,2012-02-08T00:00:00.000Z,99,4,False,2011,Final, ,92,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+24931,2012-02-08T00:00:00.000Z,67,4,False,2011,Final, ,90,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+24932,2012-02-10T00:00:00.000Z,109,4,False,2011,Final, ,92,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+24933,2012-02-10T00:00:00.000Z,112,4,False,2011,Final, ,113,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+24934,2012-02-11T00:00:00.000Z,94,4,False,2011,Final, ,99,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+24935,2012-02-12T00:00:00.000Z,92,4,False,2011,Final, ,94,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+24936,2012-02-13T00:00:00.000Z,102,4,False,2011,Final, ,96,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+24937,2012-02-14T00:00:00.000Z,121,4,False,2011,Final, ,115,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+24938,2012-02-14T00:00:00.000Z,86,4,False,2011,Final, ,78,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+24939,2012-02-15T00:00:00.000Z,100,4,False,2011,Final, ,105,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+24940,2012-02-15T00:00:00.000Z,96,4,False,2011,Final, ,95,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+24941,2012-02-16T00:00:00.000Z,71,4,False,2011,Final, ,74,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+24942,2012-02-17T00:00:00.000Z,94,4,False,2011,Final, ,85,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+24943,2012-02-17T00:00:00.000Z,114,4,False,2011,Final, ,100,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+24944,2012-02-17T00:00:00.000Z,111,4,False,2011,Final, ,99,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+24945,2012-02-18T00:00:00.000Z,100,4,False,2011,Final, ,103,13,LAC,LA,West,Pacific,LA Clippers,Clippers,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+24946,2012-02-18T00:00:00.000Z,97,4,False,2011,Final, ,77,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+24947,2012-02-19T00:00:00.000Z,93,4,False,2011,Final, ,92,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+24948,2012-02-19T00:00:00.000Z,96,4,False,2011,Final, ,81,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+24949,2012-02-19T00:00:00.000Z,101,4,False,2011,Final, ,85,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+24950,2012-02-20T00:00:00.000Z,90,4,False,2011,Final, ,79,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+24951,2012-02-20T00:00:00.000Z,90,4,False,2011,Final, ,93,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+24952,2012-02-20T00:00:00.000Z,103,4,False,2011,Final, ,101,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+24953,2012-02-20T00:00:00.000Z,104,4,False,2011,Final, ,97,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+24954,2012-02-21T00:00:00.000Z,101,4,False,2011,Final, ,100,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+25450,2011-12-28T00:00:00.000Z,92,4,False,2011,Final, ,78,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+25451,2011-12-29T00:00:00.000Z,94,4,False,2011,Final, ,78,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+25452,2011-12-30T00:00:00.000Z,113,4,False,2011,Final, ,93,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+25453,2011-12-31T00:00:00.000Z,79,4,False,2011,Final, ,107,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+25454,2012-01-01T00:00:00.000Z,99,4,False,2011,Final, ,90,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+25455,2012-01-02T00:00:00.000Z,92,4,False,2011,Final, ,100,16,MIA,Miami,East,Southeast,Miami Heat,Heat,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+25456,2012-01-03T00:00:00.000Z,85,4,False,2011,Final, ,73,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+25457,2012-01-04T00:00:00.000Z,92,4,False,2011,Final, ,77,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+25458,2012-01-04T00:00:00.000Z,110,4,False,2011,Final, ,83,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+25459,2012-01-05T00:00:00.000Z,93,4,False,2011,Final, ,71,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+25460,2012-01-06T00:00:00.000Z,96,4,False,2011,Final, ,99,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+25461,2012-01-07T00:00:00.000Z,121,4,False,2011,Final, ,117,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+25462,2012-01-10T00:00:00.000Z,105,4,False,2011,Final, ,97,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+25463,2012-01-11T00:00:00.000Z,123,4,False,2011,Final, ,115,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+25464,2012-01-13T00:00:00.000Z,90,4,False,2011,Final, ,95,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+25465,2012-01-13T00:00:00.000Z,97,4,False,2011,Final, ,92,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+25466,2012-01-14T00:00:00.000Z,90,4,False,2011,Final, ,103,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+25467,2012-01-14T00:00:00.000Z,102,4,False,2011,Final, ,94,13,LAC,LA,West,Pacific,LA Clippers,Clippers,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+25468,2012-01-15T00:00:00.000Z,91,4,False,2011,Final, ,99,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+25469,2012-01-16T00:00:00.000Z,94,4,False,2011,Final, ,82,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+25470,2012-01-17T00:00:00.000Z,118,4,False,2011,Final, ,97,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+25471,2012-01-18T00:00:00.000Z,83,4,False,2011,Final, ,85,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+25472,2012-01-19T00:00:00.000Z,91,4,False,2011,Final, ,94,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+25473,2012-01-20T00:00:00.000Z,90,4,False,2011,Final, ,76,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+25474,2012-01-21T00:00:00.000Z,108,4,False,2011,Final, ,98,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+25475,2012-01-22T00:00:00.000Z,96,4,False,2011,Final, ,98,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+25476,2012-01-23T00:00:00.000Z,110,4,False,2011,Final, ,95,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+25477,2012-01-25T00:00:00.000Z,99,4,False,2011,Final, ,105,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+25478,2012-01-27T00:00:00.000Z,93,4,False,2011,Final, ,67,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+25479,2012-01-28T00:00:00.000Z,86,4,False,2011,Final, ,84,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+25480,2012-01-29T00:00:00.000Z,85,4,False,2011,Final, ,106,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+25481,2012-01-30T00:00:00.000Z,74,4,False,2011,Final, ,69,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+25482,2012-02-01T00:00:00.000Z,99,4,False,2011,Final, ,91,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+25483,2012-02-03T00:00:00.000Z,106,4,False,2011,Final, ,89,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+25484,2012-02-04T00:00:00.000Z,96,4,False,2011,Final, ,87,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+25485,2012-02-06T00:00:00.000Z,99,4,False,2011,Final, ,88,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+25486,2012-02-07T00:00:00.000Z,105,4,False,2011,Final, ,107,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+25487,2012-02-08T00:00:00.000Z,93,4,False,2011,Final, ,107,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+25488,2012-02-09T00:00:00.000Z,89,4,False,2011,Final, ,96,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+25489,2012-02-10T00:00:00.000Z,89,4,False,2011,Final, ,106,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+25490,2012-02-11T00:00:00.000Z,97,4,False,2011,Final, ,94,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+25491,2012-02-12T00:00:00.000Z,88,4,False,2011,Final, ,98,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+25492,2012-02-14T00:00:00.000Z,109,4,False,2011,Final, ,92,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+25493,2012-02-15T00:00:00.000Z,100,4,False,2011,Final, ,85,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+25494,2012-02-15T00:00:00.000Z,102,4,False,2011,Final, ,84,13,LAC,LA,West,Pacific,LA Clippers,Clippers,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+25495,2012-02-16T00:00:00.000Z,89,4,False,2011,Final, ,80,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+25496,2012-02-17T00:00:00.000Z,91,4,False,2011,Final, ,98,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+25497,2012-02-17T00:00:00.000Z,103,4,False,2011,Final, ,102,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+25498,2012-02-18T00:00:00.000Z,104,4,False,2011,Final, ,103,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+25600,2011-12-30T00:00:00.000Z,78,4,False,2011,Final, ,93,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+25601,2011-12-31T00:00:00.000Z,95,4,False,2011,Final, ,84,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+25602,2012-01-01T00:00:00.000Z,104,4,False,2011,Final, ,64,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+25603,2012-01-02T00:00:00.000Z,89,4,False,2011,Final, ,78,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+25604,2012-01-03T00:00:00.000Z,93,4,False,2011,Final, ,103,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+25605,2012-01-04T00:00:00.000Z,89,4,False,2011,Final, ,70,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+25606,2012-01-06T00:00:00.000Z,109,4,False,2011,Final, ,94,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+25607,2012-01-06T00:00:00.000Z,97,4,False,2011,Final, ,90,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+25608,2012-01-07T00:00:00.000Z,109,4,False,2011,Final, ,94,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+25609,2012-01-10T00:00:00.000Z,99,4,False,2011,Final, ,83,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+25610,2012-01-11T00:00:00.000Z,78,4,False,2011,Final, ,64,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+25611,2012-01-13T00:00:00.000Z,102,4,False,2011,Final, ,76,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+25612,2012-01-14T00:00:00.000Z,112,4,False,2011,Final, ,100,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+25613,2012-01-16T00:00:00.000Z,88,4,False,2011,Final, ,97,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+25614,2012-01-17T00:00:00.000Z,97,4,False,2011,Final, ,80,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+25615,2012-01-18T00:00:00.000Z,88,4,False,2011,Final, ,91,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+25616,2012-01-20T00:00:00.000Z,71,4,False,2011,Final, ,79,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+25617,2012-01-21T00:00:00.000Z,114,4,False,2011,Final, ,119,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+25618,2012-01-22T00:00:00.000Z,94,4,False,2011,Final, ,100,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+25619,2012-01-23T00:00:00.000Z,102,4,False,2011,Final, ,104,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+25620,2012-01-24T00:00:00.000Z,97,4,False,2011,Final, ,84,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+25621,2012-01-25T00:00:00.000Z,90,4,False,2011,Final, ,97,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+25622,2012-01-25T00:00:00.000Z,93,4,False,2011,Final, ,122,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+25623,2012-01-27T00:00:00.000Z,96,4,False,2011,Final, ,99,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+25624,2012-01-27T00:00:00.000Z,109,4,False,2011,Final, ,120,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+25625,2012-01-28T00:00:00.000Z,99,4,False,2011,Final, ,102,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+25626,2012-01-29T00:00:00.000Z,72,4,False,2011,Final, ,94,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+25627,2012-01-30T00:00:00.000Z,73,4,False,2011,Final, ,83,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+25628,2012-01-31T00:00:00.000Z,93,4,False,2011,Final, ,90,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+25629,2012-02-01T00:00:00.000Z,98,4,False,2011,Final, ,82,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+25630,2012-02-02T00:00:00.000Z,91,4,False,2011,Final, ,112,13,LAC,LA,West,Pacific,LA Clippers,Clippers,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+25631,2012-02-03T00:00:00.000Z,102,4,False,2011,Final, ,94,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+25632,2012-02-04T00:00:00.000Z,90,4,False,2011,Final, ,113,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+25633,2012-02-06T00:00:00.000Z,87,4,False,2011,Final, ,108,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+25634,2012-02-07T00:00:00.000Z,107,4,False,2011,Final, ,91,16,MIA,Miami,East,Southeast,Miami Heat,Heat,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+25745,2012-01-04T00:00:00.000Z,98,4,False,2011,Final, ,89,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+25746,2012-01-06T00:00:00.000Z,87,4,False,2011,Final, ,98,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+25747,2012-01-07T00:00:00.000Z,87,4,False,2011,Final, ,88,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+25748,2012-01-08T00:00:00.000Z,90,4,False,2011,Final, ,82,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+25749,2012-01-09T00:00:00.000Z,97,4,False,2011,Final, ,87,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+25750,2012-01-10T00:00:00.000Z,95,4,False,2011,Final, ,100,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+25751,2012-01-11T00:00:00.000Z,85,4,False,2011,Final, ,79,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+25752,2012-01-13T00:00:00.000Z,103,4,False,2011,Final, ,110,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+25753,2012-01-14T00:00:00.000Z,108,4,False,2011,Final, ,99,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+25754,2012-01-15T00:00:00.000Z,96,4,False,2011,Final, ,106,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+25755,2012-01-16T00:00:00.000Z,93,4,False,2011,Final, ,102,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+25756,2012-01-16T00:00:00.000Z,73,4,False,2011,Final, ,70,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+25757,2012-01-17T00:00:00.000Z,96,4,False,2011,Final, ,89,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+25758,2012-01-18T00:00:00.000Z,107,4,False,2011,Final, ,100,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+25759,2012-01-19T00:00:00.000Z,90,4,False,2011,Final, ,88,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+25760,2012-01-20T00:00:00.000Z,84,4,False,2011,Final, ,94,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+25761,2012-01-20T00:00:00.000Z,91,4,False,2011,Final, ,94,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+25762,2012-01-21T00:00:00.000Z,121,4,False,2011,Final, ,94,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+25763,2012-01-23T00:00:00.000Z,92,4,False,2011,Final, ,107,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+25764,2012-01-24T00:00:00.000Z,92,4,False,2011,Final, ,85,16,MIA,Miami,East,Southeast,Miami Heat,Heat,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+25765,2012-01-25T00:00:00.000Z,92,4,False,2011,Final, ,75,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+25766,2012-01-25T00:00:00.000Z,96,4,False,2011,Final, ,91,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+25767,2012-01-26T00:00:00.000Z,98,4,False,2011,Final, ,91,13,LAC,LA,West,Pacific,LA Clippers,Clippers,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+25768,2012-01-27T00:00:00.000Z,89,4,False,2011,Final, ,72,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+25769,2012-01-27T00:00:00.000Z,96,4,False,2011,Final, ,81,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+25770,2012-01-28T00:00:00.000Z,97,4,False,2011,Final, ,84,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+25901,2012-01-10T00:00:00.000Z,106,4,False,2011,Final, ,103,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+25902,2012-01-11T00:00:00.000Z,85,4,False,2011,Final, ,90,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+25903,2012-01-13T00:00:00.000Z,117,4,False,2011,Final, ,104,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+25904,2012-01-14T00:00:00.000Z,93,4,False,2011,Final, ,91,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+25905,2012-01-16T00:00:00.000Z,99,4,False,2011,Final, ,86,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+25906,2012-01-17T00:00:00.000Z,95,4,False,2011,Final, ,105,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+26004,2012-01-18T00:00:00.000Z,105,4,False,2011,Final, ,102,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+26005,2012-01-20T00:00:00.000Z,98,4,False,2011,Final, ,101,13,LAC,LA,West,Pacific,LA Clippers,Clippers,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+26006,2012-01-21T00:00:00.000Z,81,4,False,2011,Final, ,83,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+26007,2012-01-23T00:00:00.000Z,99,4,False,2011,Final, ,79,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+26008,2012-01-24T00:00:00.000Z,96,4,False,2011,Final, ,99,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+26009,2012-01-25T00:00:00.000Z,106,4,False,2011,Final, ,111,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+26010,2012-01-27T00:00:00.000Z,87,4,False,2011,Final, ,79,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+26011,2012-01-28T00:00:00.000Z,100,4,False,2011,Final, ,89,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+26012,2012-01-29T00:00:00.000Z,97,4,False,2011,Final, ,93,16,MIA,Miami,East,Southeast,Miami Heat,Heat,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+26013,2012-01-30T00:00:00.000Z,108,4,False,2011,Final, ,120,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+26014,2012-01-31T00:00:00.000Z,113,4,False,2011,Final, ,86,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+26015,2012-02-01T00:00:00.000Z,99,4,False,2011,Final, ,96,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+26016,2012-02-02T00:00:00.000Z,95,4,False,2011,Final, ,92,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+26017,2012-02-03T00:00:00.000Z,88,4,False,2011,Final, ,80,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+26018,2012-02-04T00:00:00.000Z,100,4,False,2011,Final, ,91,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+26019,2012-02-06T00:00:00.000Z,92,4,False,2011,Final, ,100,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+26020,2012-02-07T00:00:00.000Z,94,4,False,2011,Final, ,84,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+26021,2012-02-08T00:00:00.000Z,102,4,False,2011,Final, ,89,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+26022,2012-02-10T00:00:00.000Z,92,4,False,2011,Final, ,85,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+26023,2012-02-11T00:00:00.000Z,84,4,False,2011,Final, ,98,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+26024,2012-02-12T00:00:00.000Z,77,4,False,2011,Final, ,98,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+26025,2012-02-13T00:00:00.000Z,86,4,False,2011,Final, ,80,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+26026,2012-02-14T00:00:00.000Z,93,4,False,2011,Final, ,83,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+26027,2012-02-15T00:00:00.000Z,98,4,False,2011,Final, ,87,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+26028,2012-02-15T00:00:00.000Z,99,4,False,2011,Final, ,101,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+26029,2012-02-16T00:00:00.000Z,93,4,False,2011,Final, ,88,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+26030,2012-02-17T00:00:00.000Z,114,4,False,2011,Final, ,108,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+26031,2012-02-17T00:00:00.000Z,87,4,False,2011,Final, ,111,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+26032,2012-02-19T00:00:00.000Z,124,4,False,2011,Final, ,118,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+26033,2012-02-19T00:00:00.000Z,102,4,False,2011,Final, ,90,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+26034,2012-02-20T00:00:00.000Z,92,4,False,2011,Final, ,100,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+26035,2012-02-20T00:00:00.000Z,89,4,False,2011,Final, ,73,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+26036,2012-02-21T00:00:00.000Z,120,4,False,2011,Final, ,108,16,MIA,Miami,East,Southeast,Miami Heat,Heat,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+26037,2012-02-22T00:00:00.000Z,103,4,False,2011,Final, ,93,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+26038,2012-02-22T00:00:00.000Z,110,4,False,2011,Final, ,91,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+26039,2012-02-22T00:00:00.000Z,100,4,False,2011,Final, ,98,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+26040,2012-02-22T00:00:00.000Z,103,4,False,2011,Final, ,95,13,LAC,LA,West,Pacific,LA Clippers,Clippers,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+26041,2012-02-23T00:00:00.000Z,102,4,False,2011,Final, ,88,16,MIA,Miami,East,Southeast,Miami Heat,Heat,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+26042,2012-02-23T00:00:00.000Z,100,4,False,2011,Final, ,85,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+26300,2011-12-25T00:00:00.000Z,94,4,False,2011,Final, ,105,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+26301,2011-12-25T00:00:00.000Z,97,4,False,2011,Final, ,89,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+26302,2011-12-26T00:00:00.000Z,91,4,False,2011,Final, ,79,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+26303,2011-12-26T00:00:00.000Z,93,4,False,2011,Final, ,115,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+26304,2011-12-28T00:00:00.000Z,83,4,False,2011,Final, ,103,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+26305,2011-12-29T00:00:00.000Z,98,4,False,2011,Final, ,108,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+26306,2011-12-30T00:00:00.000Z,96,4,False,2011,Final, ,85,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+26307,2011-12-31T00:00:00.000Z,107,4,False,2011,Final, ,97,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+26308,2012-01-01T00:00:00.000Z,102,4,False,2011,Final, ,96,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+26309,2012-01-02T00:00:00.000Z,94,4,False,2011,Final, ,90,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+26310,2012-01-04T00:00:00.000Z,93,4,False,2011,Final, ,101,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+26311,2012-01-06T00:00:00.000Z,74,4,False,2011,Final, ,87,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+26312,2012-01-07T00:00:00.000Z,80,4,False,2011,Final, ,103,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+26313,2012-01-08T00:00:00.000Z,108,4,False,2011,Final, ,96,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+26314,2012-01-09T00:00:00.000Z,96,4,False,2011,Final, ,86,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+26443,2011-12-25T00:00:00.000Z,106,4,False,2011,Final, ,104,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+26444,2011-12-25T00:00:00.000Z,87,4,False,2011,Final, ,88,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+26445,2011-12-25T00:00:00.000Z,86,4,False,2011,Final, ,105,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+26446,2011-12-26T00:00:00.000Z,96,4,False,2011,Final, ,104,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+26447,2011-12-26T00:00:00.000Z,100,4,False,2011,Final, ,104,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+26448,2011-12-26T00:00:00.000Z,107,4,False,2011,Final, ,103,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+26449,2011-12-28T00:00:00.000Z,115,4,False,2011,Final, ,90,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+26450,2011-12-29T00:00:00.000Z,105,4,False,2011,Final, ,85,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+26644,2011-12-26T00:00:00.000Z,84,4,False,2011,Final, ,90,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+26645,2011-12-26T00:00:00.000Z,95,4,False,2011,Final, ,82,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+26646,2011-12-27T00:00:00.000Z,96,4,False,2011,Final, ,71,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+26647,2011-12-28T00:00:00.000Z,89,4,False,2011,Final, ,105,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+26648,2011-12-30T00:00:00.000Z,101,4,False,2011,Final, ,103,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+26649,2011-12-31T00:00:00.000Z,92,4,False,2011,Final, ,114,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+26650,2012-01-01T00:00:00.000Z,98,4,False,2011,Final, ,82,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+26651,2012-01-02T00:00:00.000Z,100,4,False,2011,Final, ,87,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+26652,2012-01-03T00:00:00.000Z,115,4,False,2011,Final, ,101,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+26653,2012-01-04T00:00:00.000Z,118,4,False,2011,Final, ,83,16,MIA,Miami,East,Southeast,Miami Heat,Heat,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+26654,2012-01-06T00:00:00.000Z,94,4,False,2011,Final, ,85,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+26655,2012-01-07T00:00:00.000Z,90,4,False,2011,Final, ,101,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+26656,2012-01-08T00:00:00.000Z,98,4,False,2011,Final, ,78,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+26657,2012-01-09T00:00:00.000Z,101,4,False,2011,Final, ,106,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+26658,2012-01-10T00:00:00.000Z,112,4,False,2011,Final, ,85,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+26659,2012-01-11T00:00:00.000Z,104,4,False,2011,Final, ,107,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+26660,2012-01-12T00:00:00.000Z,90,4,False,2011,Final, ,101,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+26661,2012-01-13T00:00:00.000Z,79,4,False,2011,Final, ,88,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+26662,2012-01-14T00:00:00.000Z,107,4,False,2011,Final, ,94,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+26663,2012-01-16T00:00:00.000Z,101,4,False,2011,Final, ,91,13,LAC,LA,West,Pacific,LA Clippers,Clippers,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+26664,2012-01-17T00:00:00.000Z,120,4,False,2011,Final, ,98,16,MIA,Miami,East,Southeast,Miami Heat,Heat,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+26665,2012-01-18T00:00:00.000Z,92,4,False,2011,Final, ,89,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+26666,2012-01-20T00:00:00.000Z,92,4,False,2011,Final, ,80,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+26667,2012-01-21T00:00:00.000Z,94,4,False,2011,Final, ,91,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+26668,2012-01-22T00:00:00.000Z,103,4,False,2011,Final, ,91,13,LAC,LA,West,Pacific,LA Clippers,Clippers,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+26669,2012-01-23T00:00:00.000Z,103,4,False,2011,Final, ,83,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+26670,2012-01-25T00:00:00.000Z,105,4,False,2011,Final, ,83,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+26671,2012-01-27T00:00:00.000Z,103,4,False,2011,Final, ,76,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+26672,2012-01-28T00:00:00.000Z,96,4,False,2011,Final, ,93,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+26673,2012-01-29T00:00:00.000Z,73,4,False,2011,Final, ,94,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+26674,2012-01-29T00:00:00.000Z,101,4,False,2011,Final, ,100,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+26675,2012-01-30T00:00:00.000Z,103,4,False,2011,Final, ,82,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+26676,2012-01-30T00:00:00.000Z,109,4,False,2011,Final, ,95,16,MIA,Miami,East,Southeast,Miami Heat,Heat,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+26677,2012-02-01T00:00:00.000Z,86,4,False,2011,Final, ,95,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+26678,2012-02-01T00:00:00.000Z,99,4,False,2011,Final, ,109,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+26679,2012-02-02T00:00:00.000Z,93,4,False,2011,Final, ,81,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+26680,2012-02-03T00:00:00.000Z,99,4,False,2011,Final, ,81,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+26681,2012-02-03T00:00:00.000Z,89,4,False,2011,Final, ,93,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+26682,2012-02-04T00:00:00.000Z,81,4,False,2011,Final, ,85,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+26683,2012-02-04T00:00:00.000Z,99,4,False,2011,Final, ,92,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+26684,2012-02-06T00:00:00.000Z,90,4,False,2011,Final, ,99,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+26685,2012-02-06T00:00:00.000Z,84,4,False,2011,Final, ,89,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+26686,2012-02-07T00:00:00.000Z,104,4,False,2011,Final, ,99,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+26687,2012-02-07T00:00:00.000Z,86,4,False,2011,Final, ,84,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+26688,2012-02-08T00:00:00.000Z,92,4,False,2011,Final, ,99,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+26689,2012-02-08T00:00:00.000Z,97,4,False,2011,Final, ,87,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+26690,2012-02-09T00:00:00.000Z,101,4,False,2011,Final, ,109,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+26691,2012-02-10T00:00:00.000Z,64,4,False,2011,Final, ,95,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+26692,2012-02-10T00:00:00.000Z,98,4,False,2011,Final, ,92,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+26693,2012-02-10T00:00:00.000Z,97,4,False,2011,Final, ,104,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+26694,2012-02-11T00:00:00.000Z,86,4,False,2011,Final, ,111,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+26695,2012-02-11T00:00:00.000Z,98,4,False,2011,Final, ,100,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+26696,2012-02-12T00:00:00.000Z,95,4,False,2011,Final, ,91,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+26697,2012-02-13T00:00:00.000Z,89,4,False,2011,Final, ,98,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+26698,2012-02-13T00:00:00.000Z,96,4,False,2011,Final, ,114,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+26699,2012-02-14T00:00:00.000Z,87,4,False,2011,Final, ,90,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+26700,2012-02-14T00:00:00.000Z,111,4,False,2011,Final, ,85,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+26701,2012-02-15T00:00:00.000Z,88,4,False,2011,Final, ,98,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+26702,2012-02-15T00:00:00.000Z,102,4,False,2011,Final, ,90,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+26703,2012-02-17T00:00:00.000Z,75,4,False,2011,Final, ,82,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+26704,2012-02-17T00:00:00.000Z,85,4,False,2011,Final, ,89,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+26705,2012-02-17T00:00:00.000Z,110,4,False,2011,Final, ,87,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+26706,2012-02-18T00:00:00.000Z,85,4,False,2011,Final, ,97,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+26707,2012-02-19T00:00:00.000Z,104,4,False,2011,Final, ,97,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+26708,2012-02-19T00:00:00.000Z,108,4,False,2011,Final, ,73,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+26709,2012-02-19T00:00:00.000Z,92,4,False,2011,Final, ,91,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+26710,2012-02-20T00:00:00.000Z,101,4,False,2011,Final, ,93,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+26711,2012-02-20T00:00:00.000Z,102,4,False,2011,Final, ,106,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+26712,2012-02-20T00:00:00.000Z,103,4,False,2011,Final, ,92,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+26713,2012-02-21T00:00:00.000Z,89,4,False,2011,Final, ,76,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+26714,2012-02-22T00:00:00.000Z,88,4,False,2011,Final, ,102,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+26715,2012-02-22T00:00:00.000Z,91,4,False,2011,Final, ,108,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+26716,2012-02-22T00:00:00.000Z,99,4,False,2011,Final, ,82,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+26717,2012-02-22T00:00:00.000Z,93,4,False,2011,Final, ,87,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+26718,2012-02-28T00:00:00.000Z,102,4,False,2011,Final, ,78,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+26719,2012-02-28T00:00:00.000Z,99,4,False,2011,Final, ,95,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+26720,2012-02-28T00:00:00.000Z,88,4,False,2011,Final, ,85,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+26721,2012-02-28T00:00:00.000Z,97,4,False,2011,Final, ,109,13,LAC,LA,West,Pacific,LA Clippers,Clippers,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+26722,2012-02-29T00:00:00.000Z,120,4,False,2011,Final, ,103,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+26935,2011-12-26T00:00:00.000Z,96,4,False,2011,Final, ,95,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+26936,2011-12-26T00:00:00.000Z,100,4,False,2011,Final, ,91,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+26937,2011-12-28T00:00:00.000Z,97,4,False,2011,Final, ,78,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+26938,2011-12-29T00:00:00.000Z,104,4,False,2011,Final, ,102,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+26939,2011-12-30T00:00:00.000Z,79,4,False,2011,Final, ,100,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+26940,2012-01-02T00:00:00.000Z,102,4,False,2011,Final, ,91,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+26941,2012-01-04T00:00:00.000Z,86,4,False,2011,Final, ,90,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+26942,2012-01-04T00:00:00.000Z,117,4,False,2011,Final, ,89,13,LAC,LA,West,Pacific,LA Clippers,Clippers,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+26943,2012-01-05T00:00:00.000Z,109,4,False,2011,Final, ,116,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+26944,2012-01-06T00:00:00.000Z,96,4,False,2011,Final, ,102,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+26945,2012-01-07T00:00:00.000Z,96,4,False,2011,Final, ,81,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+26946,2012-01-10T00:00:00.000Z,100,4,False,2011,Final, ,111,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+26947,2012-01-11T00:00:00.000Z,101,4,False,2011,Final, ,95,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+26948,2012-01-12T00:00:00.000Z,102,4,False,2011,Final, ,93,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+26949,2012-01-13T00:00:00.000Z,81,4,False,2011,Final, ,98,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+26950,2012-01-14T00:00:00.000Z,107,4,False,2011,Final, ,105,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+26951,2012-01-16T00:00:00.000Z,106,4,False,2011,Final, ,114,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+26952,2012-01-18T00:00:00.000Z,92,4,False,2011,Final, ,88,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+26953,2012-01-20T00:00:00.000Z,86,4,False,2011,Final, ,100,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+26954,2012-01-21T00:00:00.000Z,105,4,False,2011,Final, ,102,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+26955,2012-01-22T00:00:00.000Z,97,4,False,2011,Final, ,87,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+26956,2012-01-23T00:00:00.000Z,87,4,False,2011,Final, ,56,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+26957,2012-01-24T00:00:00.000Z,78,4,False,2011,Final, ,111,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+26958,2012-01-25T00:00:00.000Z,98,4,False,2011,Final, ,101,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+26959,2012-01-25T00:00:00.000Z,101,4,False,2011,Final, ,93,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+26960,2012-01-27T00:00:00.000Z,101,4,False,2011,Final, ,107,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+26961,2012-01-29T00:00:00.000Z,105,4,False,2011,Final, ,109,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+26962,2012-01-30T00:00:00.000Z,93,4,False,2011,Final, ,89,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+26963,2012-01-31T00:00:00.000Z,77,4,False,2011,Final, ,100,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+26964,2012-01-31T00:00:00.000Z,106,4,False,2011,Final, ,99,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+26965,2012-02-01T00:00:00.000Z,103,4,False,2011,Final, ,120,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+26966,2012-02-01T00:00:00.000Z,112,4,False,2011,Final, ,68,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+26967,2012-02-03T00:00:00.000Z,101,4,False,2011,Final, ,94,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+26968,2012-02-03T00:00:00.000Z,87,4,False,2011,Final, ,98,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+26969,2012-02-04T00:00:00.000Z,81,4,False,2011,Final, ,107,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+26970,2012-02-04T00:00:00.000Z,89,4,False,2011,Final, ,87,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+26971,2012-02-04T00:00:00.000Z,95,4,False,2011,Final, ,89,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+26972,2012-02-04T00:00:00.000Z,114,4,False,2011,Final, ,106,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+26973,2012-02-05T00:00:00.000Z,95,4,False,2011,Final, ,89,16,MIA,Miami,East,Southeast,Miami Heat,Heat,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+26974,2012-02-06T00:00:00.000Z,95,4,False,2011,Final, ,90,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+26975,2012-02-06T00:00:00.000Z,102,4,False,2011,Final, ,107,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+26976,2012-02-07T00:00:00.000Z,116,4,False,2011,Final, ,119,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+26977,2012-02-08T00:00:00.000Z,90,4,False,2011,Final, ,100,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+26978,2012-02-08T00:00:00.000Z,95,4,False,2011,Final, ,105,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+26979,2012-02-09T00:00:00.000Z,106,4,False,2011,Final, ,101,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+26980,2012-02-10T00:00:00.000Z,77,4,False,2011,Final, ,78,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+26981,2012-02-10T00:00:00.000Z,86,4,False,2011,Final, ,94,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+26982,2012-02-11T00:00:00.000Z,84,4,False,2011,Final, ,99,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+26983,2012-02-11T00:00:00.000Z,89,4,False,2011,Final, ,103,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+26984,2012-02-12T00:00:00.000Z,87,4,False,2011,Final, ,107,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+26985,2012-02-12T00:00:00.000Z,106,4,False,2011,Final, ,97,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+26986,2012-02-13T00:00:00.000Z,102,4,False,2011,Final, ,89,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+26987,2012-02-13T00:00:00.000Z,96,4,False,2011,Final, ,92,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+26988,2012-02-14T00:00:00.000Z,90,4,False,2011,Final, ,105,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+26989,2012-02-14T00:00:00.000Z,95,4,False,2011,Final, ,99,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+26990,2012-02-15T00:00:00.000Z,103,4,False,2011,Final, ,87,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+26991,2012-02-15T00:00:00.000Z,89,4,False,2011,Final, ,92,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+26992,2012-02-15T00:00:00.000Z,102,4,False,2011,Final, ,84,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+26993,2012-02-15T00:00:00.000Z,91,4,False,2011,Final, ,93,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+27051,2011-12-26T00:00:00.000Z,104,4,False,2011,Final, ,95,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+27052,2011-12-26T00:00:00.000Z,84,4,False,2011,Final, ,85,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+27053,2011-12-28T00:00:00.000Z,117,4,False,2011,Final, ,100,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+27054,2011-12-30T00:00:00.000Z,99,4,False,2011,Final, ,86,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+27055,2012-01-01T00:00:00.000Z,129,4,False,2011,Final, ,90,16,MIA,Miami,East,Southeast,Miami Heat,Heat,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+27056,2012-01-02T00:00:00.000Z,91,4,False,2011,Final, ,86,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+27057,2012-01-03T00:00:00.000Z,113,4,False,2011,Final, ,96,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+27058,2012-01-04T00:00:00.000Z,110,4,False,2011,Final, ,118,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+27059,2012-01-05T00:00:00.000Z,103,4,False,2011,Final, ,100,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+27060,2012-01-06T00:00:00.000Z,85,4,False,2011,Final, ,97,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+27061,2012-01-06T00:00:00.000Z,102,4,False,2011,Final, ,77,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+27062,2012-01-07T00:00:00.000Z,99,4,False,2011,Final, ,77,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+27063,2012-01-10T00:00:00.000Z,113,4,False,2011,Final, ,105,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+27064,2012-01-11T00:00:00.000Z,85,4,False,2011,Final, ,95,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+27065,2012-01-13T00:00:00.000Z,99,4,False,2011,Final, ,83,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+27066,2012-01-14T00:00:00.000Z,104,4,False,2011,Final, ,92,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+27067,2012-01-16T00:00:00.000Z,77,4,False,2011,Final, ,84,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+27068,2012-01-18T00:00:00.000Z,93,4,False,2011,Final, ,85,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+27069,2012-01-20T00:00:00.000Z,81,4,False,2011,Final, ,98,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+27070,2012-01-21T00:00:00.000Z,95,4,False,2011,Final, ,89,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+27071,2012-01-23T00:00:00.000Z,93,4,False,2011,Final, ,87,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+27072,2012-01-25T00:00:00.000Z,101,4,False,2011,Final, ,91,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+27073,2012-01-26T00:00:00.000Z,83,4,False,2011,Final, ,91,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+27074,2012-01-27T00:00:00.000Z,94,4,False,2011,Final, ,87,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+27075,2012-01-30T00:00:00.000Z,99,4,False,2011,Final, ,122,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+27076,2012-01-31T00:00:00.000Z,106,4,False,2011,Final, ,73,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+27077,2012-02-01T00:00:00.000Z,109,4,False,2011,Final, ,103,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+27078,2012-02-01T00:00:00.000Z,105,4,False,2011,Final, ,107,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+27079,2012-02-02T00:00:00.000Z,77,4,False,2011,Final, ,96,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+27080,2012-02-02T00:00:00.000Z,102,4,False,2011,Final, ,105,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+27081,2012-02-03T00:00:00.000Z,105,4,False,2011,Final, ,108,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+27082,2012-02-03T00:00:00.000Z,91,4,False,2011,Final, ,89,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+27083,2012-02-04T00:00:00.000Z,87,4,False,2011,Final, ,98,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+27084,2012-02-04T00:00:00.000Z,91,4,False,2011,Final, ,88,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+27085,2012-02-04T00:00:00.000Z,117,4,False,2011,Final, ,97,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+27086,2012-02-05T00:00:00.000Z,98,4,False,2011,Final, ,80,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+27087,2012-02-06T00:00:00.000Z,111,4,False,2011,Final, ,108,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+27088,2012-02-06T00:00:00.000Z,107,4,False,2011,Final, ,111,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+27089,2012-02-08T00:00:00.000Z,99,4,False,2011,Final, ,105,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+27090,2012-02-08T00:00:00.000Z,85,4,False,2011,Final, ,80,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+27091,2012-02-08T00:00:00.000Z,96,4,False,2011,Final, ,103,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+27092,2012-02-09T00:00:00.000Z,87,4,False,2011,Final, ,88,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+27093,2012-02-10T00:00:00.000Z,86,4,False,2011,Final, ,74,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+27094,2012-02-10T00:00:00.000Z,87,4,False,2011,Final, ,89,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+27095,2012-02-10T00:00:00.000Z,87,4,False,2011,Final, ,101,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+27096,2012-02-11T00:00:00.000Z,109,4,False,2011,Final, ,113,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+27097,2012-02-14T00:00:00.000Z,109,4,False,2011,Final, ,124,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+27098,2012-02-15T00:00:00.000Z,106,4,False,2011,Final, ,113,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+27099,2012-02-17T00:00:00.000Z,98,4,False,2011,Final, ,111,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+27100,2012-02-19T00:00:00.000Z,90,4,False,2011,Final, ,78,16,MIA,Miami,East,Southeast,Miami Heat,Heat,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+27101,2012-02-19T00:00:00.000Z,85,4,False,2011,Final, ,92,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+27102,2012-02-20T00:00:00.000Z,97,4,False,2011,Final, ,93,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+27103,2012-02-20T00:00:00.000Z,104,4,False,2011,Final, ,88,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+27104,2012-02-21T00:00:00.000Z,117,4,False,2011,Final, ,108,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+27105,2012-02-21T00:00:00.000Z,137,4,False,2011,Final, ,97,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+27106,2012-02-22T00:00:00.000Z,107,4,False,2011,Final, ,115,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+27107,2012-02-22T00:00:00.000Z,84,4,False,2011,Final, ,89,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+27108,2012-02-22T00:00:00.000Z,119,4,False,2011,Final, ,104,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+27109,2012-02-22T00:00:00.000Z,104,4,False,2011,Final, ,106,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+27110,2012-02-22T00:00:00.000Z,91,4,False,2011,Final, ,96,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+27111,2012-02-23T00:00:00.000Z,83,4,False,2011,Final, ,78,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+27112,2012-02-23T00:00:00.000Z,99,4,False,2011,Final, ,114,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+27113,2012-02-28T00:00:00.000Z,83,4,False,2011,Final, ,86,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+27114,2012-02-28T00:00:00.000Z,68,4,False,2011,Final, ,97,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+27115,2012-02-28T00:00:00.000Z,119,4,False,2011,Final, ,118,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+27116,2012-02-28T00:00:00.000Z,103,4,False,2011,Final, ,96,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+27117,2012-02-28T00:00:00.000Z,92,4,False,2011,Final, ,93,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+27118,2012-02-29T00:00:00.000Z,95,4,False,2011,Final, ,102,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+27119,2012-02-29T00:00:00.000Z,102,4,False,2011,Final, ,96,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+27120,2012-02-29T00:00:00.000Z,96,4,False,2011,Final, ,85,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+27121,2012-02-29T00:00:00.000Z,109,4,False,2011,Final, ,94,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+27122,2012-02-29T00:00:00.000Z,84,4,False,2011,Final, ,95,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+27123,2012-02-29T00:00:00.000Z,88,4,False,2011,Final, ,92,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+27124,2012-02-29T00:00:00.000Z,82,4,False,2011,Final, ,85,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+27125,2012-02-29T00:00:00.000Z,89,4,False,2011,Final, ,96,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+27126,2012-02-29T00:00:00.000Z,104,4,False,2011,Final, ,95,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+27127,2012-02-29T00:00:00.000Z,104,4,False,2011,Final, ,83,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+27128,2012-02-29T00:00:00.000Z,104,4,False,2011,Final, ,85,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+27139,2012-03-01T00:00:00.000Z,102,4,False,2011,Final, ,105,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+27140,2012-03-02T00:00:00.000Z,99,4,False,2011,Final, ,94,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+27141,2012-03-04T00:00:00.000Z,94,4,False,2011,Final, ,99,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+27142,2012-03-05T00:00:00.000Z,88,4,False,2011,Final, ,92,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+27143,2012-03-07T00:00:00.000Z,106,4,False,2011,Final, ,94,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+27144,2012-03-09T00:00:00.000Z,108,4,False,2011,Final, ,120,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+27145,2012-03-10T00:00:00.000Z,122,4,False,2011,Final, ,95,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+27146,2012-03-11T00:00:00.000Z,107,4,False,2011,Final, ,94,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+27147,2012-03-12T00:00:00.000Z,85,4,False,2011,Final, ,94,13,LAC,LA,West,Pacific,LA Clippers,Clippers,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+27148,2012-03-13T00:00:00.000Z,107,4,False,2011,Final, ,98,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+27149,2012-03-14T00:00:00.000Z,98,4,False,2011,Final, ,84,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+27150,2012-03-14T00:00:00.000Z,120,4,False,2011,Final, ,111,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+27151,2012-03-15T00:00:00.000Z,111,4,False,2011,Final, ,105,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+27152,2012-03-16T00:00:00.000Z,102,4,False,2011,Final, ,88,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+27153,2012-03-17T00:00:00.000Z,89,4,False,2011,Final, ,80,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+27154,2012-03-18T00:00:00.000Z,115,4,False,2011,Final, ,99,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+27155,2012-03-19T00:00:00.000Z,100,4,False,2011,Final, ,105,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+27156,2012-03-20T00:00:00.000Z,107,4,False,2011,Final, ,104,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+27157,2012-03-21T00:00:00.000Z,103,4,False,2011,Final, ,93,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+27158,2012-03-21T00:00:00.000Z,93,4,False,2011,Final, ,109,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+27159,2012-03-22T00:00:00.000Z,109,4,False,2011,Final, ,83,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+27160,2012-03-23T00:00:00.000Z,93,4,False,2011,Final, ,80,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+27161,2012-03-24T00:00:00.000Z,101,4,False,2011,Final, ,79,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+27162,2012-03-25T00:00:00.000Z,88,4,False,2011,Final, ,76,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+27163,2012-03-26T00:00:00.000Z,91,4,False,2011,Final, ,108,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+27164,2012-03-27T00:00:00.000Z,95,4,False,2011,Final, ,109,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+27165,2012-03-28T00:00:00.000Z,105,4,False,2011,Final, ,96,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+27166,2012-03-30T00:00:00.000Z,79,4,False,2011,Final, ,100,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+27167,2012-03-31T00:00:00.000Z,99,4,False,2011,Final, ,111,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+27168,2012-04-01T00:00:00.000Z,102,4,False,2011,Final, ,104,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+27169,2012-04-02T00:00:00.000Z,116,4,False,2011,Final, ,108,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+27170,2012-04-03T00:00:00.000Z,102,4,False,2011,Final, ,95,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+27171,2012-04-04T00:00:00.000Z,98,4,False,2011,Final, ,93,16,MIA,Miami,East,Southeast,Miami Heat,Heat,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+27172,2012-04-04T00:00:00.000Z,95,4,False,2011,Final, ,85,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+27173,2012-03-01T00:00:00.000Z,104,4,False,2011,Final, ,95,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+27174,2012-03-02T00:00:00.000Z,91,4,False,2011,Final, ,112,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+27175,2012-03-01T00:00:00.000Z,93,4,False,2011,Final, ,107,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+27176,2012-03-02T00:00:00.000Z,107,4,False,2011,Final, ,94,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+27177,2012-03-05T00:00:00.000Z,86,4,False,2011,Final, ,74,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+27178,2012-03-06T00:00:00.000Z,97,4,False,2011,Final, ,92,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+27179,2012-03-07T00:00:00.000Z,106,4,False,2011,Final, ,101,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+27180,2012-03-07T00:00:00.000Z,92,4,False,2011,Final, ,110,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+27181,2012-03-08T00:00:00.000Z,96,4,False,2011,Final, ,94,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+27182,2012-03-09T00:00:00.000Z,74,4,False,2011,Final, ,83,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+27311,2012-03-02T00:00:00.000Z,105,4,False,2011,Final, ,83,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+27312,2012-03-03T00:00:00.000Z,102,4,False,2011,Final, ,96,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+27313,2012-03-04T00:00:00.000Z,115,4,False,2011,Final, ,111,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+27314,2012-03-05T00:00:00.000Z,119,4,False,2011,Final, ,116,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+27315,2012-03-07T00:00:00.000Z,115,4,False,2011,Final, ,104,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+27316,2012-03-09T00:00:00.000Z,119,4,False,2011,Final, ,114,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+27317,2012-03-10T00:00:00.000Z,93,4,False,2011,Final, ,91,16,MIA,Miami,East,Southeast,Miami Heat,Heat,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+27318,2012-03-11T00:00:00.000Z,99,4,False,2011,Final, ,105,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+27319,2012-03-12T00:00:00.000Z,124,4,False,2011,Final, ,127,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+27320,2012-03-13T00:00:00.000Z,103,4,False,2011,Final, ,104,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+27321,2012-03-14T00:00:00.000Z,121,4,False,2011,Final, ,79,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+27322,2012-03-16T00:00:00.000Z,105,4,False,2011,Final, ,114,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+27323,2012-03-17T00:00:00.000Z,94,4,False,2011,Final, ,102,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+27324,2012-03-18T00:00:00.000Z,97,4,False,2011,Final, ,92,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+27325,2012-03-19T00:00:00.000Z,76,4,False,2011,Final, ,79,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+27326,2012-03-20T00:00:00.000Z,97,4,False,2011,Final, ,90,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+27327,2012-03-21T00:00:00.000Z,103,4,False,2011,Final, ,102,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+27328,2012-03-22T00:00:00.000Z,97,4,False,2011,Final, ,90,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+27329,2012-03-23T00:00:00.000Z,111,4,False,2011,Final, ,113,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+27330,2012-03-24T00:00:00.000Z,111,4,False,2011,Final, ,108,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+27331,2012-03-25T00:00:00.000Z,117,4,False,2011,Final, ,100,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+27332,2012-03-26T00:00:00.000Z,113,4,False,2011,Final, ,106,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+27333,2012-03-27T00:00:00.000Z,100,4,False,2011,Final, ,107,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+27334,2012-03-28T00:00:00.000Z,100,4,False,2011,Final, ,84,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+27335,2012-03-30T00:00:00.000Z,103,4,False,2011,Final, ,104,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+27336,2012-03-31T00:00:00.000Z,112,4,False,2011,Final, ,103,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+27337,2012-04-01T00:00:00.000Z,101,4,False,2011,Final, ,104,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+27338,2012-04-03T00:00:00.000Z,100,4,False,2011,Final, ,109,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+27339,2012-04-04T00:00:00.000Z,96,4,False,2011,Final, ,109,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+27447,2012-03-02T00:00:00.000Z,97,4,False,2011,Final, ,92,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+27448,2012-03-03T00:00:00.000Z,100,4,False,2011,Final, ,83,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+27449,2012-03-04T00:00:00.000Z,103,4,False,2011,Final, ,105,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+27450,2012-03-05T00:00:00.000Z,97,4,False,2011,Final, ,93,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+27451,2012-03-06T00:00:00.000Z,88,4,False,2011,Final, ,85,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+27452,2012-03-07T00:00:00.000Z,103,4,False,2011,Final, ,71,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+27453,2012-03-07T00:00:00.000Z,99,4,False,2011,Final, ,98,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+27454,2012-03-09T00:00:00.000Z,104,4,False,2011,Final, ,86,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+27455,2012-03-10T00:00:00.000Z,111,4,False,2011,Final, ,87,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+27456,2012-03-11T00:00:00.000Z,97,4,False,2011,Final, ,94,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+27457,2012-03-13T00:00:00.000Z,89,4,False,2011,Final, ,115,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+27458,2012-03-14T00:00:00.000Z,107,4,False,2011,Final, ,87,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+27459,2012-03-15T00:00:00.000Z,87,4,False,2011,Final, ,91,13,LAC,LA,West,Pacific,LA Clippers,Clippers,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+27460,2012-03-16T00:00:00.000Z,86,4,False,2011,Final, ,70,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+27461,2012-03-17T00:00:00.000Z,99,4,False,2011,Final, ,92,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+27462,2012-03-18T00:00:00.000Z,87,4,False,2011,Final, ,83,13,LAC,LA,West,Pacific,LA Clippers,Clippers,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+27463,2012-03-21T00:00:00.000Z,116,4,False,2011,Final, ,100,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+27464,2012-03-23T00:00:00.000Z,99,4,False,2011,Final, ,86,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+27465,2012-03-24T00:00:00.000Z,92,4,False,2011,Final, ,95,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+27466,2012-03-26T00:00:00.000Z,97,4,False,2011,Final, ,85,13,LAC,LA,West,Pacific,LA Clippers,Clippers,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+27467,2012-03-27T00:00:00.000Z,93,4,False,2011,Final, ,86,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+27468,2012-03-28T00:00:00.000Z,94,4,False,2011,Final, ,82,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+27469,2012-03-29T00:00:00.000Z,99,4,False,2011,Final, ,93,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+27470,2012-03-30T00:00:00.000Z,88,4,False,2011,Final, ,99,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+27471,2012-03-30T00:00:00.000Z,100,4,False,2011,Final, ,102,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+27472,2012-03-31T00:00:00.000Z,91,4,False,2011,Final, ,75,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+27473,2012-04-01T00:00:00.000Z,120,4,False,2011,Final, ,112,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+27474,2012-04-02T00:00:00.000Z,75,4,False,2011,Final, ,94,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+27475,2012-04-03T00:00:00.000Z,90,4,False,2011,Final, ,125,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+27476,2012-04-04T00:00:00.000Z,107,4,False,2011,Final, ,98,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+27477,2012-04-04T00:00:00.000Z,108,4,False,2011,Final, ,113,13,LAC,LA,West,Pacific,LA Clippers,Clippers,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+27478,2012-04-05T00:00:00.000Z,85,4,False,2011,Final, ,93,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+27583,2012-03-02T00:00:00.000Z,105,4,False,2011,Final, ,117,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+27584,2012-03-02T00:00:00.000Z,115,4,False,2011,Final, ,107,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+27585,2012-03-03T00:00:00.000Z,97,4,False,2011,Final, ,90,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+27586,2012-03-04T00:00:00.000Z,83,4,False,2011,Final, ,75,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+27587,2012-03-05T00:00:00.000Z,95,4,False,2011,Final, ,91,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+27588,2012-03-06T00:00:00.000Z,100,4,False,2011,Final, ,84,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+27589,2012-03-07T00:00:00.000Z,101,4,False,2011,Final, ,100,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+27590,2012-03-09T00:00:00.000Z,110,4,False,2011,Final, ,97,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+27591,2012-03-10T00:00:00.000Z,89,4,False,2011,Final, ,95,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+27592,2012-03-11T00:00:00.000Z,91,4,False,2011,Final, ,94,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+27593,2012-03-12T00:00:00.000Z,112,4,False,2011,Final, ,97,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+27594,2012-03-13T00:00:00.000Z,111,4,False,2011,Final, ,116,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+27595,2012-03-14T00:00:00.000Z,115,4,False,2011,Final, ,105,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+27596,2012-03-16T00:00:00.000Z,110,4,False,2011,Final, ,114,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+27719,2012-03-02T00:00:00.000Z,102,4,False,2011,Final, ,72,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+27720,2012-03-03T00:00:00.000Z,101,4,False,2011,Final, ,98,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+27721,2012-03-04T00:00:00.000Z,96,4,False,2011,Final, ,88,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+27722,2012-03-05T00:00:00.000Z,100,4,False,2011,Final, ,120,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+27723,2012-03-06T00:00:00.000Z,95,4,False,2011,Final, ,85,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+27724,2012-03-07T00:00:00.000Z,93,4,False,2011,Final, ,99,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+27725,2012-03-09T00:00:00.000Z,102,4,False,2011,Final, ,105,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+27726,2012-03-10T00:00:00.000Z,105,4,False,2011,Final, ,86,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+27727,2012-03-11T00:00:00.000Z,94,4,False,2011,Final, ,106,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+27728,2012-03-14T00:00:00.000Z,112,4,False,2011,Final, ,124,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+27729,2012-03-16T00:00:00.000Z,109,4,False,2011,Final, ,101,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+27730,2012-03-17T00:00:00.000Z,88,4,False,2011,Final, ,102,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+27731,2012-03-18T00:00:00.000Z,111,4,False,2011,Final, ,95,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+27732,2012-03-19T00:00:00.000Z,80,4,False,2011,Final, ,105,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+27733,2012-03-20T00:00:00.000Z,119,4,False,2011,Final, ,110,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+27734,2012-03-21T00:00:00.000Z,92,4,False,2011,Final, ,101,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+27735,2012-03-23T00:00:00.000Z,104,4,False,2011,Final, ,87,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+27736,2012-03-24T00:00:00.000Z,102,4,False,2011,Final, ,101,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+27737,2012-03-25T00:00:00.000Z,103,4,False,2011,Final, ,87,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+27738,2012-03-26T00:00:00.000Z,84,4,False,2011,Final, ,105,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+27739,2012-03-28T00:00:00.000Z,112,4,False,2011,Final, ,117,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+27740,2012-03-30T00:00:00.000Z,83,4,False,2011,Final, ,71,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+27741,2012-03-31T00:00:00.000Z,110,4,False,2011,Final, ,107,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+27742,2012-04-01T00:00:00.000Z,92,4,False,2011,Final, ,75,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+27743,2012-04-02T00:00:00.000Z,93,4,False,2011,Final, ,99,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+27744,2012-04-03T00:00:00.000Z,92,4,False,2011,Final, ,87,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+27745,2012-04-04T00:00:00.000Z,94,4,False,2011,Final, ,97,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+27746,2012-04-04T00:00:00.000Z,101,4,False,2011,Final, ,88,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+27855,2012-03-02T00:00:00.000Z,99,4,False,2011,Final, ,98,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+27856,2012-03-03T00:00:00.000Z,114,4,False,2011,Final, ,98,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+27857,2012-03-04T00:00:00.000Z,91,4,False,2011,Final, ,96,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+27858,2012-03-05T00:00:00.000Z,92,4,False,2011,Final, ,72,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+27859,2012-03-06T00:00:00.000Z,96,4,False,2011,Final, ,101,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+27860,2012-03-07T00:00:00.000Z,116,4,False,2011,Final, ,98,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+27861,2012-03-07T00:00:00.000Z,118,4,False,2011,Final, ,105,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+27862,2012-03-09T00:00:00.000Z,90,4,False,2011,Final, ,96,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+27863,2012-03-10T00:00:00.000Z,99,4,False,2011,Final, ,110,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+27864,2012-03-11T00:00:00.000Z,93,4,False,2011,Final, ,97,13,LAC,LA,West,Pacific,LA Clippers,Clippers,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+27865,2012-03-12T00:00:00.000Z,71,4,False,2011,Final, ,73,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+27866,2012-03-13T00:00:00.000Z,104,4,False,2011,Final, ,98,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+27867,2012-03-14T00:00:00.000Z,106,4,False,2011,Final, ,102,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+27868,2012-03-16T00:00:00.000Z,120,4,False,2011,Final, ,95,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+27869,2012-03-17T00:00:00.000Z,107,4,False,2011,Final, ,103,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+27870,2012-03-18T00:00:00.000Z,99,4,False,2011,Final, ,86,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+27871,2012-03-19T00:00:00.000Z,95,4,False,2011,Final, ,112,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+27872,2012-03-20T00:00:00.000Z,106,4,False,2011,Final, ,87,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+27873,2012-03-21T00:00:00.000Z,79,4,False,2011,Final, ,82,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+27874,2012-03-22T00:00:00.000Z,97,4,False,2011,Final, ,93,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+27875,2012-03-23T00:00:00.000Z,93,4,False,2011,Final, ,84,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+27876,2012-03-24T00:00:00.000Z,99,4,False,2011,Final, ,101,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+27877,2012-03-25T00:00:00.000Z,83,4,False,2011,Final, ,108,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+27878,2012-03-26T00:00:00.000Z,95,4,False,2011,Final, ,102,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+27879,2012-03-28T00:00:00.000Z,103,4,False,2011,Final, ,86,13,LAC,LA,West,Pacific,LA Clippers,Clippers,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+27880,2012-03-30T00:00:00.000Z,84,4,False,2011,Final, ,121,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+27881,2012-03-31T00:00:00.000Z,95,4,False,2011,Final, ,99,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+27882,2012-04-01T00:00:00.000Z,99,4,False,2011,Final, ,92,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+27883,2012-04-02T00:00:00.000Z,98,4,False,2011,Final, ,112,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+27884,2012-04-03T00:00:00.000Z,98,4,False,2011,Final, ,94,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+27885,2012-04-04T00:00:00.000Z,78,4,False,2011,Final, ,99,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+27990,2012-03-02T00:00:00.000Z,81,4,False,2011,Final, ,78,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+27991,2012-03-03T00:00:00.000Z,84,4,False,2011,Final, ,102,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+27992,2012-03-04T00:00:00.000Z,101,4,False,2011,Final, ,104,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+27993,2012-03-05T00:00:00.000Z,100,4,False,2011,Final, ,109,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+27994,2012-03-07T00:00:00.000Z,104,4,False,2011,Final, ,106,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+27995,2012-03-07T00:00:00.000Z,99,4,False,2011,Final, ,100,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+27996,2012-03-09T00:00:00.000Z,86,4,False,2011,Final, ,85,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+27997,2012-03-10T00:00:00.000Z,111,4,False,2011,Final, ,97,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+27998,2012-03-11T00:00:00.000Z,99,4,False,2011,Final, ,106,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+27999,2012-03-12T00:00:00.000Z,104,4,False,2011,Final, ,99,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+28000,2012-03-13T00:00:00.000Z,92,4,False,2011,Final, ,75,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+28001,2012-03-14T00:00:00.000Z,111,4,False,2011,Final, ,94,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+28002,2012-03-14T00:00:00.000Z,96,4,False,2011,Final, ,82,13,LAC,LA,West,Pacific,LA Clippers,Clippers,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+28003,2012-03-15T00:00:00.000Z,90,4,False,2011,Final, ,103,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+28004,2012-03-16T00:00:00.000Z,115,4,False,2011,Final, ,100,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+28005,2012-03-17T00:00:00.000Z,98,4,False,2011,Final, ,91,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+28006,2012-03-18T00:00:00.000Z,99,4,False,2011,Final, ,103,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+28007,2012-03-19T00:00:00.000Z,93,4,False,2011,Final, ,97,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+28008,2012-03-20T00:00:00.000Z,102,4,False,2011,Final, ,89,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+28009,2012-03-21T00:00:00.000Z,114,4,False,2011,Final, ,91,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+28010,2012-03-23T00:00:00.000Z,149,4,False,2011,Final, ,140,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+28011,2012-03-24T00:00:00.000Z,86,4,False,2011,Final, ,89,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+28012,2012-03-25T00:00:00.000Z,139,4,False,2011,Final, ,133,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+28013,2012-03-26T00:00:00.000Z,105,4,False,2011,Final, ,90,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+28014,2012-03-27T00:00:00.000Z,103,4,False,2011,Final, ,85,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+28015,2012-03-28T00:00:00.000Z,77,4,False,2011,Final, ,98,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+28016,2012-03-28T00:00:00.000Z,87,4,False,2011,Final, ,102,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+28017,2012-03-29T00:00:00.000Z,106,4,False,2011,Final, ,85,16,MIA,Miami,East,Southeast,Miami Heat,Heat,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+28018,2012-03-30T00:00:00.000Z,100,4,False,2011,Final, ,90,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+28019,2012-03-31T00:00:00.000Z,95,4,False,2011,Final, ,90,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+28020,2012-04-01T00:00:00.000Z,91,4,False,2011,Final, ,72,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+28021,2012-04-02T00:00:00.000Z,88,4,False,2011,Final, ,94,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+28022,2012-04-03T00:00:00.000Z,99,4,False,2011,Final, ,93,16,MIA,Miami,East,Southeast,Miami Heat,Heat,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+28023,2012-04-04T00:00:00.000Z,86,4,False,2011,Final, ,87,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+28024,2012-04-04T00:00:00.000Z,105,4,False,2011,Final, ,107,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+28025,2012-04-05T00:00:00.000Z,93,4,False,2011,Final, ,86,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+28125,2012-03-08T00:00:00.000Z,94,4,False,2011,Final, ,99,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+28126,2012-03-09T00:00:00.000Z,104,4,False,2011,Final, ,91,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+28127,2012-03-10T00:00:00.000Z,98,4,False,2011,Final, ,91,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+28128,2012-03-11T00:00:00.000Z,118,4,False,2011,Final, ,107,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+28129,2012-03-12T00:00:00.000Z,105,4,False,2011,Final, ,90,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+28130,2012-03-13T00:00:00.000Z,88,4,False,2011,Final, ,96,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+28131,2012-03-14T00:00:00.000Z,122,4,False,2011,Final, ,111,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+28132,2012-03-16T00:00:00.000Z,97,4,False,2011,Final, ,92,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+28261,2012-03-15T00:00:00.000Z,89,4,False,2011,Final, ,99,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+28262,2012-03-16T00:00:00.000Z,78,4,False,2011,Final, ,84,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+28263,2012-03-16T00:00:00.000Z,98,4,False,2011,Final, ,120,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+28264,2012-03-17T00:00:00.000Z,95,4,False,2011,Final, ,91,13,LAC,LA,West,Pacific,LA Clippers,Clippers,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+28265,2012-03-18T00:00:00.000Z,87,4,False,2011,Final, ,103,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+28266,2012-03-20T00:00:00.000Z,87,4,False,2011,Final, ,116,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+28267,2012-03-21T00:00:00.000Z,82,4,False,2011,Final, ,94,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+28268,2012-03-21T00:00:00.000Z,116,4,False,2011,Final, ,115,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+28269,2012-03-22T00:00:00.000Z,102,4,False,2011,Final, ,103,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+28270,2012-03-23T00:00:00.000Z,92,4,False,2011,Final, ,112,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+28397,2012-03-22T00:00:00.000Z,83,4,False,2011,Final, ,85,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+28398,2012-03-23T00:00:00.000Z,73,4,False,2011,Final, ,88,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+28399,2012-03-24T00:00:00.000Z,104,4,False,2011,Final, ,125,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+28400,2012-03-25T00:00:00.000Z,90,4,False,2011,Final, ,87,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+28401,2012-03-26T00:00:00.000Z,77,4,False,2011,Final, ,79,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+28402,2012-03-27T00:00:00.000Z,108,4,False,2011,Final, ,101,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+28403,2012-03-28T00:00:00.000Z,83,4,False,2011,Final, ,88,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+28404,2012-03-29T00:00:00.000Z,93,4,False,2011,Final, ,102,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+28405,2012-03-30T00:00:00.000Z,97,4,False,2011,Final, ,76,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+28533,2012-03-22T00:00:00.000Z,91,4,False,2011,Final, ,100,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+28534,2012-03-23T00:00:00.000Z,96,4,False,2011,Final, ,79,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+28535,2012-03-23T00:00:00.000Z,103,4,False,2011,Final, ,96,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+28536,2012-03-24T00:00:00.000Z,101,4,False,2011,Final, ,85,13,LAC,LA,West,Pacific,LA Clippers,Clippers,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+28537,2012-03-25T00:00:00.000Z,96,4,False,2011,Final, ,102,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+28538,2012-03-26T00:00:00.000Z,101,4,False,2011,Final, ,117,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+28539,2012-03-27T00:00:00.000Z,90,4,False,2011,Final, ,81,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+28540,2012-03-28T00:00:00.000Z,75,4,False,2011,Final, ,87,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+28541,2012-03-30T00:00:00.000Z,98,4,False,2011,Final, ,100,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+28542,2012-03-31T00:00:00.000Z,105,4,False,2011,Final, ,96,13,LAC,LA,West,Pacific,LA Clippers,Clippers,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+28543,2012-04-01T00:00:00.000Z,92,4,False,2011,Final, ,78,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+28544,2012-04-03T00:00:00.000Z,91,4,False,2011,Final, ,87,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+28545,2012-04-04T00:00:00.000Z,120,4,False,2011,Final, ,93,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+28669,2012-03-29T00:00:00.000Z,93,4,False,2011,Final, ,89,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+28670,2012-03-30T00:00:00.000Z,101,4,False,2011,Final, ,113,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+28671,2012-03-30T00:00:00.000Z,98,4,False,2011,Final, ,97,13,LAC,LA,West,Pacific,LA Clippers,Clippers,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+28672,2012-03-31T00:00:00.000Z,88,4,False,2011,Final, ,85,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+28673,2012-04-01T00:00:00.000Z,119,4,False,2011,Final, ,106,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+28674,2012-04-02T00:00:00.000Z,97,4,False,2011,Final, ,102,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+28675,2012-04-03T00:00:00.000Z,112,4,False,2011,Final, ,104,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+28676,2012-04-04T00:00:00.000Z,94,4,False,2011,Final, ,92,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+28805,2012-04-05T00:00:00.000Z,80,4,False,2011,Final, ,96,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+28941,2012-04-05T00:00:00.000Z,99,4,False,2011,Final, ,94,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+29077,2012-04-06T00:00:00.000Z,103,4,False,2011,Final, ,98,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+29078,2012-04-06T00:00:00.000Z,107,4,False,2011,Final, ,112,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+29079,2012-04-07T00:00:00.000Z,72,4,False,2011,Final, ,86,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+29080,2012-04-08T00:00:00.000Z,87,4,False,2011,Final, ,104,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+29081,2012-04-09T00:00:00.000Z,103,4,False,2011,Final, ,98,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+29082,2012-04-10T00:00:00.000Z,110,4,False,2011,Final, ,100,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+29083,2012-04-11T00:00:00.000Z,107,4,False,2011,Final, ,111,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+29084,2012-04-13T00:00:00.000Z,105,4,False,2011,Final, ,112,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+29085,2012-04-15T00:00:00.000Z,101,4,False,2011,Final, ,86,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+29086,2012-04-16T00:00:00.000Z,111,4,False,2011,Final, ,88,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+29087,2012-04-18T00:00:00.000Z,102,4,False,2011,Final, ,98,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+29088,2012-04-19T00:00:00.000Z,93,4,False,2011,Final, ,90,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+29089,2012-04-20T00:00:00.000Z,98,4,False,2011,Final, ,90,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+29090,2012-04-21T00:00:00.000Z,107,4,False,2011,Final, ,118,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+29091,2012-04-22T00:00:00.000Z,101,4,False,2011,Final, ,74,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+29092,2012-04-23T00:00:00.000Z,103,4,False,2011,Final, ,97,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+29093,2012-04-25T00:00:00.000Z,101,4,False,2011,Final, ,106,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+29094,2012-04-26T00:00:00.000Z,87,4,False,2011,Final, ,74,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+29095,2012-04-26T00:00:00.000Z,96,4,False,2011,Final, ,94,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+29213,2012-04-06T00:00:00.000Z,80,4,False,2011,Final, ,84,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+29214,2012-04-07T00:00:00.000Z,82,4,False,2011,Final, ,88,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+29215,2012-04-08T00:00:00.000Z,98,4,False,2011,Final, ,75,16,MIA,Miami,East,Southeast,Miami Heat,Heat,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+29216,2012-04-09T00:00:00.000Z,89,4,False,2011,Final, ,109,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+29217,2012-04-11T00:00:00.000Z,84,4,False,2011,Final, ,98,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+29218,2012-04-13T00:00:00.000Z,105,4,False,2011,Final, ,82,16,MIA,Miami,East,Southeast,Miami Heat,Heat,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+29219,2012-04-13T00:00:00.000Z,94,4,False,2011,Final, ,97,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+29220,2012-04-15T00:00:00.000Z,86,4,False,2011,Final, ,102,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+29221,2012-04-16T00:00:00.000Z,87,4,False,2011,Final, ,109,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+29222,2012-04-18T00:00:00.000Z,117,4,False,2011,Final, ,110,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+29349,2012-04-06T00:00:00.000Z,110,4,False,2011,Final, ,98,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+29350,2012-04-07T00:00:00.000Z,96,4,False,2011,Final, ,116,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+29351,2012-04-09T00:00:00.000Z,91,4,False,2011,Final, ,84,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+29352,2012-04-10T00:00:00.000Z,107,4,False,2011,Final, ,115,16,MIA,Miami,East,Southeast,Miami Heat,Heat,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+29353,2012-04-11T00:00:00.000Z,105,4,False,2011,Final, ,96,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+29354,2012-04-12T00:00:00.000Z,103,4,False,2011,Final, ,112,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+29355,2012-04-13T00:00:00.000Z,81,4,False,2011,Final, ,109,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+29356,2012-04-14T00:00:00.000Z,99,4,False,2011,Final, ,105,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+29357,2012-04-15T00:00:00.000Z,85,4,False,2011,Final, ,93,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+29358,2012-04-16T00:00:00.000Z,123,4,False,2011,Final, ,121,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+29359,2012-04-18T00:00:00.000Z,98,4,False,2011,Final, ,104,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+29360,2012-04-21T00:00:00.000Z,106,4,False,2011,Final, ,95,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+29361,2012-04-22T00:00:00.000Z,114,4,False,2011,Final, ,98,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+29362,2012-04-23T00:00:00.000Z,87,4,False,2011,Final, ,105,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+29363,2012-04-24T00:00:00.000Z,78,4,False,2011,Final, ,66,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+29364,2012-04-25T00:00:00.000Z,87,4,False,2011,Final, ,92,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+29365,2012-04-26T00:00:00.000Z,106,4,False,2011,Final, ,89,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+29366,2012-04-26T00:00:00.000Z,102,4,False,2011,Final, ,131,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+29484,2012-04-06T00:00:00.000Z,101,4,False,2011,Final, ,96,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+29485,2012-04-07T00:00:00.000Z,99,4,False,2011,Final, ,90,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+29486,2012-04-09T00:00:00.000Z,123,4,False,2011,Final, ,84,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+29487,2012-04-10T00:00:00.000Z,98,4,False,2011,Final, ,86,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+29488,2012-04-11T00:00:00.000Z,98,4,False,2011,Final, ,104,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+29489,2012-04-12T00:00:00.000Z,82,4,False,2011,Final, ,95,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+29490,2012-04-13T00:00:00.000Z,89,4,False,2011,Final, ,95,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+29491,2012-04-13T00:00:00.000Z,103,4,False,2011,Final, ,97,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+29492,2012-04-14T00:00:00.000Z,112,4,False,2011,Final, ,104,13,LAC,LA,West,Pacific,LA Clippers,Clippers,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+29493,2012-04-15T00:00:00.000Z,88,4,False,2011,Final, ,75,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+29494,2012-04-16T00:00:00.000Z,102,4,False,2011,Final, ,105,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+29495,2012-04-16T00:00:00.000Z,99,4,False,2011,Final, ,120,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+29496,2012-04-17T00:00:00.000Z,97,4,False,2011,Final, ,102,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+29497,2012-04-18T00:00:00.000Z,116,4,False,2011,Final, ,84,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+29498,2012-04-18T00:00:00.000Z,102,4,False,2011,Final, ,127,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+29499,2012-04-19T00:00:00.000Z,118,4,False,2011,Final, ,109,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+29500,2012-04-20T00:00:00.000Z,121,4,False,2011,Final, ,97,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+29501,2012-04-21T00:00:00.000Z,84,4,False,2011,Final, ,86,16,MIA,Miami,East,Southeast,Miami Heat,Heat,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+29502,2012-04-22T00:00:00.000Z,97,4,False,2011,Final, ,88,16,MIA,Miami,East,Southeast,Miami Heat,Heat,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+29503,2012-04-23T00:00:00.000Z,124,4,False,2011,Final, ,89,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+29504,2012-04-24T00:00:00.000Z,109,4,False,2011,Final, ,102,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+29505,2012-04-25T00:00:00.000Z,85,4,False,2011,Final, ,90,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+29506,2012-04-26T00:00:00.000Z,104,4,False,2011,Final, ,70,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+29620,2012-04-06T00:00:00.000Z,82,4,False,2011,Final, ,97,16,MIA,Miami,East,Southeast,Miami Heat,Heat,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+29621,2012-04-07T00:00:00.000Z,94,4,False,2011,Final, ,89,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+29622,2012-04-08T00:00:00.000Z,100,4,False,2011,Final, ,99,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+29623,2012-04-09T00:00:00.000Z,90,4,False,2011,Final, ,114,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+29624,2012-04-10T00:00:00.000Z,88,4,False,2011,Final, ,107,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+29625,2012-04-11T00:00:00.000Z,104,4,False,2011,Final, ,93,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+29626,2012-04-13T00:00:00.000Z,115,4,False,2011,Final, ,89,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+29627,2012-04-14T00:00:00.000Z,103,4,False,2011,Final, ,98,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+29628,2012-04-15T00:00:00.000Z,94,4,False,2011,Final, ,100,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+29629,2012-04-16T00:00:00.000Z,98,4,False,2011,Final, ,101,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+29630,2012-04-17T00:00:00.000Z,84,4,False,2011,Final, ,91,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+29631,2012-04-18T00:00:00.000Z,68,4,False,2011,Final, ,100,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+29632,2012-04-18T00:00:00.000Z,97,4,False,2011,Final, ,109,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+29633,2012-04-19T00:00:00.000Z,105,4,False,2011,Final, ,99,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+29634,2012-04-20T00:00:00.000Z,80,4,False,2011,Final, ,85,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+29635,2012-04-21T00:00:00.000Z,93,4,False,2011,Final, ,89,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+29636,2012-04-22T00:00:00.000Z,112,4,False,2011,Final, ,113,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+29637,2012-04-26T00:00:00.000Z,84,4,False,2011,Final, ,77,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+29756,2012-04-06T00:00:00.000Z,95,4,False,2011,Final, ,90,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+29757,2012-04-09T00:00:00.000Z,89,4,False,2011,Final, ,94,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+29758,2012-04-11T00:00:00.000Z,98,4,False,2011,Final, ,100,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+29759,2012-04-13T00:00:00.000Z,96,4,False,2011,Final, ,85,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+29760,2012-04-16T00:00:00.000Z,125,4,False,2011,Final, ,107,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+29761,2012-04-18T00:00:00.000Z,96,4,False,2011,Final, ,72,16,MIA,Miami,East,Southeast,Miami Heat,Heat,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+29762,2012-04-18T00:00:00.000Z,87,4,False,2011,Final, ,99,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+29763,2012-04-19T00:00:00.000Z,80,4,False,2011,Final, ,91,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+29764,2012-04-20T00:00:00.000Z,104,4,False,2011,Final, ,94,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+29765,2012-04-21T00:00:00.000Z,106,4,False,2011,Final, ,109,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+29766,2012-04-22T00:00:00.000Z,88,4,False,2011,Final, ,93,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+29767,2012-04-23T00:00:00.000Z,92,4,False,2011,Final, ,86,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+29768,2012-04-24T00:00:00.000Z,118,4,False,2011,Final, ,110,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+29769,2012-04-25T00:00:00.000Z,85,4,False,2011,Final, ,96,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+29770,2012-04-26T00:00:00.000Z,107,4,False,2011,Final, ,75,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+29771,2012-04-26T00:00:00.000Z,113,4,False,2011,Final, ,96,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+29892,2012-04-06T00:00:00.000Z,128,4,False,2011,Final, ,103,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+29893,2012-04-07T00:00:00.000Z,109,4,False,2011,Final, ,94,13,LAC,LA,West,Pacific,LA Clippers,Clippers,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+29894,2012-04-08T00:00:00.000Z,103,4,False,2011,Final, ,79,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+29895,2012-04-09T00:00:00.000Z,94,4,False,2011,Final, ,85,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+29896,2012-04-11T00:00:00.000Z,91,4,False,2011,Final, ,103,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+29897,2012-04-13T00:00:00.000Z,97,4,False,2011,Final, ,113,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+29898,2012-04-14T00:00:00.000Z,110,4,False,2011,Final, ,115,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+29899,2012-04-15T00:00:00.000Z,112,4,False,2011,Final, ,108,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+29900,2012-04-16T00:00:00.000Z,92,4,False,2011,Final, ,77,13,LAC,LA,West,Pacific,LA Clippers,Clippers,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+29901,2012-04-17T00:00:00.000Z,118,4,False,2011,Final, ,110,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+29902,2012-04-18T00:00:00.000Z,121,4,False,2011,Final, ,112,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+29903,2012-04-20T00:00:00.000Z,92,4,False,2011,Final, ,103,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+29904,2012-04-21T00:00:00.000Z,93,4,False,2011,Final, ,83,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+29905,2012-04-22T00:00:00.000Z,114,4,False,2011,Final, ,106,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+29906,2012-04-26T00:00:00.000Z,108,4,False,2011,Final, ,86,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+30028,2012-04-06T00:00:00.000Z,97,4,False,2011,Final, ,99,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+30029,2012-04-07T00:00:00.000Z,112,4,False,2011,Final, ,97,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+30030,2012-04-08T00:00:00.000Z,122,4,False,2011,Final, ,117,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+30031,2012-04-09T00:00:00.000Z,91,4,False,2011,Final, ,93,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+30032,2012-04-10T00:00:00.000Z,93,4,False,2011,Final, ,85,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+30033,2012-04-11T00:00:00.000Z,75,4,False,2011,Final, ,93,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+30034,2012-04-11T00:00:00.000Z,118,4,False,2011,Final, ,110,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+30035,2012-04-12T00:00:00.000Z,85,4,False,2011,Final, ,109,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+30036,2012-04-13T00:00:00.000Z,103,4,False,2011,Final, ,65,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+30037,2012-04-14T00:00:00.000Z,89,4,False,2011,Final, ,98,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+30038,2012-04-15T00:00:00.000Z,84,4,False,2011,Final, ,100,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+30039,2012-04-16T00:00:00.000Z,113,4,False,2011,Final, ,100,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+30040,2012-04-18T00:00:00.000Z,103,4,False,2011,Final, ,91,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+30041,2012-04-22T00:00:00.000Z,107,4,False,2011,Final, ,98,13,LAC,LA,West,Pacific,LA Clippers,Clippers,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+30042,2012-04-23T00:00:00.000Z,101,4,False,2011,Final, ,73,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+30043,2012-04-24T00:00:00.000Z,81,4,False,2011,Final, ,83,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+30044,2012-04-25T00:00:00.000Z,102,4,False,2011,Final, ,95,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+30045,2012-04-26T00:00:00.000Z,88,4,False,2011,Final, ,76,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+30046,2012-04-26T00:00:00.000Z,101,4,False,2011,Final, ,107,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+30164,2012-04-06T00:00:00.000Z,105,4,False,2011,Final, ,99,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+30165,2012-04-07T00:00:00.000Z,116,4,False,2011,Final, ,94,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+30166,2012-04-08T00:00:00.000Z,91,4,False,2011,Final, ,75,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+30167,2012-04-09T00:00:00.000Z,85,4,False,2011,Final, ,113,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+30168,2012-04-11T00:00:00.000Z,113,4,False,2011,Final, ,107,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+30169,2012-04-12T00:00:00.000Z,96,4,False,2011,Final, ,86,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+30170,2012-04-13T00:00:00.000Z,84,4,False,2011,Final, ,79,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+30171,2012-04-14T00:00:00.000Z,82,4,False,2011,Final, ,94,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+30172,2012-04-15T00:00:00.000Z,82,4,False,2011,Final, ,94,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+30173,2012-04-16T00:00:00.000Z,84,4,False,2011,Final, ,87,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+30174,2012-04-17T00:00:00.000Z,91,4,False,2011,Final, ,112,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+30175,2012-04-18T00:00:00.000Z,87,4,False,2011,Final, ,103,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+30176,2012-04-18T00:00:00.000Z,91,4,False,2011,Final, ,112,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+30177,2012-04-19T00:00:00.000Z,83,4,False,2011,Final, ,72,16,MIA,Miami,East,Southeast,Miami Heat,Heat,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+30178,2012-04-20T00:00:00.000Z,97,4,False,2011,Final, ,92,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+30179,2012-04-21T00:00:00.000Z,99,4,False,2011,Final, ,96,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+30180,2012-04-22T00:00:00.000Z,88,4,False,2011,Final, ,114,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+30181,2012-04-25T00:00:00.000Z,106,4,False,2011,Final, ,110,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+30182,2012-04-26T00:00:00.000Z,98,4,False,2011,Final, ,67,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+30300,2012-04-06T00:00:00.000Z,104,4,False,2011,Final, ,98,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+30301,2012-04-07T00:00:00.000Z,125,4,False,2011,Final, ,105,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+30302,2012-04-08T00:00:00.000Z,114,4,False,2011,Final, ,104,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+30303,2012-04-09T00:00:00.000Z,119,4,False,2011,Final, ,89,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+30304,2012-04-10T00:00:00.000Z,103,4,False,2011,Final, ,90,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+30305,2012-04-11T00:00:00.000Z,88,4,False,2011,Final, ,86,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+30306,2012-04-12T00:00:00.000Z,107,4,False,2011,Final, ,97,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+30307,2012-04-13T00:00:00.000Z,102,4,False,2011,Final, ,83,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+30308,2012-04-14T00:00:00.000Z,105,4,False,2011,Final, ,91,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+30309,2012-04-15T00:00:00.000Z,104,4,False,2011,Final, ,103,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+30310,2012-04-16T00:00:00.000Z,67,4,False,2011,Final, ,75,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+30311,2012-04-17T00:00:00.000Z,116,4,False,2011,Final, ,77,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+30312,2012-04-18T00:00:00.000Z,95,4,False,2011,Final, ,104,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+30313,2012-04-21T00:00:00.000Z,117,4,False,2011,Final, ,107,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+30314,2012-04-22T00:00:00.000Z,76,4,False,2011,Final, ,73,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+30315,2012-04-23T00:00:00.000Z,109,4,False,2011,Final, ,101,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+30316,2012-04-24T00:00:00.000Z,100,4,False,2011,Final, ,88,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+30317,2012-04-25T00:00:00.000Z,99,4,False,2011,Final, ,93,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+30318,2012-04-26T00:00:00.000Z,84,4,False,2011,Final, ,104,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+32747,2012-03-01T00:00:00.000Z,100,4,False,2011,Final, ,108,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+32748,2012-03-02T00:00:00.000Z,99,4,False,2011,Final, ,102,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+32749,2012-03-03T00:00:00.000Z,110,4,False,2011,Final, ,122,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+32750,2012-03-04T00:00:00.000Z,93,4,False,2011,Final, ,83,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+32751,2012-03-05T00:00:00.000Z,95,4,False,2011,Final, ,94,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+32752,2012-03-06T00:00:00.000Z,108,4,False,2011,Final, ,78,16,MIA,Miami,East,Southeast,Miami Heat,Heat,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+32753,2012-03-07T00:00:00.000Z,89,4,False,2011,Final, ,86,16,MIA,Miami,East,Southeast,Miami Heat,Heat,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+32754,2012-03-09T00:00:00.000Z,110,4,False,2011,Final, ,97,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+32755,2012-03-10T00:00:00.000Z,106,4,False,2011,Final, ,112,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+32756,2012-03-12T00:00:00.000Z,99,4,False,2011,Final, ,105,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+32757,2012-03-13T00:00:00.000Z,118,4,False,2011,Final, ,117,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+32758,2012-03-14T00:00:00.000Z,101,4,False,2011,Final, ,107,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+32759,2012-03-14T00:00:00.000Z,103,4,False,2011,Final, ,105,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+32760,2012-03-15T00:00:00.000Z,101,4,False,2011,Final, ,96,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+32761,2012-03-16T00:00:00.000Z,89,4,False,2011,Final, ,100,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+32762,2012-03-17T00:00:00.000Z,106,4,False,2011,Final, ,99,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+32763,2012-03-18T00:00:00.000Z,91,4,False,2011,Final, ,81,16,MIA,Miami,East,Southeast,Miami Heat,Heat,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+32764,2012-03-19T00:00:00.000Z,59,4,False,2011,Final, ,85,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+32765,2012-03-20T00:00:00.000Z,99,4,False,2011,Final, ,95,16,MIA,Miami,East,Southeast,Miami Heat,Heat,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+32766,2012-03-21T00:00:00.000Z,89,4,False,2011,Final, ,108,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+32767,2012-03-23T00:00:00.000Z,121,4,False,2011,Final, ,102,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+32768,2012-03-24T00:00:00.000Z,102,4,False,2011,Final, ,89,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+32769,2012-03-25T00:00:00.000Z,93,4,False,2011,Final, ,76,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+32770,2012-03-26T00:00:00.000Z,89,4,False,2011,Final, ,80,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+32771,2012-03-27T00:00:00.000Z,101,4,False,2011,Final, ,104,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+32772,2012-03-28T00:00:00.000Z,108,4,False,2011,Final, ,86,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+32773,2012-03-30T00:00:00.000Z,98,4,False,2011,Final, ,89,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+29096,2012-04-28T00:00:00.000Z,99,4,True,2011,Final, ,98,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+29097,2012-04-29T00:00:00.000Z,83,4,True,2011,Final, ,74,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+29098,2012-04-30T00:00:00.000Z,104,4,True,2011,Final, ,94,16,MIA,Miami,East,Southeast,Miami Heat,Heat,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+29099,2012-05-01T00:00:00.000Z,104,4,True,2011,Final, ,100,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+29100,2012-05-02T00:00:00.000Z,114,4,True,2011,Final, ,83,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+29101,2012-05-04T00:00:00.000Z,99,4,True,2011,Final, ,84,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+29102,2012-05-05T00:00:00.000Z,87,4,True,2011,Final, ,86,13,LAC,LA,West,Pacific,LA Clippers,Clippers,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+29103,2012-05-06T00:00:00.000Z,101,4,True,2011,Final, ,79,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+29104,2012-05-07T00:00:00.000Z,101,4,True,2011,Final, ,97,13,LAC,LA,West,Pacific,LA Clippers,Clippers,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+29105,2012-05-08T00:00:00.000Z,77,4,True,2011,Final, ,69,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+29772,2012-04-28T00:00:00.000Z,77,4,True,2011,Final, ,81,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+29773,2012-04-29T00:00:00.000Z,103,4,True,2011,Final, ,88,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+30047,2012-04-28T00:00:00.000Z,103,4,True,2011,Final, ,91,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+30048,2012-04-29T00:00:00.000Z,98,4,True,2011,Final, ,99,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+30049,2012-04-30T00:00:00.000Z,93,4,True,2011,Final, ,78,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+30050,2012-05-01T00:00:00.000Z,80,4,True,2011,Final, ,87,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+30051,2012-05-02T00:00:00.000Z,105,4,True,2011,Final, ,98,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+30052,2012-05-03T00:00:00.000Z,70,4,True,2011,Final, ,87,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+30053,2012-05-04T00:00:00.000Z,79,4,True,2011,Final, ,74,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+30054,2012-05-05T00:00:00.000Z,99,4,True,2011,Final, ,101,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+30055,2012-05-05T00:00:00.000Z,90,4,True,2011,Final, ,102,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+30056,2012-05-06T00:00:00.000Z,89,4,True,2011,Final, ,87,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+30057,2012-05-08T00:00:00.000Z,99,4,True,2011,Final, ,102,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+30058,2012-05-10T00:00:00.000Z,113,4,True,2011,Final, ,96,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+30059,2012-05-12T00:00:00.000Z,96,4,True,2011,Final, ,87,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+30060,2012-05-13T00:00:00.000Z,95,4,True,2011,Final, ,86,16,MIA,Miami,East,Southeast,Miami Heat,Heat,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+30061,2012-05-14T00:00:00.000Z,119,4,True,2011,Final, ,90,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+30062,2012-05-15T00:00:00.000Z,75,4,True,2011,Final, ,78,16,MIA,Miami,East,Southeast,Miami Heat,Heat,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+30063,2012-05-16T00:00:00.000Z,77,4,True,2011,Final, ,75,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+30064,2012-05-17T00:00:00.000Z,94,4,True,2011,Final, ,75,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+30065,2012-05-18T00:00:00.000Z,99,4,True,2011,Final, ,96,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+30066,2012-05-19T00:00:00.000Z,86,4,True,2011,Final, ,96,13,LAC,LA,West,Pacific,LA Clippers,Clippers,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+30067,2012-05-20T00:00:00.000Z,99,4,True,2011,Final, ,102,13,LAC,LA,West,Pacific,LA Clippers,Clippers,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+30068,2012-05-21T00:00:00.000Z,101,4,True,2011,Final, ,85,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+30069,2012-06-03T00:00:00.000Z,93,4,True,2011,Final, ,91,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+30436,2012-04-28T00:00:00.000Z,100,4,True,2011,Final, ,67,16,MIA,Miami,East,Southeast,Miami Heat,Heat,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+30437,2012-04-29T00:00:00.000Z,106,4,True,2011,Final, ,91,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+30438,2012-04-30T00:00:00.000Z,102,4,True,2011,Final, ,99,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+30439,2012-05-01T00:00:00.000Z,92,4,True,2011,Final, ,109,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+30440,2012-05-02T00:00:00.000Z,74,4,True,2011,Final, ,97,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+30441,2012-05-03T00:00:00.000Z,79,4,True,2011,Final, ,95,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+30442,2012-05-04T00:00:00.000Z,90,4,True,2011,Final, ,84,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+30443,2012-05-05T00:00:00.000Z,97,4,True,2011,Final, ,103,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+30444,2012-05-06T00:00:00.000Z,88,4,True,2011,Final, ,92,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+30445,2012-05-07T00:00:00.000Z,81,4,True,2011,Final, ,87,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+30446,2012-05-08T00:00:00.000Z,87,4,True,2011,Final, ,86,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+30447,2012-05-09T00:00:00.000Z,92,4,True,2011,Final, ,80,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+30448,2012-05-10T00:00:00.000Z,83,4,True,2011,Final, ,80,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+30572,2012-05-06T00:00:00.000Z,89,4,True,2011,Final, ,82,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+30573,2012-05-08T00:00:00.000Z,105,4,True,2011,Final, ,87,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+30574,2012-05-09T00:00:00.000Z,106,4,True,2011,Final, ,94,16,MIA,Miami,East,Southeast,Miami Heat,Heat,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+30575,2012-05-10T00:00:00.000Z,79,4,True,2011,Final, ,78,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+30576,2012-05-11T00:00:00.000Z,88,4,True,2011,Final, ,90,13,LAC,LA,West,Pacific,LA Clippers,Clippers,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+30577,2012-05-12T00:00:00.000Z,92,4,True,2011,Final, ,91,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+30578,2012-05-13T00:00:00.000Z,72,4,True,2011,Final, ,82,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+30579,2012-05-14T00:00:00.000Z,81,4,True,2011,Final, ,82,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+30580,2012-05-15T00:00:00.000Z,108,4,True,2011,Final, ,92,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+30581,2012-05-16T00:00:00.000Z,91,4,True,2011,Final, ,107,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+30582,2012-05-17T00:00:00.000Z,105,4,True,2011,Final, ,88,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+30583,2012-05-18T00:00:00.000Z,92,4,True,2011,Final, ,83,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+30584,2012-05-19T00:00:00.000Z,100,4,True,2011,Final, ,103,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+30585,2012-05-20T00:00:00.000Z,93,4,True,2011,Final, ,101,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+30586,2012-05-21T00:00:00.000Z,106,4,True,2011,Final, ,90,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+30587,2012-05-22T00:00:00.000Z,115,4,True,2011,Final, ,83,16,MIA,Miami,East,Southeast,Miami Heat,Heat,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+30588,2012-05-23T00:00:00.000Z,82,4,True,2011,Final, ,75,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+30589,2012-05-24T00:00:00.000Z,93,4,True,2011,Final, ,105,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+30590,2012-05-26T00:00:00.000Z,85,4,True,2011,Final, ,75,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+30591,2012-05-27T00:00:00.000Z,101,4,True,2011,Final, ,98,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+30592,2012-05-28T00:00:00.000Z,93,4,True,2011,Final, ,79,16,MIA,Miami,East,Southeast,Miami Heat,Heat,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+30593,2012-05-29T00:00:00.000Z,120,4,True,2011,Final, ,111,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+30594,2012-05-30T00:00:00.000Z,115,4,True,2011,Final, ,111,16,MIA,Miami,East,Southeast,Miami Heat,Heat,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+30595,2012-05-31T00:00:00.000Z,102,4,True,2011,Final, ,82,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+30596,2012-06-01T00:00:00.000Z,101,4,True,2011,Final, ,91,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+30597,2012-06-02T00:00:00.000Z,109,4,True,2011,Final, ,103,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+30598,2012-06-04T00:00:00.000Z,103,4,True,2011,Final, ,108,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+30599,2012-06-05T00:00:00.000Z,90,4,True,2011,Final, ,94,16,MIA,Miami,East,Southeast,Miami Heat,Heat,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+30600,2012-06-06T00:00:00.000Z,107,4,True,2011,Final, ,99,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+30601,2012-06-07T00:00:00.000Z,79,4,True,2011,Final, ,98,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+30602,2012-06-09T00:00:00.000Z,101,4,True,2011,Final, ,88,16,MIA,Miami,East,Southeast,Miami Heat,Heat,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+30603,2012-06-12T00:00:00.000Z,105,4,True,2011,Final, ,94,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+30604,2012-06-14T00:00:00.000Z,96,4,True,2011,Final, ,100,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+30605,2012-06-17T00:00:00.000Z,91,4,True,2011,Final, ,85,16,MIA,Miami,East,Southeast,Miami Heat,Heat,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+30606,2012-06-19T00:00:00.000Z,104,4,True,2011,Final, ,98,16,MIA,Miami,East,Southeast,Miami Heat,Heat,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+30607,2012-06-21T00:00:00.000Z,121,4,True,2011,Final, ,106,16,MIA,Miami,East,Southeast,Miami Heat,Heat,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder

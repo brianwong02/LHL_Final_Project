@@ -1,0 +1,1173 @@
+id,date,home_team_score,period,postseason,season,status,time,visitor_team_score,home_team.id,home_team.abbreviation,home_team.city,home_team.conference,home_team.division,home_team.full_name,home_team.name,visitor_team.id,visitor_team.abbreviation,visitor_team.city,visitor_team.conference,visitor_team.division,visitor_team.full_name,visitor_team.name
+127502,2020-12-22T00:00:00.000Z,125,4,False,2020,Final,,99,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+127503,2020-12-22T00:00:00.000Z,109,4,False,2020,Final,,116,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+127519,2020-12-25T00:00:00.000Z,111,4,False,2020,Final,,98,16,MIA,Miami,East,Southeast,Miami Heat,Heat,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+127526,2020-12-26T00:00:00.000Z,120,4,False,2020,Final,,130,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+127504,2020-12-23T00:00:00.000Z,121,4,False,2020,Final,,114,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+127512,2020-12-23T00:00:00.000Z,111,4,False,2020,Final,,101,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+127521,2020-12-25T00:00:00.000Z,138,4,False,2020,Final,,99,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+127505,2020-12-23T00:00:00.000Z,121,4,False,2020,Final,,107,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+127506,2020-12-23T00:00:00.000Z,113,4,False,2020,Final,,107,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+127514,2020-12-23T00:00:00.000Z,122,5,False,2020,Final,,124,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+127515,2020-12-23T00:00:00.000Z,100,4,False,2020,Final,,120,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+127507,2020-12-23T00:00:00.000Z,113,4,False,2020,Final,,107,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+127517,2020-12-25T00:00:00.000Z,95,4,False,2020,Final,,123,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+127520,2020-12-25T00:00:00.000Z,138,4,False,2020,Final,,115,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+127518,2020-12-25T00:00:00.000Z,108,4,False,2020,Final,,121,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+127508,2020-12-23T00:00:00.000Z,122,4,False,2020,Final,,121,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+127510,2020-12-23T00:00:00.000Z,104,4,False,2020,Final,,124,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+127528,2020-12-26T00:00:00.000Z,112,4,False,2020,Final,,122,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+127513,2020-12-23T00:00:00.000Z,119,4,False,2020,Final,,131,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+127509,2020-12-23T00:00:00.000Z,99,4,False,2020,Final,,113,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+127516,2020-12-23T00:00:00.000Z,106,4,False,2020,Final,,102,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+127525,2020-12-26T00:00:00.000Z,107,4,False,2020,Final,,109,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+127524,2020-12-26T00:00:00.000Z,119,6,False,2020,Final,,128,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+127522,2020-12-26T00:00:00.000Z,89,4,False,2020,Final,,109,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+127527,2020-12-26T00:00:00.000Z,106,4,False,2020,Final,,125,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+127529,2020-12-26T00:00:00.000Z,119,4,False,2020,Final,,114,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+127523,2020-12-26T00:00:00.000Z,111,4,False,2020,Final,,116,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+127531,2020-12-26T00:00:00.000Z,106,4,False,2020,Final,,103,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+127530,2020-12-26T00:00:00.000Z,128,5,False,2020,Final,,126,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+127548,2020-12-29T00:00:00.000Z,107,4,False,2020,Final,,115,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+127549,2020-12-29T00:00:00.000Z,107,4,False,2020,Final,,118,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+127532,2020-12-27T00:00:00.000Z,100,4,False,2020,Final,,116,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+127535,2020-12-27T00:00:00.000Z,118,4,False,2020,Final,,94,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+127541,2020-12-27T00:00:00.000Z,127,4,False,2020,Final,,91,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+127534,2020-12-27T00:00:00.000Z,128,4,False,2020,Final,,129,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+127550,2020-12-29T00:00:00.000Z,124,4,False,2020,Final,,101,13,LAC,LA,West,Pacific,LA Clippers,Clippers,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+127533,2020-12-27T00:00:00.000Z,108,4,False,2020,Final,,107,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+127551,2020-12-29T00:00:00.000Z,111,4,False,2020,Final,,86,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+127538,2020-12-27T00:00:00.000Z,130,4,False,2020,Final,,110,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+127540,2020-12-27T00:00:00.000Z,73,4,False,2020,Final,,124,13,LAC,LA,West,Pacific,LA Clippers,Clippers,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+127536,2020-12-27T00:00:00.000Z,106,4,False,2020,Final,,104,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+127539,2020-12-27T00:00:00.000Z,113,4,False,2020,Final,,120,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+127537,2020-12-27T00:00:00.000Z,98,4,False,2020,Final,,95,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+127547,2020-12-29T00:00:00.000Z,100,4,False,2020,Final,,93,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+127542,2020-12-28T00:00:00.000Z,128,4,False,2020,Final,,120,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+127544,2020-12-28T00:00:00.000Z,111,5,False,2020,Final,,116,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+127543,2020-12-28T00:00:00.000Z,109,4,False,2020,Final,,110,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+127546,2020-12-28T00:00:00.000Z,124,4,False,2020,Final,,111,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+127545,2020-12-28T00:00:00.000Z,107,4,False,2020,Final,,115,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+127701,2021-01-17T00:00:00.000Z,119,4,False,2020,Final,,110,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+127597,2021-01-04T00:00:00.000Z,118,4,False,2020,Final,,101,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+127684,2021-01-15T00:00:00.000Z,127,5,False,2020,Final,,125,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+127792,2021-01-29T00:00:00.000Z,108,4,False,2020,Final,,105,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+127562,2020-12-30T00:00:00.000Z,128,4,False,2020,Final,,105,13,LAC,LA,West,Pacific,LA Clippers,Clippers,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+127803,2021-01-30T00:00:00.000Z,95,4,False,2020,Final,,96,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+127810,2021-01-31T00:00:00.000Z,115,4,False,2020,Final,,129,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+127589,2021-01-03T00:00:00.000Z,94,4,False,2020,Final,,108,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+127623,2021-01-07T00:00:00.000Z,90,4,False,2020,Final,,94,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+128010,2021-02-26T00:00:00.000Z,107,4,False,2020,Final,,110,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+127576,2021-01-01T00:00:00.000Z,93,4,False,2020,Final,,83,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+127640,2021-01-09T00:00:00.000Z,112,4,False,2020,Final,,98,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+127583,2021-01-02T00:00:00.000Z,127,4,False,2020,Final,,112,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+127858,2021-02-06T00:00:00.000Z,99,4,False,2020,Final,,124,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+127647,2021-01-10T00:00:00.000Z,116,4,False,2020,Final,,129,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+127552,2020-12-29T00:00:00.000Z,106,4,False,2020,Final,,116,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+127567,2020-12-31T00:00:00.000Z,119,4,False,2020,Final,,99,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+127654,2021-01-11T00:00:00.000Z,128,4,False,2020,Final,,107,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+127708,2021-01-18T00:00:00.000Z,113,4,False,2020,Final,,107,16,MIA,Miami,East,Southeast,Miami Heat,Heat,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+127941,2021-02-17T00:00:00.000Z,118,4,False,2020,Final,,113,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+128056,2021-03-04T00:00:00.000Z,119,4,False,2020,Final,,117,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+127616,2021-01-06T00:00:00.000Z,112,4,False,2020,Final,,100,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+127832,2021-02-03T00:00:00.000Z,104,4,False,2020,Final,,87,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+127849,2021-02-05T00:00:00.000Z,123,4,False,2020,Final,,119,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+127736,2021-01-22T00:00:00.000Z,122,4,False,2020,Final,,110,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+127630,2021-01-08T00:00:00.000Z,110,5,False,2020,Final,,105,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+127742,2021-01-22T00:00:00.000Z,103,4,False,2020,Final,,94,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+127777,2021-01-27T00:00:00.000Z,128,5,False,2020,Final,,132,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+127784,2021-01-27T00:00:00.000Z,116,4,False,2020,Final,,104,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+127923,2021-02-15T00:00:00.000Z,129,4,False,2020,Final,,98,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+127888,2021-02-10T00:00:00.000Z,114,5,False,2020,Final,,113,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+128003,2021-02-25T00:00:00.000Z,110,4,False,2020,Final,,112,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+127719,2021-01-20T00:00:00.000Z,103,4,False,2020,Final,,109,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+127842,2021-02-04T00:00:00.000Z,114,4,False,2020,Final,,93,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+127932,2021-02-16T00:00:00.000Z,113,4,False,2020,Final,,124,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+127747,2021-01-23T00:00:00.000Z,127,4,False,2020,Final,,108,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+127694,2021-01-16T00:00:00.000Z,111,4,False,2020,Final,,122,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+127996,2021-02-24T00:00:00.000Z,128,4,False,2020,Final,,118,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+127956,2021-02-19T00:00:00.000Z,81,4,False,2020,Final,,86,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+128051,2021-03-03T00:00:00.000Z,102,4,False,2020,Final,,135,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+127755,2021-01-24T00:00:00.000Z,108,4,False,2020,Final,,100,13,LAC,LA,West,Pacific,LA Clippers,Clippers,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+127903,2021-02-12T00:00:00.000Z,106,4,False,2020,Final,,125,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+127762,2021-01-25T00:00:00.000Z,98,4,False,2020,Final,,85,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+127908,2021-02-13T00:00:00.000Z,121,4,False,2020,Final,,99,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+127964,2021-02-20T00:00:00.000Z,97,4,False,2020,Final,,128,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+127917,2021-02-14T00:00:00.000Z,112,4,False,2020,Final,,116,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+127969,2021-02-21T00:00:00.000Z,103,4,False,2020,Final,,99,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+127978,2021-02-22T00:00:00.000Z,132,4,False,2020,Final,,100,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+127788,2021-01-28T00:00:00.000Z,107,4,False,2020,Final,,92,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+127983,2021-02-23T00:00:00.000Z,106,4,False,2020,Final,,114,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+127818,2021-02-01T00:00:00.000Z,110,4,False,2020,Final,,102,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+128040,2021-03-02T00:00:00.000Z,97,4,False,2020,Final,,128,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+128034,2021-03-01T00:00:00.000Z,90,4,False,2020,Final,,101,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+128027,2021-02-28T00:00:00.000Z,111,4,False,2020,Final,,110,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+128019,2021-02-27T00:00:00.000Z,98,4,False,2020,Final,,115,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+127835,2021-02-03T00:00:00.000Z,111,4,False,2020,Final,,108,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+127739,2021-01-22T00:00:00.000Z,117,4,False,2020,Final,,122,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+127622,2021-01-07T00:00:00.000Z,117,5,False,2020,Final,,124,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+127988,2021-02-23T00:00:00.000Z,102,4,False,2020,Final,,109,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+127860,2021-02-06T00:00:00.000Z,124,4,False,2020,Final,,108,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+127757,2021-01-24T00:00:00.000Z,104,4,False,2020,Final,,107,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+127617,2021-01-06T00:00:00.000Z,130,4,False,2020,Final,,115,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+128043,2021-03-02T00:00:00.000Z,80,4,False,2020,Final,,94,16,MIA,Miami,East,Southeast,Miami Heat,Heat,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+127997,2021-02-24T00:00:00.000Z,121,4,False,2020,Final,,124,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+127918,2021-02-14T00:00:00.000Z,110,4,False,2020,Final,,122,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+127765,2021-01-25T00:00:00.000Z,129,4,False,2020,Final,,114,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+127781,2021-01-27T00:00:00.000Z,124,4,False,2020,Final,,106,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+127639,2021-01-09T00:00:00.000Z,103,4,False,2020,Final,,115,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+127972,2021-02-21T00:00:00.000Z,108,4,False,2020,Final,,112,13,LAC,LA,West,Pacific,LA Clippers,Clippers,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+127787,2021-01-28T00:00:00.000Z,104,4,False,2020,Final,,101,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+128020,2021-02-27T00:00:00.000Z,96,4,False,2020,Final,,126,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+127600,2021-01-04T00:00:00.000Z,118,4,False,2020,Final,,90,16,MIA,Miami,East,Southeast,Miami Heat,Heat,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+127593,2021-01-03T00:00:00.000Z,107,4,False,2020,Final,,112,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+127575,2021-01-01T00:00:00.000Z,103,4,False,2020,Final,,106,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+127555,2020-12-29T00:00:00.000Z,111,4,False,2020,Final,,116,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+127926,2021-02-15T00:00:00.000Z,106,4,False,2020,Final,,136,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+127905,2021-02-12T00:00:00.000Z,97,4,False,2020,Final,,95,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+127715,2021-01-19T00:00:00.000Z,118,4,False,2020,Final,,102,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+127648,2021-01-10T00:00:00.000Z,96,4,False,2020,Final,,88,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+127819,2021-02-01T00:00:00.000Z,106,4,False,2020,Final,,136,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+127627,2021-01-08T00:00:00.000Z,116,4,False,2020,Final,,107,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+127748,2021-01-23T00:00:00.000Z,90,4,False,2020,Final,,101,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+127882,2021-02-09T00:00:00.000Z,122,4,False,2020,Final,,108,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+127723,2021-01-20T00:00:00.000Z,119,4,False,2020,Final,,97,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+127889,2021-02-10T00:00:00.000Z,130,4,False,2020,Final,,114,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+127687,2021-01-15T00:00:00.000Z,112,4,False,2020,Final,,109,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+127793,2021-01-29T00:00:00.000Z,100,4,False,2020,Final,,116,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+127848,2021-02-05T00:00:00.000Z,103,4,False,2020,Final,,106,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+128046,2021-03-03T00:00:00.000Z,131,5,False,2020,Final,,123,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+127713,2021-01-18T00:00:00.000Z,116,4,False,2020,Final,,93,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+128025,2021-02-28T00:00:00.000Z,109,4,False,2020,Final,,99,16,MIA,Miami,East,Southeast,Miami Heat,Heat,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+128058,2021-03-04T00:00:00.000Z,102,4,False,2020,Final,,107,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+127979,2021-02-22T00:00:00.000Z,132,4,False,2020,Final,,110,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+127804,2021-01-30T00:00:00.000Z,118,4,False,2020,Final,,91,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+127911,2021-02-13T00:00:00.000Z,117,4,False,2020,Final,,134,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+127933,2021-02-16T00:00:00.000Z,104,4,False,2020,Final,,115,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+127939,2021-02-17T00:00:00.000Z,114,4,False,2020,Final,,122,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+127875,2021-02-08T00:00:00.000Z,112,4,False,2020,Final,,125,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+128011,2021-02-26T00:00:00.000Z,118,4,False,2020,Final,,109,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+128033,2021-03-01T00:00:00.000Z,112,4,False,2020,Final,,118,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+127957,2021-02-19T00:00:00.000Z,102,4,False,2020,Final,,93,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+127568,2020-12-31T00:00:00.000Z,100,4,False,2020,Final,,83,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+127637,2021-01-09T00:00:00.000Z,117,4,False,2020,Final,,125,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+127605,2021-01-05T00:00:00.000Z,113,4,False,2020,Final,,116,13,LAC,LA,West,Pacific,LA Clippers,Clippers,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+127578,2021-01-01T00:00:00.000Z,126,4,False,2020,Final,,96,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+127685,2021-01-15T00:00:00.000Z,106,4,False,2020,Final,,103,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+127735,2021-01-22T00:00:00.000Z,125,4,False,2020,Final,,113,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+127591,2021-01-03T00:00:00.000Z,122,4,False,2020,Final,,123,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+127585,2021-01-02T00:00:00.000Z,99,4,False,2020,Final,,108,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+127598,2021-01-04T00:00:00.000Z,114,4,False,2020,Final,,126,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+127816,2021-02-01T00:00:00.000Z,99,4,False,2020,Final,,107,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+127558,2020-12-30T00:00:00.000Z,119,4,False,2020,Final,,108,16,MIA,Miami,East,Southeast,Miami Heat,Heat,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+127902,2021-02-12T00:00:00.000Z,91,4,False,2020,Final,,109,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+127629,2021-01-08T00:00:00.000Z,115,4,False,2020,Final,,105,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+127915,2021-02-14T00:00:00.000Z,102,4,False,2020,Final,,108,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+127554,2020-12-29T00:00:00.000Z,97,4,False,2020,Final,,144,16,MIA,Miami,East,Southeast,Miami Heat,Heat,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+127894,2021-02-11T00:00:00.000Z,94,4,False,2020,Final,,101,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+127646,2021-01-10T00:00:00.000Z,89,4,False,2020,Final,,114,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+127653,2021-01-11T00:00:00.000Z,99,4,False,2020,Final,,121,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+127696,2021-01-16T00:00:00.000Z,106,4,False,2020,Final,,104,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+127767,2021-01-25T00:00:00.000Z,113,4,False,2020,Final,,117,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+127610,2021-01-06T00:00:00.000Z,105,4,False,2020,Final,,94,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+127798,2021-01-29T00:00:00.000Z,119,4,False,2020,Final,,109,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+127707,2021-01-18T00:00:00.000Z,108,4,False,2020,Final,,104,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+127700,2021-01-17T00:00:00.000Z,75,4,False,2020,Final,,105,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+127826,2021-02-02T00:00:00.000Z,117,4,False,2020,Final,,105,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+127970,2021-02-21T00:00:00.000Z,101,4,False,2020,Final,,117,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+127801,2021-01-30T00:00:00.000Z,122,4,False,2020,Final,,123,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+127977,2021-02-22T00:00:00.000Z,100,4,False,2020,Final,,120,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+127721,2021-01-20T00:00:00.000Z,102,4,False,2020,Final,,111,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+127986,2021-02-23T00:00:00.000Z,127,4,False,2020,Final,,118,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+127831,2021-02-03T00:00:00.000Z,99,4,False,2020,Final,,121,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+127844,2021-02-05T00:00:00.000Z,113,4,False,2020,Final,,114,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+127865,2021-02-07T00:00:00.000Z,100,4,False,2020,Final,,91,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+127809,2021-01-31T00:00:00.000Z,115,4,False,2020,Final,,102,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+127840,2021-02-04T00:00:00.000Z,91,4,False,2020,Final,,112,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+127859,2021-02-06T00:00:00.000Z,92,4,False,2020,Final,,118,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+127993,2021-02-24T00:00:00.000Z,127,4,False,2020,Final,,112,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+128000,2021-02-25T00:00:00.000Z,129,4,False,2020,Final,,92,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+127872,2021-02-08T00:00:00.000Z,101,4,False,2020,Final,,105,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+128009,2021-02-26T00:00:00.000Z,97,4,False,2020,Final,,106,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+128016,2021-02-27T00:00:00.000Z,110,4,False,2020,Final,,107,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+127878,2021-02-09T00:00:00.000Z,98,4,False,2020,Final,,96,16,MIA,Miami,East,Southeast,Miami Heat,Heat,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+127953,2021-02-19T00:00:00.000Z,109,4,False,2020,Final,,95,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+127887,2021-02-10T00:00:00.000Z,104,4,False,2020,Final,,94,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+127922,2021-02-15T00:00:00.000Z,123,4,False,2020,Final,,112,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+127962,2021-02-20T00:00:00.000Z,124,4,False,2020,Final,,132,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+127778,2021-01-27T00:00:00.000Z,101,4,False,2020,Final,,90,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+128026,2021-02-28T00:00:00.000Z,113,4,False,2020,Final,,122,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+127910,2021-02-13T00:00:00.000Z,113,4,False,2020,Final,,125,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+128054,2021-03-04T00:00:00.000Z,103,4,False,2020,Final,,113,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+128032,2021-03-01T00:00:00.000Z,130,4,False,2020,Final,,114,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+128041,2021-03-02T00:00:00.000Z,117,4,False,2020,Final,,112,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+128049,2021-03-03T00:00:00.000Z,112,4,False,2020,Final,,115,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+127937,2021-02-17T00:00:00.000Z,110,4,False,2020,Final,,116,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+127931,2021-02-16T00:00:00.000Z,99,4,False,2020,Final,,109,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+128005,2021-02-26T00:00:00.000Z,102,4,False,2020,Final,,93,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+127564,2020-12-31T00:00:00.000Z,80,4,False,2020,Final,,113,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+127728,2021-01-21T00:00:00.000Z,106,4,False,2020,Final,,113,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+127614,2021-01-06T00:00:00.000Z,123,4,False,2020,Final,,115,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+127864,2021-02-07T00:00:00.000Z,95,4,False,2020,Final,,103,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+127586,2021-01-03T00:00:00.000Z,118,4,False,2020,Final,,108,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+127785,2021-01-28T00:00:00.000Z,114,4,False,2020,Final,,93,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+127789,2021-01-29T00:00:00.000Z,102,4,False,2020,Final,,81,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+127556,2020-12-29T00:00:00.000Z,125,4,False,2020,Final,,115,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+128021,2021-02-28T00:00:00.000Z,126,4,False,2020,Final,,127,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+127869,2021-02-08T00:00:00.000Z,127,4,False,2020,Final,,122,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+127731,2021-01-22T00:00:00.000Z,120,5,False,2020,Final,,118,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+127740,2021-01-22T00:00:00.000Z,120,4,False,2020,Final,,106,13,LAC,LA,West,Pacific,LA Clippers,Clippers,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+127580,2021-01-02T00:00:00.000Z,120,4,False,2020,Final,,116,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+127620,2021-01-07T00:00:00.000Z,135,4,False,2020,Final,,117,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+127571,2021-01-01T00:00:00.000Z,103,4,False,2020,Final,,109,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+127774,2021-01-27T00:00:00.000Z,82,4,False,2020,Final,,109,16,MIA,Miami,East,Southeast,Miami Heat,Heat,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+127782,2021-01-27T00:00:00.000Z,97,4,False,2020,Final,,102,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+127557,2020-12-30T00:00:00.000Z,126,4,False,2020,Final,,107,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+127947,2021-02-18T00:00:00.000Z,98,4,False,2020,Final,,109,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+127716,2021-01-20T00:00:00.000Z,117,4,False,2020,Final,,109,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+127594,2021-01-04T00:00:00.000Z,116,5,False,2020,Final,,118,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+127711,2021-01-18T00:00:00.000Z,113,4,False,2020,Final,,115,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+127884,2021-02-10T00:00:00.000Z,133,4,False,2020,Final,,95,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+127743,2021-01-23T00:00:00.000Z,128,4,False,2020,Final,,124,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+127876,2021-02-09T00:00:00.000Z,106,4,False,2020,Final,,97,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+128044,2021-03-03T00:00:00.000Z,123,4,False,2020,Final,,120,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+127626,2021-01-08T00:00:00.000Z,132,4,False,2020,Final,,90,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+127750,2021-01-24T00:00:00.000Z,121,4,False,2020,Final,,101,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+127950,2021-02-19T00:00:00.000Z,112,4,False,2020,Final,,105,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+127898,2021-02-12T00:00:00.000Z,129,4,False,2020,Final,,115,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+127759,2021-01-25T00:00:00.000Z,108,4,False,2020,Final,,115,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+127823,2021-02-02T00:00:00.000Z,108,4,False,2020,Final,,123,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+127828,2021-02-03T00:00:00.000Z,100,4,False,2020,Final,,103,16,MIA,Miami,East,Southeast,Miami Heat,Heat,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+127912,2021-02-14T00:00:00.000Z,109,4,False,2020,Final,,90,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+127973,2021-02-21T00:00:00.000Z,128,4,False,2020,Final,,115,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+127960,2021-02-20T00:00:00.000Z,111,4,False,2020,Final,,118,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+127821,2021-02-01T00:00:00.000Z,134,4,False,2020,Final,,119,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+127861,2021-02-06T00:00:00.000Z,134,4,False,2020,Final,,132,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+127943,2021-02-17T00:00:00.000Z,127,4,False,2020,Final,,117,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+127981,2021-02-23T00:00:00.000Z,111,4,False,2020,Final,,106,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+127990,2021-02-24T00:00:00.000Z,114,4,False,2020,Final,,89,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+127726,2021-01-20T00:00:00.000Z,128,4,False,2020,Final,,130,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+127680,2021-01-15T00:00:00.000Z,135,4,False,2020,Final,,139,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+127650,2021-01-11T00:00:00.000Z,91,4,False,2020,Final,,101,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+127727,2021-01-21T00:00:00.000Z,129,4,False,2020,Final,,118,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+127891,2021-02-10T00:00:00.000Z,118,4,False,2020,Final,,117,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+127560,2020-12-30T00:00:00.000Z,107,4,False,2020,Final,,121,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+127636,2021-01-09T00:00:00.000Z,122,5,False,2020,Final,,125,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+127563,2020-12-31T00:00:00.000Z,92,4,False,2020,Final,,116,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+127790,2021-01-29T00:00:00.000Z,125,4,False,2020,Final,,147,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+127773,2021-01-27T00:00:00.000Z,122,4,False,2020,Final,,107,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+127725,2021-01-20T00:00:00.000Z,115,4,False,2020,Final,,96,13,LAC,LA,West,Pacific,LA Clippers,Clippers,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+127608,2021-01-06T00:00:00.000Z,105,4,False,2020,Final,,107,16,MIA,Miami,East,Southeast,Miami Heat,Heat,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+127602,2021-01-04T00:00:00.000Z,137,4,False,2020,Final,,106,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+127618,2021-01-06T00:00:00.000Z,128,4,False,2020,Final,,124,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+127758,2021-01-25T00:00:00.000Z,103,4,False,2020,Final,,119,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+127928,2021-02-16T00:00:00.000Z,124,4,False,2020,Final,,128,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+127681,2021-01-15T00:00:00.000Z,124,4,False,2020,Final,,97,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+127853,2021-02-06T00:00:00.000Z,120,4,False,2020,Final,,118,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+127752,2021-01-24T00:00:00.000Z,141,4,False,2020,Final,,103,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+127870,2021-02-08T00:00:00.000Z,119,4,False,2020,Final,,113,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+128006,2021-02-26T00:00:00.000Z,99,4,False,2020,Final,,119,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+127570,2021-01-01T00:00:00.000Z,96,4,False,2020,Final,,93,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+127603,2021-01-05T00:00:00.000Z,130,4,False,2020,Final,,96,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+127619,2021-01-07T00:00:00.000Z,122,4,False,2020,Final,,109,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+127959,2021-02-20T00:00:00.000Z,122,4,False,2020,Final,,114,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+127974,2021-02-22T00:00:00.000Z,94,4,False,2020,Final,,108,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+127991,2021-02-24T00:00:00.000Z,133,5,False,2020,Final,,126,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+127697,2021-01-17T00:00:00.000Z,123,4,False,2020,Final,,128,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+127745,2021-01-23T00:00:00.000Z,112,6,False,2020,Final,,120,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+128030,2021-03-01T00:00:00.000Z,129,4,False,2020,Final,,124,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+127625,2021-01-08T00:00:00.000Z,110,4,False,2020,Final,,118,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+127899,2021-02-12T00:00:00.000Z,120,4,False,2020,Final,,106,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+127892,2021-02-11T00:00:00.000Z,118,4,False,2020,Final,,114,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+127807,2021-01-31T00:00:00.000Z,110,4,False,2020,Final,,119,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+127704,2021-01-18T00:00:00.000Z,91,4,False,2020,Final,,84,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+127691,2021-01-16T00:00:00.000Z,116,4,False,2020,Final,,113,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+127907,2021-02-13T00:00:00.000Z,112,4,False,2020,Final,,94,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+127730,2021-01-22T00:00:00.000Z,102,4,False,2020,Final,,103,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+127838,2021-02-04T00:00:00.000Z,103,4,False,2020,Final,,115,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+127935,2021-02-17T00:00:00.000Z,128,5,False,2020,Final,,134,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+127945,2021-02-17T00:00:00.000Z,96,4,False,2020,Final,,114,13,LAC,LA,West,Pacific,LA Clippers,Clippers,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+127799,2021-01-30T00:00:00.000Z,105,4,False,2020,Final,,104,16,MIA,Miami,East,Southeast,Miami Heat,Heat,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+127951,2021-02-19T00:00:00.000Z,112,4,False,2020,Final,,117,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+127814,2021-02-01T00:00:00.000Z,109,4,False,2020,Final,,118,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+127769,2021-01-26T00:00:00.000Z,108,4,False,2020,Final,,94,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+127877,2021-02-09T00:00:00.000Z,130,4,False,2020,Final,,101,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+128014,2021-02-27T00:00:00.000Z,117,4,False,2020,Final,,114,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+127837,2021-02-03T00:00:00.000Z,123,4,False,2020,Final,,101,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+127843,2021-02-05T00:00:00.000Z,105,4,False,2020,Final,,123,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+127966,2021-02-21T00:00:00.000Z,105,4,False,2020,Final,,96,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+128037,2021-03-02T00:00:00.000Z,104,4,False,2020,Final,,114,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+127913,2021-02-14T00:00:00.000Z,114,4,False,2020,Final,,109,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+127989,2021-02-23T00:00:00.000Z,139,4,False,2020,Final,,112,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+127999,2021-02-25T00:00:00.000Z,140,4,False,2020,Final,,121,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+127921,2021-02-15T00:00:00.000Z,131,4,False,2020,Final,,119,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+127948,2021-02-18T00:00:00.000Z,96,4,False,2020,Final,,110,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+128022,2021-02-28T00:00:00.000Z,99,4,False,2020,Final,,118,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+128045,2021-03-03T00:00:00.000Z,87,4,False,2020,Final,,78,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+128053,2021-03-04T00:00:00.000Z,111,4,False,2020,Final,,112,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+127706,2021-01-18T00:00:00.000Z,108,4,False,2020,Final,,97,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+127808,2021-01-31T00:00:00.000Z,109,4,False,2020,Final,,104,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+127952,2021-02-19T00:00:00.000Z,114,4,False,2020,Final,,132,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+127850,2021-02-05T00:00:00.000Z,109,4,False,2020,Final,,92,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+127994,2021-02-24T00:00:00.000Z,116,4,False,2020,Final,,108,16,MIA,Miami,East,Southeast,Miami Heat,Heat,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+127565,2020-12-31T00:00:00.000Z,130,4,False,2020,Final,,133,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+127561,2020-12-30T00:00:00.000Z,99,4,False,2020,Final,,118,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+127596,2021-01-04T00:00:00.000Z,108,4,False,2020,Final,,113,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+127581,2021-01-02T00:00:00.000Z,91,4,False,2020,Final,,96,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+128024,2021-02-28T00:00:00.000Z,90,4,False,2020,Final,,109,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+127929,2021-02-16T00:00:00.000Z,113,4,False,2020,Final,,144,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+127734,2021-01-22T00:00:00.000Z,101,4,False,2020,Final,,81,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+127825,2021-02-02T00:00:00.000Z,107,4,False,2020,Final,,111,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+127604,2021-01-05T00:00:00.000Z,123,4,False,2020,Final,,116,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+127609,2021-01-06T00:00:00.000Z,141,4,False,2020,Final,,136,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+127574,2021-01-01T00:00:00.000Z,96,4,False,2020,Final,,114,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+127693,2021-01-16T00:00:00.000Z,100,4,False,2020,Final,,120,16,MIA,Miami,East,Southeast,Miami Heat,Heat,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+127885,2021-02-10T00:00:00.000Z,129,4,False,2020,Final,,116,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+127802,2021-01-30T00:00:00.000Z,105,4,False,2020,Final,,111,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+127632,2021-01-08T00:00:00.000Z,117,4,False,2020,Final,,115,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+127588,2021-01-03T00:00:00.000Z,109,4,False,2020,Final,,124,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+127871,2021-02-08T00:00:00.000Z,113,4,False,2020,Final,,128,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+127976,2021-02-22T00:00:00.000Z,102,4,False,2020,Final,,92,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+127699,2021-01-17T00:00:00.000Z,93,4,False,2020,Final,,117,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+127901,2021-02-12T00:00:00.000Z,114,4,False,2020,Final,,125,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+127638,2021-01-09T00:00:00.000Z,124,4,False,2020,Final,,128,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+127775,2021-01-27T00:00:00.000Z,107,4,False,2020,Final,,106,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+128002,2021-02-25T00:00:00.000Z,122,4,False,2020,Final,,94,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+127720,2021-01-20T00:00:00.000Z,96,4,False,2020,Final,,97,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+127855,2021-02-06T00:00:00.000Z,132,4,False,2020,Final,,121,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+127645,2021-01-10T00:00:00.000Z,130,4,False,2020,Final,,127,13,LAC,LA,West,Pacific,LA Clippers,Clippers,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+127655,2021-01-11T00:00:00.000Z,112,4,False,2020,Final,,94,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+127815,2021-02-01T00:00:00.000Z,121,5,False,2020,Final,,129,16,MIA,Miami,East,Southeast,Miami Heat,Heat,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+127965,2021-02-20T00:00:00.000Z,94,4,False,2020,Final,,96,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+127794,2021-01-29T00:00:00.000Z,94,4,False,2020,Final,,118,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+128031,2021-03-01T00:00:00.000Z,123,4,False,2020,Final,,111,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+127764,2021-01-25T00:00:00.000Z,130,4,False,2020,Final,,108,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+127916,2021-02-14T00:00:00.000Z,122,4,False,2020,Final,,105,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+127893,2021-02-11T00:00:00.000Z,111,4,False,2020,Final,,105,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+127830,2021-02-03T00:00:00.000Z,130,4,False,2020,Final,,110,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+127880,2021-02-09T00:00:00.000Z,111,4,False,2020,Final,,119,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+127867,2021-02-07T00:00:00.000Z,110,4,False,2020,Final,,113,13,LAC,LA,West,Pacific,LA Clippers,Clippers,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+128008,2021-02-26T00:00:00.000Z,122,4,False,2020,Final,,111,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+127984,2021-02-23T00:00:00.000Z,93,4,False,2020,Final,,105,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+127927,2021-02-15T00:00:00.000Z,125,4,False,2020,Final,,118,13,LAC,LA,West,Pacific,LA Clippers,Clippers,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+127938,2021-02-17T00:00:00.000Z,130,4,False,2020,Final,,128,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+127967,2021-02-21T00:00:00.000Z,110,4,False,2020,Final,,103,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+128039,2021-03-02T00:00:00.000Z,119,4,False,2020,Final,,93,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+128015,2021-02-27T00:00:00.000Z,128,4,False,2020,Final,,112,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+128048,2021-03-03T00:00:00.000Z,114,4,False,2020,Final,,132,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+127683,2021-01-15T00:00:00.000Z,120,4,False,2020,Final,,98,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+128055,2021-03-04T00:00:00.000Z,93,4,False,2020,Final,,103,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+127595,2021-01-04T00:00:00.000Z,100,4,False,2020,Final,,113,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+127982,2021-02-23T00:00:00.000Z,110,4,False,2020,Final,,107,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+127669,2021-01-13T00:00:00.000Z,93,4,False,2020,Final,,104,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+127682,2021-01-15T00:00:00.000Z,112,4,False,2020,Final,,95,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+127718,2021-01-20T00:00:00.000Z,112,4,False,2020,Final,,124,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+127958,2021-02-19T00:00:00.000Z,116,4,False,2020,Final,,112,13,LAC,LA,West,Pacific,LA Clippers,Clippers,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+127791,2021-01-29T00:00:00.000Z,124,4,False,2020,Final,,126,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+128007,2021-02-26T00:00:00.000Z,130,4,False,2020,Final,,121,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+127968,2021-02-21T00:00:00.000Z,123,4,False,2020,Final,,115,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+127753,2021-01-24T00:00:00.000Z,129,4,False,2020,Final,,115,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+127914,2021-02-14T00:00:00.000Z,128,4,False,2020,Final,,111,13,LAC,LA,West,Pacific,LA Clippers,Clippers,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+127854,2021-02-06T00:00:00.000Z,106,4,False,2020,Final,,111,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+127635,2021-01-09T00:00:00.000Z,99,4,False,2020,Final,,125,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+127822,2021-02-01T00:00:00.000Z,102,4,False,2020,Final,,133,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+127628,2021-01-08T00:00:00.000Z,89,4,False,2020,Final,,101,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+127712,2021-01-18T00:00:00.000Z,125,4,False,2020,Final,,120,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+127566,2020-12-31T00:00:00.000Z,95,4,False,2020,Final,,106,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+127644,2021-01-10T00:00:00.000Z,102,4,False,2020,Final,,120,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+127652,2021-01-11T00:00:00.000Z,112,4,False,2020,Final,,111,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+127621,2021-01-07T00:00:00.000Z,109,4,False,2020,Final,,118,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+127615,2021-01-06T00:00:00.000Z,110,4,False,2020,Final,,111,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+127572,2021-01-01T00:00:00.000Z,109,4,False,2020,Final,,130,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+127829,2021-02-03T00:00:00.000Z,116,4,False,2020,Final,,122,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+127587,2021-01-03T00:00:00.000Z,137,4,False,2020,Final,,122,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+127741,2021-01-22T00:00:00.000Z,113,4,False,2020,Final,,120,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+128023,2021-02-28T00:00:00.000Z,117,4,False,2020,Final,,91,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+127845,2021-02-05T00:00:00.000Z,122,4,False,2020,Final,,95,16,MIA,Miami,East,Southeast,Miami Heat,Heat,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+127975,2021-02-22T00:00:00.000Z,124,5,False,2020,Final,,127,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+127780,2021-01-27T00:00:00.000Z,110,4,False,2020,Final,,106,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+127761,2021-01-25T00:00:00.000Z,107,4,False,2020,Final,,106,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+127746,2021-01-23T00:00:00.000Z,110,4,False,2020,Final,,114,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+127992,2021-02-24T00:00:00.000Z,102,4,False,2020,Final,,99,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+127936,2021-02-17T00:00:00.000Z,124,4,False,2020,Final,,126,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+127824,2021-02-02T00:00:00.000Z,134,4,False,2020,Final,,116,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+127900,2021-02-12T00:00:00.000Z,129,4,False,2020,Final,,110,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+127733,2021-01-22T00:00:00.000Z,135,4,False,2020,Final,,134,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+128047,2021-03-03T00:00:00.000Z,108,4,False,2020,Final,,106,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+127961,2021-02-20T00:00:00.000Z,102,4,False,2020,Final,,98,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+127717,2021-01-20T00:00:00.000Z,147,6,False,2020,Final,,135,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+127624,2021-01-08T00:00:00.000Z,115,4,False,2020,Final,,110,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+127760,2021-01-25T00:00:00.000Z,108,4,False,2020,Final,,110,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+127949,2021-02-19T00:00:00.000Z,124,4,False,2020,Final,,120,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+127797,2021-01-29T00:00:00.000Z,120,4,False,2020,Final,,101,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+127642,2021-01-10T00:00:00.000Z,106,4,False,2020,Final,,105,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+127651,2021-01-11T00:00:00.000Z,127,4,False,2020,Final,,122,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+127689,2021-01-15T00:00:00.000Z,100,4,False,2020,Final,,138,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+127863,2021-02-07T00:00:00.000Z,109,4,False,2020,Final,,101,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+127768,2021-01-25T00:00:00.000Z,122,4,False,2020,Final,,125,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+127770,2021-01-26T00:00:00.000Z,108,4,False,2020,Final,,99,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+127613,2021-01-06T00:00:00.000Z,101,4,False,2020,Final,,108,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+127897,2021-02-12T00:00:00.000Z,115,4,False,2020,Final,,105,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+127883,2021-02-10T00:00:00.000Z,125,4,False,2020,Final,,124,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+127868,2021-02-08T00:00:00.000Z,105,4,False,2020,Final,,100,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+127690,2021-01-16T00:00:00.000Z,103,4,False,2020,Final,,91,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+127634,2021-01-09T00:00:00.000Z,100,4,False,2020,Final,,90,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+127698,2021-01-17T00:00:00.000Z,129,4,False,2020,Final,,96,13,LAC,LA,West,Pacific,LA Clippers,Clippers,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+127710,2021-01-18T00:00:00.000Z,125,4,False,2020,Final,,123,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+127714,2021-01-19T00:00:00.000Z,119,4,False,2020,Final,,101,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+127573,2021-01-01T00:00:00.000Z,98,4,False,2020,Final,,123,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+127800,2021-01-30T00:00:00.000Z,126,4,False,2020,Final,,114,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+127851,2021-02-05T00:00:00.000Z,115,4,False,2020,Final,,119,13,LAC,LA,West,Pacific,LA Clippers,Clippers,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+127813,2021-02-01T00:00:00.000Z,108,4,False,2020,Final,,109,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+127738,2021-01-22T00:00:00.000Z,126,5,False,2020,Final,,130,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+127744,2021-01-23T00:00:00.000Z,120,4,False,2020,Final,,110,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+127836,2021-02-03T00:00:00.000Z,116,4,False,2020,Final,,111,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+127772,2021-01-27T00:00:00.000Z,107,4,False,2020,Final,,121,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+127946,2021-02-18T00:00:00.000Z,110,4,False,2020,Final,,118,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+127944,2021-02-17T00:00:00.000Z,120,5,False,2020,Final,,112,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+127852,2021-02-06T00:00:00.000Z,110,4,False,2020,Final,,99,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+127862,2021-02-06T00:00:00.000Z,135,6,False,2020,Final,,129,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+127751,2021-01-24T00:00:00.000Z,116,4,False,2020,Final,,110,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+128028,2021-02-28T00:00:00.000Z,84,4,False,2020,Final,,133,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+127873,2021-02-08T00:00:00.000Z,119,5,False,2020,Final,,112,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+127805,2021-01-30T00:00:00.000Z,112,4,False,2020,Final,,129,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+127985,2021-02-23T00:00:00.000Z,135,4,False,2020,Final,,116,13,LAC,LA,West,Pacific,LA Clippers,Clippers,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+127592,2021-01-03T00:00:00.000Z,109,4,False,2020,Final,,130,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+127925,2021-02-15T00:00:00.000Z,134,4,False,2020,Final,,123,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+127607,2021-01-05T00:00:00.000Z,108,4,False,2020,Final,,111,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+127919,2021-02-14T00:00:00.000Z,110,4,False,2020,Final,,124,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+127839,2021-02-04T00:00:00.000Z,116,4,False,2020,Final,,147,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+128035,2021-03-01T00:00:00.000Z,113,5,False,2020,Final,,124,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+127724,2021-01-20T00:00:00.000Z,121,4,False,2020,Final,,99,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+127582,2021-01-02T00:00:00.000Z,102,4,False,2020,Final,,106,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+127579,2021-01-01T00:00:00.000Z,106,4,False,2020,Final,,100,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+127811,2021-01-31T00:00:00.000Z,149,4,False,2020,Final,,146,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+127881,2021-02-09T00:00:00.000Z,91,4,False,2020,Final,,114,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+127611,2021-01-06T00:00:00.000Z,94,4,False,2020,Final,,102,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+127754,2021-01-24T00:00:00.000Z,116,4,False,2020,Final,,113,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+127886,2021-02-10T00:00:00.000Z,112,4,False,2020,Final,,119,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+127817,2021-02-01T00:00:00.000Z,134,4,False,2020,Final,,106,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+127786,2021-01-28T00:00:00.000Z,105,4,False,2020,Final,,109,16,MIA,Miami,East,Southeast,Miami Heat,Heat,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+127847,2021-02-05T00:00:00.000Z,117,4,False,2020,Final,,123,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+127599,2021-01-04T00:00:00.000Z,125,4,False,2020,Final,,115,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+127763,2021-01-25T00:00:00.000Z,117,4,False,2020,Final,,108,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+127695,2021-01-16T00:00:00.000Z,112,4,False,2020,Final,,106,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+127995,2021-02-24T00:00:00.000Z,112,4,False,2020,Final,,96,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+127686,2021-01-15T00:00:00.000Z,116,4,False,2020,Final,,92,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+127856,2021-02-06T00:00:00.000Z,118,4,False,2020,Final,,109,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+127779,2021-01-27T00:00:00.000Z,108,4,False,2020,Final,,115,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+127783,2021-01-27T00:00:00.000Z,123,4,False,2020,Final,,111,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+127631,2021-01-08T00:00:00.000Z,123,4,False,2020,Final,,144,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+127940,2021-02-17T00:00:00.000Z,107,4,False,2020,Final,,89,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+127930,2021-02-16T00:00:00.000Z,104,4,False,2020,Final,,112,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+127737,2021-01-22T00:00:00.000Z,98,4,False,2020,Final,,116,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+127795,2021-01-29T00:00:00.000Z,90,4,False,2020,Final,,116,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+128004,2021-02-25T00:00:00.000Z,129,4,False,2020,Final,,125,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+127702,2021-01-17T00:00:00.000Z,101,4,False,2020,Final,,117,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+127904,2021-02-12T00:00:00.000Z,143,4,False,2020,Final,,130,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+127709,2021-01-18T00:00:00.000Z,104,4,False,2020,Final,,125,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+127954,2021-02-19T00:00:00.000Z,98,4,False,2020,Final,,85,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+128012,2021-02-26T00:00:00.000Z,118,4,False,2020,Final,,112,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+127833,2021-02-03T00:00:00.000Z,103,4,False,2020,Final,,107,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+128018,2021-02-27T00:00:00.000Z,109,4,False,2020,Final,,124,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+128038,2021-03-02T00:00:00.000Z,105,4,False,2020,Final,,129,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+128050,2021-03-03T00:00:00.000Z,124,4,False,2020,Final,,128,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+128057,2021-03-04T00:00:00.000Z,123,4,False,2020,Final,,119,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+157580,2021-01-12T00:00:00.000Z,102,4,False,2020,Final,,112,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+157597,2021-01-14T00:00:00.000Z,87,4,False,2020,Final,,111,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+219052,2021-02-14T00:00:00.000Z,123,4,False,2020,Final,,112,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+422473,2021-05-18T00:00:00.000Z,118,4,False,2020,Final,,100,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+446836,2021-07-05T00:00:00.000Z,0,0,True,2020,8:30 PM ET,,0,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+436011,2021-06-05T00:00:00.000Z,115,4,True,2020,Final,,107,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+157582,2021-01-12T00:00:00.000Z,87,4,False,2020,Final,,117,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+436300,2021-06-06T00:00:00.000Z,126,4,True,2020,Final,,111,13,LAC,LA,West,Pacific,LA Clippers,Clippers,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+436299,2021-06-06T00:00:00.000Z,124,4,True,2020,Final,,128,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+219051,2021-02-14T00:00:00.000Z,104,4,False,2020,Final,,91,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+446897,2021-07-06T00:00:00.000Z,118,4,True,2020,Final,,105,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+422472,2021-05-18T00:00:00.000Z,144,4,True,2020,Final,,117,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+436732,2021-06-07T00:00:00.000Z,122,4,True,2020,Final,,105,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+225570,2021-02-17T00:00:00.000Z,105,4,False,2020,Final,,102,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+447185,2021-07-08T00:00:00.000Z,118,4,True,2020,Final,,108,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+157583,2021-01-12T00:00:00.000Z,121,4,False,2020,Final,,99,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+422762,2021-05-19T00:00:00.000Z,103,4,True,2020,Final,,100,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+157584,2021-01-12T00:00:00.000Z,122,4,False,2020,Final,,116,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+447473,2021-07-11T00:00:00.000Z,120,4,True,2020,Final,,100,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+225572,2021-02-17T00:00:00.000Z,122,4,False,2020,Final,,113,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+422763,2021-05-19T00:00:00.000Z,100,4,True,2020,Final,,96,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+436733,2021-06-07T00:00:00.000Z,125,4,True,2020,Final,,86,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+157581,2021-01-12T00:00:00.000Z,95,4,False,2020,Final,,104,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+437308,2021-06-08T00:00:00.000Z,118,4,True,2020,Final,,102,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+230712,2021-02-19T00:00:00.000Z,103,4,False,2020,Final,,120,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+447761,2021-07-14T00:00:00.000Z,109,4,True,2020,Final,,103,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+157589,2021-01-13T00:00:00.000Z,131,4,False,2020,Final,,122,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+423334,2021-05-20T00:00:00.000Z,142,4,True,2020,Final,,115,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+157585,2021-01-12T00:00:00.000Z,137,5,False,2020,Final,,134,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+448049,2021-07-17T00:00:00.000Z,119,4,True,2020,Final,,123,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+259957,2021-03-04T00:00:00.000Z,114,4,False,2020,Final,,104,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+423764,2021-05-21T00:00:00.000Z,112,5,True,2020,Final,,117,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+157588,2021-01-13T00:00:00.000Z,112,4,False,2020,Final,,96,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+437309,2021-06-08T00:00:00.000Z,112,4,True,2020,Final,,109,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+157594,2021-01-13T00:00:00.000Z,117,4,False,2020,Final,,110,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+157586,2021-01-12T00:00:00.000Z,100,4,False,2020,Final,,117,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+157600,2021-01-14T00:00:00.000Z,114,4,False,2020,Final,,104,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+437880,2021-06-09T00:00:00.000Z,123,4,True,2020,Final,,98,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+448337,2021-07-20T00:00:00.000Z,105,4,True,2020,Final,,98,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+424053,2021-05-22T00:00:00.000Z,103,4,True,2020,Final,,113,13,LAC,LA,West,Pacific,LA Clippers,Clippers,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+424052,2021-05-22T00:00:00.000Z,109,5,True,2020,Final,,107,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+424055,2021-05-22T00:00:00.000Z,109,4,True,2020,Final,,123,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+424054,2021-05-22T00:00:00.000Z,104,4,True,2020,Final,,93,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+157598,2021-01-14T00:00:00.000Z,111,4,False,2020,Final,,108,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+424775,2021-05-23T00:00:00.000Z,125,4,True,2020,Final,,118,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+438309,2021-06-10T00:00:00.000Z,86,4,True,2020,Final,,83,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+438310,2021-06-10T00:00:00.000Z,117,4,True,2020,Final,,111,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+157599,2021-01-14T00:00:00.000Z,125,4,False,2020,Final,,108,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+424776,2021-05-23T00:00:00.000Z,109,4,True,2020,Final,,112,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+438742,2021-06-11T00:00:00.000Z,102,4,True,2020,Final,,116,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+157601,2021-01-14T00:00:00.000Z,105,4,False,2020,Final,,109,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+424777,2021-05-23T00:00:00.000Z,99,4,True,2020,Final,,90,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+438743,2021-06-11T00:00:00.000Z,111,4,True,2020,Final,,127,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+191883,2021-02-02T00:00:00.000Z,121,4,False,2020,Final,,132,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+424778,2021-05-23T00:00:00.000Z,105,4,True,2020,Final,,107,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+439318,2021-06-12T00:00:00.000Z,132,4,True,2020,Final,,106,13,LAC,LA,West,Pacific,LA Clippers,Clippers,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+425927,2021-05-24T00:00:00.000Z,128,4,True,2020,Final,,109,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+439750,2021-06-13T00:00:00.000Z,118,4,True,2020,Final,,125,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+439749,2021-06-13T00:00:00.000Z,107,4,True,2020,Final,,96,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+425928,2021-05-24T00:00:00.000Z,132,4,True,2020,Final,,98,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+440182,2021-06-14T00:00:00.000Z,103,4,True,2020,Final,,100,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+426789,2021-05-25T00:00:00.000Z,130,4,True,2020,Final,,108,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+426791,2021-05-25T00:00:00.000Z,121,4,True,2020,Final,,127,13,LAC,LA,West,Pacific,LA Clippers,Clippers,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+440183,2021-06-14T00:00:00.000Z,118,4,True,2020,Final,,104,13,LAC,LA,West,Pacific,LA Clippers,Clippers,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+426790,2021-05-25T00:00:00.000Z,102,4,True,2020,Final,,109,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+440758,2021-06-15T00:00:00.000Z,114,4,True,2020,Final,,108,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+427510,2021-05-26T00:00:00.000Z,101,4,True,2020,Final,,92,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+441190,2021-06-16T00:00:00.000Z,111,4,True,2020,Final,,119,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+441189,2021-06-16T00:00:00.000Z,106,4,True,2020,Final,,109,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+427511,2021-05-26T00:00:00.000Z,141,4,True,2020,Final,,129,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+441625,2021-06-17T00:00:00.000Z,104,4,True,2020,Final,,89,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+427512,2021-05-26T00:00:00.000Z,120,4,True,2020,Final,,95,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+442057,2021-06-18T00:00:00.000Z,131,4,True,2020,Final,,119,13,LAC,LA,West,Pacific,LA Clippers,Clippers,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+442056,2021-06-18T00:00:00.000Z,99,4,True,2020,Final,,104,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+428347,2021-05-27T00:00:00.000Z,115,4,True,2020,Final,,120,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+442489,2021-06-19T00:00:00.000Z,111,5,True,2020,Final,,115,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+428348,2021-05-27T00:00:00.000Z,109,4,True,2020,Final,,95,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+442921,2021-06-20T00:00:00.000Z,96,4,True,2020,Final,,103,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+442920,2021-06-20T00:00:00.000Z,120,4,True,2020,Final,,114,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+428349,2021-05-27T00:00:00.000Z,84,4,True,2020,Final,,113,16,MIA,Miami,East,Southeast,Miami Heat,Heat,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+443638,2021-06-22T00:00:00.000Z,104,4,True,2020,Final,,103,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+429183,2021-05-28T00:00:00.000Z,105,4,True,2020,Final,,94,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+443783,2021-06-23T00:00:00.000Z,113,4,True,2020,Final,,116,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+429184,2021-05-28T00:00:00.000Z,125,4,True,2020,Final,,119,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+444070,2021-06-24T00:00:00.000Z,106,4,True,2020,Final,,92,13,LAC,LA,West,Pacific,LA Clippers,Clippers,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+429185,2021-05-28T00:00:00.000Z,108,4,True,2020,Final,,118,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+444358,2021-06-25T00:00:00.000Z,125,4,True,2020,Final,,91,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+156680,2021-01-13T00:00:00.000Z,111,4,False,2020,Final,,106,13,LAC,LA,West,Pacific,LA Clippers,Clippers,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+430017,2021-05-29T00:00:00.000Z,115,4,True,2020,Final,,95,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+430020,2021-05-29T00:00:00.000Z,111,4,True,2020,Final,,121,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+444646,2021-06-26T00:00:00.000Z,80,4,True,2020,Final,,84,13,LAC,LA,West,Pacific,LA Clippers,Clippers,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+430018,2021-05-29T00:00:00.000Z,103,4,True,2020,Final,,120,16,MIA,Miami,East,Southeast,Miami Heat,Heat,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+430019,2021-05-29T00:00:00.000Z,103,4,True,2020,Final,,132,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+444934,2021-06-27T00:00:00.000Z,102,4,True,2020,Final,,113,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+430990,2021-05-30T00:00:00.000Z,92,4,True,2020,Final,,100,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+445222,2021-06-28T00:00:00.000Z,102,4,True,2020,Final,,116,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+430991,2021-05-30T00:00:00.000Z,81,4,True,2020,Final,,106,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+445510,2021-06-29T00:00:00.000Z,110,4,True,2020,Final,,88,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+156556,2021-01-13T00:00:00.000Z,109,4,False,2020,Final,,116,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+156691,2021-01-13T00:00:00.000Z,126,4,False,2020,Final,,132,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+430992,2021-05-30T00:00:00.000Z,113,4,True,2020,Final,,96,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+445798,2021-06-30T00:00:00.000Z,103,4,True,2020,Final,,130,13,LAC,LA,West,Pacific,LA Clippers,Clippers,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+156557,2021-01-13T00:00:00.000Z,107,4,False,2020,Final,,118,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+430993,2021-05-30T00:00:00.000Z,126,4,True,2020,Final,,141,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+446086,2021-07-01T00:00:00.000Z,123,4,True,2020,Final,,112,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+156558,2021-01-13T00:00:00.000Z,99,4,False,2020,Final,,128,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+432118,2021-05-31T00:00:00.000Z,122,4,True,2020,Final,,114,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+446517,2021-07-03T00:00:00.000Z,107,4,True,2020,Final,,118,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+432119,2021-05-31T00:00:00.000Z,113,4,True,2020,Final,,120,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+432958,2021-06-01T00:00:00.000Z,147,6,True,2020,Final,,140,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+432960,2021-06-01T00:00:00.000Z,115,4,True,2020,Final,,85,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+432959,2021-06-01T00:00:00.000Z,123,4,True,2020,Final,,109,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+433679,2021-06-02T00:00:00.000Z,89,4,True,2020,Final,,103,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+433680,2021-06-02T00:00:00.000Z,126,4,True,2020,Final,,110,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+433682,2021-06-02T00:00:00.000Z,100,4,True,2020,Final,,105,13,LAC,LA,West,Pacific,LA Clippers,Clippers,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+433681,2021-06-02T00:00:00.000Z,129,4,True,2020,Final,,112,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+434689,2021-06-03T00:00:00.000Z,100,4,True,2020,Final,,113,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+434688,2021-06-03T00:00:00.000Z,115,4,True,2020,Final,,126,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+435550,2021-06-04T00:00:00.000Z,97,4,True,2020,Final,,104,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+264761,2021-05-12T00:00:00.000Z,124,4,False,2020,Final,,122,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+264383,2021-03-26T00:00:00.000Z,110,4,False,2020,Final,,105,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+264520,2021-04-12T00:00:00.000Z,121,4,False,2020,Final,,125,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+264312,2021-03-17T00:00:00.000Z,94,4,False,2020,Final,,108,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+264494,2021-04-09T00:00:00.000Z,101,4,False,2020,Final,,94,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+264464,2021-04-05T00:00:00.000Z,108,4,False,2020,Final,,132,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+264703,2021-05-05T00:00:00.000Z,126,4,False,2020,Final,,94,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+264378,2021-03-25T00:00:00.000Z,85,4,False,2020,Final,,98,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+264719,2021-05-07T00:00:00.000Z,127,4,False,2020,Final,,120,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+264447,2021-04-02T00:00:00.000Z,109,4,False,2020,Final,,127,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+264664,2021-04-30T00:00:00.000Z,121,4,False,2020,Final,,100,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+264568,2021-04-18T00:00:00.000Z,112,4,False,2020,Final,,106,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+264304,2021-03-16T00:00:00.000Z,107,4,False,2020,Final,,119,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+264617,2021-04-24T00:00:00.000Z,96,4,False,2020,Final,,101,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+264374,2021-03-24T00:00:00.000Z,118,4,False,2020,Final,,88,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+264302,2021-03-15T00:00:00.000Z,97,4,False,2020,Final,,128,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+264342,2021-03-21T00:00:00.000Z,112,4,False,2020,Final,,114,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+264640,2021-04-27T00:00:00.000Z,115,4,False,2020,Final,,119,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+264289,2021-03-14T00:00:00.000Z,131,4,False,2020,Final,,119,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+264279,2021-03-13T00:00:00.000Z,114,4,False,2020,Final,,104,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+264512,2021-04-11T00:00:00.000Z,117,4,False,2020,Final,,119,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+264424,2021-03-31T00:00:00.000Z,120,4,False,2020,Final,,106,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+264259,2021-03-10T00:00:00.000Z,127,4,False,2020,Final,,112,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+264273,2021-03-12T00:00:00.000Z,104,4,False,2020,Final,,77,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+264261,2021-03-11T00:00:00.000Z,121,4,False,2020,Final,,109,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+264265,2021-03-11T00:00:00.000Z,105,4,False,2020,Final,,127,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+264263,2021-03-11T00:00:00.000Z,120,4,False,2020,Final,,121,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+264267,2021-03-11T00:00:00.000Z,105,4,False,2020,Final,,135,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+264488,2021-04-08T00:00:00.000Z,113,4,False,2020,Final,,103,13,LAC,LA,West,Pacific,LA Clippers,Clippers,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+264458,2021-04-04T00:00:00.000Z,100,4,False,2020,Final,,116,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+264338,2021-03-20T00:00:00.000Z,94,4,False,2020,Final,,99,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+264410,2021-03-29T00:00:00.000Z,115,4,False,2020,Final,,132,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+264597,2021-04-21T00:00:00.000Z,87,4,False,2020,Final,,107,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+264561,2021-04-17T00:00:00.000Z,127,5,False,2020,Final,,115,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+264790,2021-05-16T00:00:00.000Z,96,4,False,2020,Final,,92,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+264336,2021-03-19T00:00:00.000Z,113,4,False,2020,Final,,101,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+264394,2021-03-27T00:00:00.000Z,122,4,False,2020,Final,,112,13,LAC,LA,West,Pacific,LA Clippers,Clippers,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+264755,2021-05-11T00:00:00.000Z,122,4,False,2020,Final,,106,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+264608,2021-04-23T00:00:00.000Z,109,4,False,2020,Final,,129,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+264503,2021-04-10T00:00:00.000Z,134,4,False,2020,Final,,106,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+264471,2021-04-06T00:00:00.000Z,122,4,False,2020,Final,,121,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+264449,2021-04-03T00:00:00.000Z,81,4,False,2020,Final,,125,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+264547,2021-04-15T00:00:00.000Z,113,4,False,2020,Final,,121,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+264712,2021-05-06T00:00:00.000Z,129,5,False,2020,Final,,131,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+264626,2021-04-25T00:00:00.000Z,117,4,False,2020,Final,,113,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+264576,2021-04-19T00:00:00.000Z,139,6,False,2020,Final,,137,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+264630,2021-04-26T00:00:00.000Z,110,4,False,2020,Final,,118,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+264639,2021-04-26T00:00:00.000Z,113,4,False,2020,Final,,106,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+264550,2021-04-16T00:00:00.000Z,119,4,False,2020,Final,,111,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+264560,2021-04-16T00:00:00.000Z,109,4,False,2020,Final,,117,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+264671,2021-05-01T00:00:00.000Z,95,4,False,2020,Final,,152,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+264647,2021-04-28T00:00:00.000Z,116,4,False,2020,Final,,111,16,MIA,Miami,East,Southeast,Miami Heat,Heat,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+264601,2021-04-22T00:00:00.000Z,106,4,False,2020,Final,,91,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+264260,2021-03-10T00:00:00.000Z,115,4,False,2020,Final,,104,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+264454,2021-04-03T00:00:00.000Z,137,4,False,2020,Final,,91,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+264429,2021-03-31T00:00:00.000Z,108,4,False,2020,Final,,113,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+264414,2021-03-29T00:00:00.000Z,106,4,False,2020,Final,,127,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+264318,2021-03-17T00:00:00.000Z,99,4,False,2020,Final,,106,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+264303,2021-03-15T00:00:00.000Z,122,4,False,2020,Final,,99,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+264358,2021-03-22T00:00:00.000Z,105,4,False,2020,Final,,119,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+264467,2021-04-05T00:00:00.000Z,103,4,False,2020,Final,,101,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+264285,2021-03-13T00:00:00.000Z,119,4,False,2020,Final,,125,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+264371,2021-03-24T00:00:00.000Z,121,4,False,2020,Final,,119,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+264276,2021-03-12T00:00:00.000Z,102,4,False,2020,Final,,103,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+264262,2021-03-11T00:00:00.000Z,105,4,False,2020,Final,,102,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+264264,2021-03-11T00:00:00.000Z,111,4,False,2020,Final,,103,16,MIA,Miami,East,Southeast,Miami Heat,Heat,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+264266,2021-03-11T00:00:00.000Z,134,4,False,2020,Final,,101,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+264268,2021-03-11T00:00:00.000Z,125,4,False,2020,Final,,105,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+264294,2021-03-14T00:00:00.000Z,100,4,False,2020,Final,,82,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+264486,2021-04-07T00:00:00.000Z,139,4,False,2020,Final,,111,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+264726,2021-05-07T00:00:00.000Z,141,4,False,2020,Final,,133,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+264497,2021-04-09T00:00:00.000Z,115,4,False,2020,Final,,135,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+264351,2021-03-21T00:00:00.000Z,111,4,False,2020,Final,,94,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+264442,2021-04-02T00:00:00.000Z,140,4,False,2020,Final,,103,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+264508,2021-04-10T00:00:00.000Z,118,4,False,2020,Final,,103,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+264718,2021-05-06T00:00:00.000Z,118,4,False,2020,Final,,97,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+264491,2021-04-08T00:00:00.000Z,116,4,False,2020,Final,,101,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+264692,2021-05-03T00:00:00.000Z,110,4,False,2020,Final,,99,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+264667,2021-04-30T00:00:00.000Z,92,4,False,2020,Final,,75,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+264525,2021-04-12T00:00:00.000Z,116,4,False,2020,Final,,107,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+264391,2021-03-26T00:00:00.000Z,117,4,False,2020,Final,,114,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+264772,2021-05-13T00:00:00.000Z,106,4,False,2020,Final,,94,16,MIA,Miami,East,Southeast,Miami Heat,Heat,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+264653,2021-04-28T00:00:00.000Z,114,4,False,2020,Final,,112,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+264781,2021-05-14T00:00:00.000Z,122,4,False,2020,Final,,115,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+264462,2021-04-04T00:00:00.000Z,119,4,False,2020,Final,,109,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+264476,2021-04-06T00:00:00.000Z,112,4,False,2020,Final,,124,16,MIA,Miami,East,Southeast,Miami Heat,Heat,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+264306,2021-03-16T00:00:00.000Z,109,4,False,2020,Final,,117,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+264628,2021-04-25T00:00:00.000Z,111,4,False,2020,Final,,104,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+264611,2021-04-23T00:00:00.000Z,104,4,False,2020,Final,,109,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+264332,2021-03-19T00:00:00.000Z,131,5,False,2020,Final,,127,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+264420,2021-03-30T00:00:00.000Z,96,4,False,2020,Final,,103,13,LAC,LA,West,Pacific,LA Clippers,Clippers,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+264401,2021-03-27T00:00:00.000Z,112,4,False,2020,Final,,103,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+264598,2021-04-21T00:00:00.000Z,117,4,False,2020,Final,,105,13,LAC,LA,West,Pacific,LA Clippers,Clippers,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+264364,2021-03-23T00:00:00.000Z,112,4,False,2020,Final,,116,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+264554,2021-04-16T00:00:00.000Z,119,4,False,2020,Final,,111,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+264634,2021-04-26T00:00:00.000Z,112,4,False,2020,Final,,96,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+264515,2021-04-11T00:00:00.000Z,102,4,False,2020,Final,,96,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+264675,2021-05-01T00:00:00.000Z,108,4,False,2020,Final,,97,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+264702,2021-05-04T00:00:00.000Z,108,4,False,2020,Final,,103,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+264532,2021-04-13T00:00:00.000Z,115,4,False,2020,Final,,116,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+264536,2021-04-14T00:00:00.000Z,117,4,False,2020,Final,,112,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+264658,2021-04-29T00:00:00.000Z,95,4,False,2020,Final,,109,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+264620,2021-04-24T00:00:00.000Z,106,4,False,2020,Final,,101,16,MIA,Miami,East,Southeast,Miami Heat,Heat,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+264605,2021-04-22T00:00:00.000Z,124,4,False,2020,Final,,117,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+264759,2021-05-11T00:00:00.000Z,122,4,False,2020,Final,,116,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+264684,2021-05-02T00:00:00.000Z,114,4,False,2020,Final,,121,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+264710,2021-05-05T00:00:00.000Z,135,4,False,2020,Final,,103,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+264803,2021-05-16T00:00:00.000Z,121,4,False,2020,Final,,123,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+264797,2021-05-16T00:00:00.000Z,98,4,False,2020,Final,,110,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+264764,2021-05-12T00:00:00.000Z,125,4,False,2020,Final,,107,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+264451,2021-04-03T00:00:00.000Z,133,4,False,2020,Final,,85,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+264509,2021-04-11T00:00:00.000Z,131,4,False,2020,Final,,124,13,LAC,LA,West,Pacific,LA Clippers,Clippers,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+264337,2021-03-20T00:00:00.000Z,129,4,False,2020,Final,,105,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+264470,2021-04-06T00:00:00.000Z,133,4,False,2020,Final,,116,13,LAC,LA,West,Pacific,LA Clippers,Clippers,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+264287,2021-03-14T00:00:00.000Z,114,4,False,2020,Final,,112,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+264311,2021-03-17T00:00:00.000Z,89,4,False,2020,Final,,85,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+264431,2021-04-01T00:00:00.000Z,94,4,False,2020,Final,,114,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+264798,2021-05-16T00:00:00.000Z,117,4,False,2020,Final,,112,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+264361,2021-03-23T00:00:00.000Z,99,4,False,2020,Final,,110,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+264335,2021-03-19T00:00:00.000Z,125,4,False,2020,Final,,119,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+264269,2021-03-11T00:00:00.000Z,130,4,False,2020,Final,,104,13,LAC,LA,West,Pacific,LA Clippers,Clippers,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+264546,2021-04-15T00:00:00.000Z,101,4,False,2020,Final,,119,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+264296,2021-03-15T00:00:00.000Z,117,4,False,2020,Final,,112,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+264487,2021-04-08T00:00:00.000Z,101,4,False,2020,Final,,113,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+264409,2021-03-29T00:00:00.000Z,114,4,False,2020,Final,,75,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+264622,2021-04-25T00:00:00.000Z,112,4,False,2020,Final,,131,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+264382,2021-03-26T00:00:00.000Z,107,4,False,2020,Final,,101,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+264392,2021-03-26T00:00:00.000Z,100,4,False,2020,Final,,86,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+264372,2021-03-24T00:00:00.000Z,94,4,False,2020,Final,,103,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+264352,2021-03-22T00:00:00.000Z,119,4,False,2020,Final,,110,13,LAC,LA,West,Pacific,LA Clippers,Clippers,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+264728,2021-05-07T00:00:00.000Z,106,4,False,2020,Final,,101,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+264272,2021-03-12T00:00:00.000Z,90,4,False,2020,Final,,101,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+264754,2021-05-11T00:00:00.000Z,114,4,False,2020,Final,,102,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+264567,2021-04-18T00:00:00.000Z,107,4,False,2020,Final,,121,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+264493,2021-04-09T00:00:00.000Z,106,4,False,2020,Final,,111,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+264421,2021-03-31T00:00:00.000Z,120,4,False,2020,Final,,108,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+264557,2021-04-16T00:00:00.000Z,110,4,False,2020,Final,,104,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+264679,2021-05-01T00:00:00.000Z,104,4,False,2020,Final,,110,13,LAC,LA,West,Pacific,LA Clippers,Clippers,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+264645,2021-04-27T00:00:00.000Z,107,4,False,2020,Final,,114,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+264343,2021-03-21T00:00:00.000Z,113,4,False,2020,Final,,106,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+264393,2021-03-27T00:00:00.000Z,106,4,False,2020,Final,,92,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+264704,2021-05-05T00:00:00.000Z,113,4,False,2020,Final,,97,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+264478,2021-04-07T00:00:00.000Z,102,4,False,2020,Final,,113,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+264580,2021-04-19T00:00:00.000Z,113,4,False,2020,Final,,91,16,MIA,Miami,East,Southeast,Miami Heat,Heat,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+264544,2021-04-14T00:00:00.000Z,123,4,False,2020,Final,,106,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+264444,2021-04-02T00:00:00.000Z,113,4,False,2020,Final,,106,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+264542,2021-04-14T00:00:00.000Z,113,4,False,2020,Final,,114,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+264599,2021-04-21T00:00:00.000Z,128,4,False,2020,Final,,125,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+264646,2021-04-28T00:00:00.000Z,116,4,False,2020,Final,,107,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+264614,2021-04-24T00:00:00.000Z,108,4,False,2020,Final,,93,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+264603,2021-04-22T00:00:00.000Z,99,4,False,2020,Final,,86,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+264629,2021-04-26T00:00:00.000Z,102,4,False,2020,Final,,110,16,MIA,Miami,East,Southeast,Miami Heat,Heat,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+264680,2021-05-02T00:00:00.000Z,68,4,False,2020,Final,,114,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+264729,2021-05-08T00:00:00.000Z,132,5,False,2020,Final,,133,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+264768,2021-05-13T00:00:00.000Z,114,4,False,2020,Final,,102,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+264695,2021-05-03T00:00:00.000Z,93,4,False,2020,Final,,89,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+264736,2021-05-09T00:00:00.000Z,96,4,False,2020,Final,,128,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+264594,2021-04-21T00:00:00.000Z,89,4,False,2020,Final,,112,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+264434,2021-04-01T00:00:00.000Z,94,4,False,2020,Final,,101,13,LAC,LA,West,Pacific,LA Clippers,Clippers,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+264735,2021-05-08T00:00:00.000Z,136,4,False,2020,Final,,97,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+264274,2021-03-12T00:00:00.000Z,116,4,False,2020,Final,,78,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+264375,2021-03-24T00:00:00.000Z,101,4,False,2020,Final,,134,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+264651,2021-04-28T00:00:00.000Z,113,4,False,2020,Final,,94,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+264330,2021-03-19T00:00:00.000Z,103,4,False,2020,Final,,116,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+264540,2021-04-14T00:00:00.000Z,106,4,False,2020,Final,,116,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+264443,2021-04-02T00:00:00.000Z,103,4,False,2020,Final,,126,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+264559,2021-04-16T00:00:00.000Z,106,4,False,2020,Final,,107,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+264270,2021-03-11T00:00:00.000Z,116,4,False,2020,Final,,108,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+264310,2021-03-16T00:00:00.000Z,137,4,False,2020,Final,,121,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+264687,2021-05-02T00:00:00.000Z,111,5,False,2020,Final,,113,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+264412,2021-03-29T00:00:00.000Z,110,4,False,2020,Final,,120,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+264669,2021-04-30T00:00:00.000Z,109,4,False,2020,Final,,128,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+264770,2021-05-13T00:00:00.000Z,116,4,False,2020,Final,,93,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+264388,2021-03-26T00:00:00.000Z,100,4,False,2020,Final,,104,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+264430,2021-03-31T00:00:00.000Z,102,4,False,2020,Final,,101,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+264301,2021-03-15T00:00:00.000Z,121,4,False,2020,Final,,106,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+264573,2021-04-18T00:00:00.000Z,110,4,False,2020,Final,,114,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+264317,2021-03-17T00:00:00.000Z,117,4,False,2020,Final,,110,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+264516,2021-04-11T00:00:00.000Z,121,4,False,2020,Final,,117,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+264499,2021-04-09T00:00:00.000Z,107,4,False,2020,Final,,110,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+264292,2021-03-14T00:00:00.000Z,107,4,False,2020,Final,,134,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+264758,2021-05-11T00:00:00.000Z,103,4,False,2020,Final,,94,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+264399,2021-03-27T00:00:00.000Z,126,4,False,2020,Final,,110,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+264583,2021-04-19T00:00:00.000Z,127,5,False,2020,Final,,128,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+264284,2021-03-13T00:00:00.000Z,121,4,False,2020,Final,,106,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+264788,2021-05-15T00:00:00.000Z,103,4,False,2020,Final,,140,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+264380,2021-03-25T00:00:00.000Z,106,4,False,2020,Final,,102,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+264642,2021-04-27T00:00:00.000Z,104,4,False,2020,Final,,114,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+264526,2021-04-12T00:00:00.000Z,126,4,False,2020,Final,,120,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+264346,2021-03-21T00:00:00.000Z,100,5,False,2020,Final,,101,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+264739,2021-05-09T00:00:00.000Z,124,4,False,2020,Final,,130,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+264484,2021-04-07T00:00:00.000Z,117,5,False,2020,Final,,113,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+264564,2021-04-17T00:00:00.000Z,121,4,False,2020,Final,,100,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+264725,2021-05-07T00:00:00.000Z,128,4,False,2020,Final,,105,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+264661,2021-04-29T00:00:00.000Z,121,4,False,2020,Final,,111,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+264693,2021-05-03T00:00:00.000Z,94,4,False,2020,Final,,106,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+264676,2021-05-01T00:00:00.000Z,136,5,False,2020,Final,,140,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+264783,2021-05-14T00:00:00.000Z,114,4,False,2020,Final,,110,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+264796,2021-05-16T00:00:00.000Z,107,4,False,2020,Final,,120,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+264700,2021-05-04T00:00:00.000Z,99,4,False,2020,Final,,103,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+264804,2021-05-16T00:00:00.000Z,99,4,False,2020,Final,,121,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+264765,2021-05-12T00:00:00.000Z,98,4,False,2020,Final,,105,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+264638,2021-04-26T00:00:00.000Z,120,4,False,2020,Final,,96,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+264747,2021-05-10T00:00:00.000Z,125,4,False,2020,Final,,124,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+264422,2021-03-31T00:00:00.000Z,97,4,False,2020,Final,,112,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+264519,2021-04-12T00:00:00.000Z,111,4,False,2020,Final,,96,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+264602,2021-04-22T00:00:00.000Z,100,4,False,2020,Final,,135,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+264271,2021-03-11T00:00:00.000Z,121,4,False,2020,Final,,127,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+264756,2021-05-11T00:00:00.000Z,133,4,False,2020,Final,,104,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+264321,2021-03-18T00:00:00.000Z,116,4,False,2020,Final,,93,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+264495,2021-04-09T00:00:00.000Z,121,4,False,2020,Final,,119,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+264463,2021-04-05T00:00:00.000Z,130,4,False,2020,Final,,133,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+264574,2021-04-18T00:00:00.000Z,124,4,False,2020,Final,,105,13,LAC,LA,West,Pacific,LA Clippers,Clippers,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+264609,2021-04-23T00:00:00.000Z,108,4,False,2020,Final,,102,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+264350,2021-03-21T00:00:00.000Z,92,4,False,2020,Final,,132,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+264327,2021-03-19T00:00:00.000Z,100,4,False,2020,Final,,113,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+264766,2021-05-12T00:00:00.000Z,128,4,False,2020,Final,,116,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+264584,2021-04-20T00:00:00.000Z,129,4,False,2020,Final,,134,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+264282,2021-03-13T00:00:00.000Z,121,4,False,2020,Final,,125,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+264373,2021-03-24T00:00:00.000Z,107,4,False,2020,Final,,116,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+264353,2021-03-22T00:00:00.000Z,103,4,False,2020,Final,,112,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+264448,2021-04-03T00:00:00.000Z,87,4,False,2020,Final,,109,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+264784,2021-05-15T00:00:00.000Z,108,4,False,2020,Final,,124,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+264548,2021-04-15T00:00:00.000Z,122,4,False,2020,Final,,114,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+264319,2021-03-17T00:00:00.000Z,129,4,False,2020,Final,,104,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+264727,2021-05-07T00:00:00.000Z,104,4,False,2020,Final,,113,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+264551,2021-04-16T00:00:00.000Z,117,5,False,2020,Final,,115,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+264288,2021-03-14T00:00:00.000Z,118,4,False,2020,Final,,95,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+264275,2021-03-12T00:00:00.000Z,101,4,False,2020,Final,,127,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+264408,2021-03-29T00:00:00.000Z,116,4,False,2020,Final,,102,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+264791,2021-05-16T00:00:00.000Z,118,4,False,2020,Final,,112,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+264800,2021-05-16T00:00:00.000Z,132,4,False,2020,Final,,116,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+264473,2021-04-06T00:00:00.000Z,101,4,False,2020,Final,,110,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+264575,2021-04-19T00:00:00.000Z,109,4,False,2020,Final,,105,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+264456,2021-04-04T00:00:00.000Z,116,4,False,2020,Final,,86,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+264636,2021-04-26T00:00:00.000Z,105,4,False,2020,Final,,104,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+264485,2021-04-07T00:00:00.000Z,106,4,False,2020,Final,,96,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+264377,2021-03-25T00:00:00.000Z,101,4,False,2020,Final,,109,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+264662,2021-04-30T00:00:00.000Z,106,4,False,2020,Final,,110,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+264446,2021-04-02T00:00:00.000Z,94,4,False,2020,Final,,115,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+264734,2021-05-08T00:00:00.000Z,118,4,False,2020,Final,,104,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+264385,2021-03-26T00:00:00.000Z,105,4,False,2020,Final,,112,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+264737,2021-05-09T00:00:00.000Z,100,4,False,2020,Final,,106,13,LAC,LA,West,Pacific,LA Clippers,Clippers,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+264541,2021-04-14T00:00:00.000Z,109,4,False,2020,Final,,147,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+264589,2021-04-21T00:00:00.000Z,118,4,False,2020,Final,,114,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+264600,2021-04-21T00:00:00.000Z,105,4,False,2020,Final,,106,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+264670,2021-05-01T00:00:00.000Z,125,4,False,2020,Final,,124,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+264518,2021-04-11T00:00:00.000Z,98,4,False,2020,Final,,107,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+264776,2021-05-14T00:00:00.000Z,125,4,False,2020,Final,,122,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+264654,2021-04-28T00:00:00.000Z,105,4,False,2020,Final,,154,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+264514,2021-04-11T00:00:00.000Z,101,4,False,2020,Final,,105,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+264384,2021-03-26T00:00:00.000Z,114,4,False,2020,Final,,122,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+264691,2021-05-03T00:00:00.000Z,123,4,False,2020,Final,,114,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+264281,2021-03-13T00:00:00.000Z,100,4,False,2020,Final,,95,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+264305,2021-03-16T00:00:00.000Z,99,4,False,2020,Final,,96,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+264347,2021-03-21T00:00:00.000Z,116,4,False,2020,Final,,105,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+264535,2021-04-14T00:00:00.000Z,106,4,False,2020,Final,,115,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+264502,2021-04-09T00:00:00.000Z,126,4,False,2020,Final,,109,13,LAC,LA,West,Pacific,LA Clippers,Clippers,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+264504,2021-04-10T00:00:00.000Z,101,4,False,2020,Final,,126,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+264360,2021-03-23T00:00:00.000Z,131,4,False,2020,Final,,113,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+264760,2021-05-11T00:00:00.000Z,101,5,False,2020,Final,,99,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+264313,2021-03-17T00:00:00.000Z,116,4,False,2020,Final,,112,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+264397,2021-03-27T00:00:00.000Z,100,4,False,2020,Final,,98,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+264682,2021-05-02T00:00:00.000Z,99,4,False,2020,Final,,111,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+264528,2021-04-13T00:00:00.000Z,93,4,False,2020,Final,,101,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+264366,2021-03-24T00:00:00.000Z,97,4,False,2020,Final,,122,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+264354,2021-03-22T00:00:00.000Z,117,4,False,2020,Final,,99,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+264291,2021-03-14T00:00:00.000Z,128,4,False,2020,Final,,122,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+264376,2021-03-24T00:00:00.000Z,110,4,False,2020,Final,,108,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+264277,2021-03-12T00:00:00.000Z,105,4,False,2020,Final,,100,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+264334,2021-03-19T00:00:00.000Z,110,4,False,2020,Final,,137,16,MIA,Miami,East,Southeast,Miami Heat,Heat,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+264323,2021-03-18T00:00:00.000Z,94,4,False,2020,Final,,93,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+264552,2021-04-16T00:00:00.000Z,130,4,False,2020,Final,,115,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+264406,2021-03-29T00:00:00.000Z,109,4,False,2020,Final,,115,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+264402,2021-03-28T00:00:00.000Z,117,4,False,2020,Final,,122,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+264672,2021-05-01T00:00:00.000Z,107,4,False,2020,Final,,94,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+264297,2021-03-15T00:00:00.000Z,122,4,False,2020,Final,,133,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+264748,2021-05-10T00:00:00.000Z,102,4,False,2020,Final,,111,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+264785,2021-05-15T00:00:00.000Z,105,4,False,2020,Final,,91,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+264379,2021-03-25T00:00:00.000Z,122,4,False,2020,Final,,125,16,MIA,Miami,East,Southeast,Miami Heat,Heat,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+264569,2021-04-18T00:00:00.000Z,109,4,False,2020,Final,,107,16,MIA,Miami,East,Southeast,Miami Heat,Heat,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+264563,2021-04-17T00:00:00.000Z,85,4,False,2020,Final,,111,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+264428,2021-03-31T00:00:00.000Z,121,4,False,2020,Final,,116,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+264578,2021-04-19T00:00:00.000Z,96,4,False,2020,Final,,107,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+264623,2021-04-25T00:00:00.000Z,125,4,False,2020,Final,,104,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+264585,2021-04-20T00:00:00.000Z,112,4,False,2020,Final,,96,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+264631,2021-04-26T00:00:00.000Z,103,4,False,2020,Final,,114,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+264591,2021-04-21T00:00:00.000Z,121,4,False,2020,Final,,105,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+264445,2021-04-02T00:00:00.000Z,130,4,False,2020,Final,,77,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+264616,2021-04-24T00:00:00.000Z,115,4,False,2020,Final,,109,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+264604,2021-04-22T00:00:00.000Z,108,4,False,2020,Final,,91,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+264641,2021-04-27T00:00:00.000Z,112,4,False,2020,Final,,133,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+264610,2021-04-23T00:00:00.000Z,109,4,False,2020,Final,,104,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+264649,2021-04-28T00:00:00.000Z,104,4,False,2020,Final,,109,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+264656,2021-04-29T00:00:00.000Z,105,4,False,2020,Final,,115,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+264663,2021-04-30T00:00:00.000Z,98,4,False,2020,Final,,108,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+264738,2021-05-09T00:00:00.000Z,123,4,False,2020,Final,,110,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+264730,2021-05-08T00:00:00.000Z,99,4,False,2020,Final,,109,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+264777,2021-05-14T00:00:00.000Z,91,4,False,2020,Final,,104,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+264711,2021-05-05T00:00:00.000Z,93,4,False,2020,Final,,104,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+264773,2021-05-13T00:00:00.000Z,133,4,False,2020,Final,,142,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+264698,2021-05-04T00:00:00.000Z,118,5,False,2020,Final,,134,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+264801,2021-05-16T00:00:00.000Z,115,4,False,2020,Final,,110,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+264793,2021-05-16T00:00:00.000Z,136,4,False,2020,Final,,121,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+264762,2021-05-12T00:00:00.000Z,120,4,False,2020,Final,,116,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+264437,2021-04-01T00:00:00.000Z,129,6,False,2020,Final,,134,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+264549,2021-04-15T00:00:00.000Z,109,4,False,2020,Final,,120,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+264370,2021-03-24T00:00:00.000Z,108,4,False,2020,Final,,128,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+264326,2021-03-18T00:00:00.000Z,116,4,False,2020,Final,,105,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+264677,2021-05-01T00:00:00.000Z,112,4,False,2020,Final,,111,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+264427,2021-03-31T00:00:00.000Z,113,4,False,2020,Final,,103,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+264316,2021-03-17T00:00:00.000Z,119,4,False,2020,Final,,121,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+264359,2021-03-22T00:00:00.000Z,140,4,False,2020,Final,,113,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+264517,2021-04-11T00:00:00.000Z,125,4,False,2020,Final,,132,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+264724,2021-05-07T00:00:00.000Z,110,4,False,2020,Final,,90,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+264308,2021-03-16T00:00:00.000Z,113,4,False,2020,Final,,98,16,MIA,Miami,East,Southeast,Miami Heat,Heat,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+264753,2021-05-11T00:00:00.000Z,100,4,False,2020,Final,,119,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+264655,2021-04-28T00:00:00.000Z,109,4,False,2020,Final,,101,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+264538,2021-04-14T00:00:00.000Z,98,4,False,2020,Final,,100,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+264298,2021-03-15T00:00:00.000Z,99,4,False,2020,Final,,109,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+264545,2021-04-14T00:00:00.000Z,111,4,False,2020,Final,,123,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+264283,2021-03-13T00:00:00.000Z,97,4,False,2020,Final,,119,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+264333,2021-03-19T00:00:00.000Z,112,4,False,2020,Final,,115,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+264290,2021-03-14T00:00:00.000Z,97,4,False,2020,Final,,102,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+264524,2021-04-12T00:00:00.000Z,97,4,False,2020,Final,,127,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+264533,2021-04-13T00:00:00.000Z,106,4,False,2020,Final,,86,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+264278,2021-03-12T00:00:00.000Z,114,4,False,2020,Final,,99,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+264461,2021-04-04T00:00:00.000Z,115,4,False,2020,Final,,122,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+264690,2021-05-03T00:00:00.000Z,104,4,False,2020,Final,,118,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+264390,2021-03-26T00:00:00.000Z,108,4,False,2020,Final,,124,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+264596,2021-04-21T00:00:00.000Z,137,5,False,2020,Final,,127,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+264742,2021-05-09T00:00:00.000Z,96,4,False,2020,Final,,108,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+264415,2021-03-29T00:00:00.000Z,118,4,False,2020,Final,,104,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+264455,2021-04-03T00:00:00.000Z,133,5,False,2020,Final,,139,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+264348,2021-03-21T00:00:00.000Z,86,4,False,2020,Final,,100,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+264665,2021-04-30T00:00:00.000Z,93,4,False,2020,Final,,122,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+264466,2021-04-05T00:00:00.000Z,114,4,False,2020,Final,,112,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+264492,2021-04-08T00:00:00.000Z,110,4,False,2020,Final,,104,16,MIA,Miami,East,Southeast,Miami Heat,Heat,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+264400,2021-03-27T00:00:00.000Z,94,4,False,2020,Final,,111,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+264701,2021-05-04T00:00:00.000Z,105,4,False,2020,Final,,100,13,LAC,LA,West,Pacific,LA Clippers,Clippers,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+264440,2021-04-02T00:00:00.000Z,97,4,False,2020,Final,,114,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+264582,2021-04-19T00:00:00.000Z,119,4,False,2020,Final,,107,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+264553,2021-04-16T00:00:00.000Z,106,4,False,2020,Final,,103,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+264715,2021-05-06T00:00:00.000Z,118,4,False,2020,Final,,94,13,LAC,LA,West,Pacific,LA Clippers,Clippers,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+264482,2021-04-07T00:00:00.000Z,101,4,False,2020,Final,,99,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+264686,2021-05-02T00:00:00.000Z,120,4,False,2020,Final,,123,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+264500,2021-04-09T00:00:00.000Z,133,5,False,2020,Final,,129,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+264660,2021-04-29T00:00:00.000Z,126,4,False,2020,Final,,114,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+264566,2021-04-17T00:00:00.000Z,115,4,False,2020,Final,,128,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+264731,2021-05-08T00:00:00.000Z,124,4,False,2020,Final,,102,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+264637,2021-04-26T00:00:00.000Z,120,4,False,2020,Final,,103,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+264799,2021-05-16T00:00:00.000Z,128,4,False,2020,Final,,117,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+264749,2021-05-10T00:00:00.000Z,140,4,False,2020,Final,,129,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+264506,2021-04-10T00:00:00.000Z,128,4,False,2020,Final,,112,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+264293,2021-03-14T00:00:00.000Z,134,4,False,2020,Final,,99,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+264363,2021-03-23T00:00:00.000Z,128,4,False,2020,Final,,111,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+264752,2021-05-11T00:00:00.000Z,96,4,False,2020,Final,,115,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+264368,2021-03-24T00:00:00.000Z,135,4,False,2020,Final,,111,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+264694,2021-05-03T00:00:00.000Z,108,4,False,2020,Final,,123,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+264309,2021-03-16T00:00:00.000Z,125,4,False,2020,Final,,124,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+264666,2021-04-30T00:00:00.000Z,126,4,False,2020,Final,,104,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+264606,2021-04-22T00:00:00.000Z,115,4,False,2020,Final,,110,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+264381,2021-03-25T00:00:00.000Z,141,4,False,2020,Final,,119,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+264501,2021-04-09T00:00:00.000Z,119,4,False,2020,Final,,127,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+264387,2021-03-26T00:00:00.000Z,111,4,False,2020,Final,,113,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+264398,2021-03-27T00:00:00.000Z,96,4,False,2020,Final,,102,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+264405,2021-03-28T00:00:00.000Z,97,5,False,2020,Final,,101,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+264286,2021-03-13T00:00:00.000Z,103,4,False,2020,Final,,116,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+264315,2021-03-17T00:00:00.000Z,115,4,False,2020,Final,,124,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+264708,2021-05-05T00:00:00.000Z,96,4,False,2020,Final,,132,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+264413,2021-03-29T00:00:00.000Z,112,4,False,2020,Final,,107,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+264475,2021-04-06T00:00:00.000Z,96,4,False,2020,Final,,106,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+264419,2021-03-30T00:00:00.000Z,104,4,False,2020,Final,,95,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+264468,2021-04-05T00:00:00.000Z,111,4,False,2020,Final,,103,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+264627,2021-04-25T00:00:00.000Z,128,4,False,2020,Final,,119,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+264425,2021-03-31T00:00:00.000Z,101,4,False,2020,Final,,124,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+264453,2021-04-03T00:00:00.000Z,115,4,False,2020,Final,,101,16,MIA,Miami,East,Southeast,Miami Heat,Heat,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+264325,2021-03-18T00:00:00.000Z,119,4,False,2020,Final,,123,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+264460,2021-04-04T00:00:00.000Z,115,4,False,2020,Final,,107,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+264331,2021-03-19T00:00:00.000Z,121,4,False,2020,Final,,113,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+264435,2021-04-01T00:00:00.000Z,111,4,False,2020,Final,,89,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+264344,2021-03-21T00:00:00.000Z,106,5,False,2020,Final,,109,16,MIA,Miami,East,Southeast,Miami Heat,Heat,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+264340,2021-03-20T00:00:00.000Z,120,4,False,2020,Final,,113,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+264438,2021-04-02T00:00:00.000Z,118,4,False,2020,Final,,102,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+264531,2021-04-13T00:00:00.000Z,106,4,False,2020,Final,,96,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+264357,2021-03-22T00:00:00.000Z,95,4,False,2020,Final,,120,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+264592,2021-04-21T00:00:00.000Z,122,4,False,2020,Final,,116,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+264556,2021-04-16T00:00:00.000Z,99,4,False,2020,Final,,128,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+264522,2021-04-12T00:00:00.000Z,95,4,False,2020,Final,,113,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+264483,2021-04-07T00:00:00.000Z,141,4,False,2020,Final,,137,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+264659,2021-04-29T00:00:00.000Z,113,4,False,2020,Final,,130,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+264635,2021-04-26T00:00:00.000Z,100,4,False,2020,Final,,86,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+264588,2021-04-20T00:00:00.000Z,109,4,False,2020,Final,,97,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+264539,2021-04-14T00:00:00.000Z,90,4,False,2020,Final,,103,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+264721,2021-05-07T00:00:00.000Z,122,4,False,2020,Final,,112,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+264513,2021-04-11T00:00:00.000Z,87,4,False,2020,Final,,105,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+264621,2021-04-24T00:00:00.000Z,120,4,False,2020,Final,,103,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+264741,2021-05-09T00:00:00.000Z,110,4,False,2020,Final,,112,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+264685,2021-05-02T00:00:00.000Z,97,4,False,2020,Final,,122,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+264581,2021-04-19T00:00:00.000Z,97,4,False,2020,Final,,111,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+264652,2021-04-28T00:00:00.000Z,109,4,False,2020,Final,,130,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+264782,2021-05-14T00:00:00.000Z,122,4,False,2020,Final,,97,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+264699,2021-05-04T00:00:00.000Z,99,4,False,2020,Final,,102,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+264613,2021-04-23T00:00:00.000Z,118,4,False,2020,Final,,103,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+264717,2021-05-06T00:00:00.000Z,133,4,False,2020,Final,,126,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+264678,2021-05-01T00:00:00.000Z,107,4,False,2020,Final,,124,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+264733,2021-05-08T00:00:00.000Z,124,4,False,2020,Final,,116,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+264745,2021-05-10T00:00:00.000Z,115,4,False,2020,Final,,110,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+264786,2021-05-15T00:00:00.000Z,115,4,False,2020,Final,,122,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+264774,2021-05-13T00:00:00.000Z,103,4,False,2020,Final,,114,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+264794,2021-05-16T00:00:00.000Z,124,4,False,2020,Final,,95,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+264341,2021-03-20T00:00:00.000Z,111,4,False,2020,Final,,103,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+264723,2021-05-07T00:00:00.000Z,109,4,False,2020,Final,,107,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+264299,2021-03-15T00:00:00.000Z,122,4,False,2020,Final,,116,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+264295,2021-03-14T00:00:00.000Z,135,4,False,2020,Final,,115,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+264490,2021-04-08T00:00:00.000Z,102,4,False,2020,Final,,129,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+264668,2021-04-30T00:00:00.000Z,143,5,False,2020,Final,,140,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+264632,2021-04-26T00:00:00.000Z,143,5,False,2020,Final,,146,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+264452,2021-04-03T00:00:00.000Z,122,4,False,2020,Final,,113,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+264329,2021-03-19T00:00:00.000Z,96,4,False,2020,Final,,107,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+264650,2021-04-28T00:00:00.000Z,127,4,False,2020,Final,,83,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+264571,2021-04-18T00:00:00.000Z,129,4,False,2020,Final,,117,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+264511,2021-04-11T00:00:00.000Z,87,4,False,2020,Final,,124,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+264498,2021-04-09T00:00:00.000Z,120,4,False,2020,Final,,108,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+264362,2021-03-23T00:00:00.000Z,98,4,False,2020,Final,,108,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+264530,2021-04-13T00:00:00.000Z,103,4,False,2020,Final,,108,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+264404,2021-03-28T00:00:00.000Z,126,4,False,2020,Final,,102,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+264324,2021-03-18T00:00:00.000Z,101,4,False,2020,Final,,93,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+264555,2021-04-16T00:00:00.000Z,115,4,False,2020,Final,,126,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+264587,2021-04-20T00:00:00.000Z,112,4,False,2020,Final,,113,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+264356,2021-03-22T00:00:00.000Z,97,4,False,2020,Final,,100,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+264314,2021-03-17T00:00:00.000Z,105,5,False,2020,Final,,109,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+264441,2021-04-02T00:00:00.000Z,86,4,False,2020,Final,,99,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+264369,2021-03-24T00:00:00.000Z,116,4,False,2020,Final,,111,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+264537,2021-04-14T00:00:00.000Z,123,4,False,2020,Final,,117,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+264469,2021-04-05T00:00:00.000Z,101,4,False,2020,Final,,125,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+264612,2021-04-23T00:00:00.000Z,118,4,False,2020,Final,,97,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+264396,2021-03-27T00:00:00.000Z,120,4,False,2020,Final,,104,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+264349,2021-03-21T00:00:00.000Z,108,4,False,2020,Final,,113,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+264411,2021-03-29T00:00:00.000Z,88,4,False,2020,Final,,98,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+264307,2021-03-16T00:00:00.000Z,123,4,False,2020,Final,,102,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+264480,2021-04-07T00:00:00.000Z,116,4,False,2020,Final,,131,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+264593,2021-04-21T00:00:00.000Z,114,4,False,2020,Final,,103,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+264775,2021-05-13T00:00:00.000Z,118,4,False,2020,Final,,117,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+264619,2021-04-24T00:00:00.000Z,132,4,False,2020,Final,,94,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+264436,2021-04-01T00:00:00.000Z,110,5,False,2020,Final,,115,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+264389,2021-03-26T00:00:00.000Z,94,4,False,2020,Final,,109,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+264697,2021-05-04T00:00:00.000Z,124,4,False,2020,Final,,118,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+264673,2021-05-01T00:00:00.000Z,87,4,False,2020,Final,,113,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+264459,2021-04-04T00:00:00.000Z,104,4,False,2020,Final,,86,13,LAC,LA,West,Pacific,LA Clippers,Clippers,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+264423,2021-03-31T00:00:00.000Z,107,4,False,2020,Final,,111,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+264527,2021-04-12T00:00:00.000Z,97,4,False,2020,Final,,120,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+264732,2021-05-08T00:00:00.000Z,119,4,False,2020,Final,,125,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+264579,2021-04-19T00:00:00.000Z,96,4,False,2020,Final,,102,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+264474,2021-04-06T00:00:00.000Z,123,4,False,2020,Final,,107,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+264565,2021-04-17T00:00:00.000Z,106,4,False,2020,Final,,96,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+264705,2021-05-05T00:00:00.000Z,105,4,False,2020,Final,,141,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+264644,2021-04-27T00:00:00.000Z,103,4,False,2020,Final,,133,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+264657,2021-04-29T00:00:00.000Z,143,4,False,2020,Final,,136,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+264683,2021-05-02T00:00:00.000Z,119,4,False,2020,Final,,129,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+264743,2021-05-09T00:00:00.000Z,97,4,False,2020,Final,,124,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+264716,2021-05-06T00:00:00.000Z,111,4,False,2020,Final,,97,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+264689,2021-05-03T00:00:00.000Z,154,4,False,2020,Final,,141,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+264746,2021-05-10T00:00:00.000Z,146,4,False,2020,Final,,125,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+264751,2021-05-11T00:00:00.000Z,121,4,False,2020,Final,,129,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+264802,2021-05-16T00:00:00.000Z,113,4,False,2020,Final,,125,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+264795,2021-05-16T00:00:00.000Z,123,4,False,2020,Final,,109,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+264789,2021-05-15T00:00:00.000Z,118,5,False,2020,Final,,109,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+264706,2021-05-05T00:00:00.000Z,115,4,False,2020,Final,,135,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+264472,2021-04-06T00:00:00.000Z,97,4,False,2020,Final,,113,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+264586,2021-04-20T00:00:00.000Z,120,4,False,2020,Final,,134,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+264433,2021-04-01T00:00:00.000Z,116,4,False,2020,Final,,109,16,MIA,Miami,East,Southeast,Miami Heat,Heat,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+264534,2021-04-14T00:00:00.000Z,105,4,False,2020,Final,,130,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+264481,2021-04-07T00:00:00.000Z,113,4,False,2020,Final,,131,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+264787,2021-05-15T00:00:00.000Z,122,4,False,2020,Final,,108,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+264696,2021-05-04T00:00:00.000Z,113,4,False,2020,Final,,127,16,MIA,Miami,East,Southeast,Miami Heat,Heat,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+264439,2021-04-02T00:00:00.000Z,120,4,False,2020,Final,,108,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+264320,2021-03-17T00:00:00.000Z,105,4,False,2020,Final,,89,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+264570,2021-04-18T00:00:00.000Z,122,5,False,2020,Final,,112,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+264386,2021-03-26T00:00:00.000Z,108,4,False,2020,Final,,113,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+264367,2021-03-24T00:00:00.000Z,112,4,False,2020,Final,,111,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+264489,2021-04-08T00:00:00.000Z,122,4,False,2020,Final,,103,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+264633,2021-04-26T00:00:00.000Z,121,4,False,2020,Final,,90,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+264407,2021-03-29T00:00:00.000Z,132,4,False,2020,Final,,124,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+264416,2021-03-29T00:00:00.000Z,129,4,False,2020,Final,,105,13,LAC,LA,West,Pacific,LA Clippers,Clippers,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+264688,2021-05-03T00:00:00.000Z,112,4,False,2020,Final,,119,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+264496,2021-04-09T00:00:00.000Z,145,5,False,2020,Final,,136,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+264643,2021-04-27T00:00:00.000Z,103,4,False,2020,Final,,116,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+264339,2021-03-20T00:00:00.000Z,125,4,False,2020,Final,,98,13,LAC,LA,West,Pacific,LA Clippers,Clippers,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+264355,2021-03-22T00:00:00.000Z,132,5,False,2020,Final,,126,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+264779,2021-05-14T00:00:00.000Z,93,4,False,2020,Final,,109,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+264395,2021-03-27T00:00:00.000Z,107,4,False,2020,Final,,129,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+264450,2021-04-03T00:00:00.000Z,128,4,False,2020,Final,,129,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+264507,2021-04-10T00:00:00.000Z,125,4,False,2020,Final,,109,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+264418,2021-03-30T00:00:00.000Z,104,4,False,2020,Final,,114,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+264403,2021-03-28T00:00:00.000Z,96,4,False,2020,Final,,93,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+264674,2021-05-01T00:00:00.000Z,106,4,False,2020,Final,,102,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+264681,2021-05-02T00:00:00.000Z,111,4,False,2020,Final,,121,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+264510,2021-04-11T00:00:00.000Z,109,4,False,2020,Final,,116,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+264722,2021-05-07T00:00:00.000Z,121,4,False,2020,Final,,112,16,MIA,Miami,East,Southeast,Miami Heat,Heat,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+264365,2021-03-23T00:00:00.000Z,100,4,False,2020,Final,,110,16,MIA,Miami,East,Southeast,Miami Heat,Heat,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+264590,2021-04-21T00:00:00.000Z,113,4,False,2020,Final,,116,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+264457,2021-04-04T00:00:00.000Z,117,4,False,2020,Final,,111,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+264426,2021-03-31T00:00:00.000Z,87,4,False,2020,Final,,92,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+264521,2021-04-12T00:00:00.000Z,117,4,False,2020,Final,,110,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+264771,2021-05-13T00:00:00.000Z,90,4,False,2020,Final,,113,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+264618,2021-04-24T00:00:00.000Z,129,4,False,2020,Final,,116,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+264465,2021-04-05T00:00:00.000Z,116,4,False,2020,Final,,106,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+264529,2021-04-13T00:00:00.000Z,115,4,False,2020,Final,,126,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+264763,2021-05-12T00:00:00.000Z,102,4,False,2020,Final,,94,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+264648,2021-04-28T00:00:00.000Z,120,4,False,2020,Final,,111,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+264792,2021-05-16T00:00:00.000Z,113,4,False,2020,Final,,101,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+264558,2021-04-16T00:00:00.000Z,113,4,False,2020,Final,,102,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+264562,2021-04-17T00:00:00.000Z,119,4,False,2020,Final,,114,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+264757,2021-05-11T00:00:00.000Z,107,4,False,2020,Final,,115,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+264744,2021-05-10T00:00:00.000Z,119,4,False,2020,Final,,116,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+264740,2021-05-09T00:00:00.000Z,126,4,False,2020,Final,,98,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+264713,2021-05-06T00:00:00.000Z,113,4,False,2020,Final,,109,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+127732,2021-01-22T00:00:00.000Z,110,4,False,2020,Final,,123,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+127729,2021-01-21T00:00:00.000Z,104,4,False,2020,Final,,119,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+127827,2021-02-02T00:00:00.000Z,124,4,False,2020,Final,,120,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+127806,2021-01-30T00:00:00.000Z,112,4,False,2020,Final,,126,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+127641,2021-01-09T00:00:00.000Z,113,4,False,2020,Final,,105,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+127820,2021-02-01T00:00:00.000Z,100,4,False,2020,Final,,98,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+127890,2021-02-10T00:00:00.000Z,115,4,False,2020,Final,,137,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+127559,2020-12-30T00:00:00.000Z,145,4,False,2020,Final,,141,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+127866,2021-02-07T00:00:00.000Z,103,4,False,2020,Final,,109,20,NYK,New York,East,Atlantic,New York Knicks,Knicks,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+127703,2021-01-17T00:00:00.000Z,105,4,False,2020,Final,,109,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+127606,2021-01-05T00:00:00.000Z,92,4,False,2020,Final,,94,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+127692,2021-01-16T00:00:00.000Z,122,4,False,2020,Final,,115,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+127668,2021-01-13T00:00:00.000Z,101,4,False,2020,Final,,110,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+127796,2021-01-29T00:00:00.000Z,131,4,False,2020,Final,,126,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+127553,2020-12-29T00:00:00.000Z,86,4,False,2020,Final,,95,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+127601,2021-01-04T00:00:00.000Z,103,4,False,2020,Final,,83,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+127590,2021-01-03T00:00:00.000Z,120,4,False,2020,Final,,122,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+127633,2021-01-08T00:00:00.000Z,118,4,False,2020,Final,,131,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+127569,2020-12-31T00:00:00.000Z,122,4,False,2020,Final,,119,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+127705,2021-01-18T00:00:00.000Z,120,4,False,2020,Final,,105,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+127584,2021-01-02T00:00:00.000Z,102,4,False,2020,Final,,94,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+127577,2021-01-01T00:00:00.000Z,93,4,False,2020,Final,,108,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+127971,2021-02-21T00:00:00.000Z,120,5,False,2020,Final,,115,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+128017,2021-02-27T00:00:00.000Z,109,5,False,2020,Final,,112,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+128059,2021-03-04T00:00:00.000Z,132,4,False,2020,Final,,125,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+127776,2021-01-27T00:00:00.000Z,106,4,False,2020,Final,,116,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+127879,2021-02-09T00:00:00.000Z,122,4,False,2020,Final,,111,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+127612,2021-01-06T00:00:00.000Z,114,4,False,2020,Final,,107,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+127649,2021-01-10T00:00:00.000Z,86,4,False,2020,Final,,96,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+127657,2021-01-11T00:00:00.000Z,109,4,False,2020,Final,,88,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+127896,2021-02-12T00:00:00.000Z,120,4,False,2020,Final,,114,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+127841,2021-02-04T00:00:00.000Z,105,4,False,2020,Final,,121,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+127906,2021-02-12T00:00:00.000Z,112,4,False,2020,Final,,123,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+127857,2021-02-06T00:00:00.000Z,119,4,False,2020,Final,,114,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+128042,2021-03-02T00:00:00.000Z,111,4,False,2020,Final,,125,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+127771,2021-01-26T00:00:00.000Z,107,4,False,2020,Final,,88,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+127766,2021-01-25T00:00:00.000Z,119,4,False,2020,Final,,104,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+127756,2021-01-24T00:00:00.000Z,102,4,False,2020,Final,,107,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+127934,2021-02-16T00:00:00.000Z,112,4,False,2020,Final,,99,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+127722,2021-01-20T00:00:00.000Z,123,5,False,2020,Final,,115,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+127749,2021-01-23T00:00:00.000Z,108,4,False,2020,Final,,133,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+127998,2021-02-24T00:00:00.000Z,107,4,False,2020,Final,,111,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+127834,2021-02-03T00:00:00.000Z,111,4,False,2020,Final,,118,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+127812,2021-01-31T00:00:00.000Z,128,4,False,2020,Final,,117,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+127874,2021-02-08T00:00:00.000Z,119,4,False,2020,Final,,94,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+127963,2021-02-20T00:00:00.000Z,102,4,False,2020,Final,,100,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+127920,2021-02-14T00:00:00.000Z,118,4,False,2020,Final,,121,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+127846,2021-02-05T00:00:00.000Z,121,4,False,2020,Final,,138,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+128029,2021-02-28T00:00:00.000Z,105,4,False,2020,Final,,100,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+127924,2021-02-15T00:00:00.000Z,112,5,False,2020,Final,,120,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+128013,2021-02-26T00:00:00.000Z,124,4,False,2020,Final,,116,16,MIA,Miami,East,Southeast,Miami Heat,Heat,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+127980,2021-02-22T00:00:00.000Z,94,4,False,2020,Final,,109,12,IND,Indiana,East,Central,Indiana Pacers,Pacers,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+127987,2021-02-23T00:00:00.000Z,112,4,False,2020,Final,,111,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+127895,2021-02-11T00:00:00.000Z,95,4,False,2020,Final,,111,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+127909,2021-02-13T00:00:00.000Z,120,4,False,2020,Final,,111,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+127955,2021-02-19T00:00:00.000Z,121,4,False,2020,Final,,109,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+128052,2021-03-03T00:00:00.000Z,111,4,False,2020,Final,,114,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+128036,2021-03-01T00:00:00.000Z,124,4,False,2020,Final,,130,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+128001,2021-02-25T00:00:00.000Z,111,4,False,2020,Final,,97,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+127942,2021-02-17T00:00:00.000Z,99,4,False,2020,Final,,120,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+127688,2021-01-15T00:00:00.000Z,120,4,False,2020,Final,,91,9,DET,Detroit,East,Central,Detroit Pistons,Pistons,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
